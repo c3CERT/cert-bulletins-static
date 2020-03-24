@@ -1,8 +1,102 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 24 Mar 2020 12:43:22 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 23.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_23/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_23/</guid><pubDate>Mon, 23 Mar 2020 22:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 24 Mar 2020 23:17:25 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 24.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_24/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_24/</guid><pubDate>Tue, 24 Mar 2020 22:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das Covid-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Eine globale Studie der Welt­gesund­heits­organi­sation (WHO) soll auf schnellstem Weg ein wirksames Mittel zur Behandlung von COVID-19 finden. Getestet werden in der Studie namens SOLIDARITY 4 Medikamente beziehungsweise Medikamenten­kombinationen: das Virostatikum Remdesivir, das Malaria-Medikament Chloroquin, die HIV-Kombination Lopinavir/Ritonavir und diese Kombination ergänzt um Beta-Interferon. Das Studiendesign der SOLIDARITY-Studie ist bewusst einfach gehalten, sodass auch von der Epidemie überlastete Krankenhäuser noch teilnehmen können.</p>
+<ul>
+<li><a href="https://www.aerzteblatt.de/nachrichten/111267/WHO-testet-in-globaler-Studie-4-Therapeutika-auf-Wirkung-bei-COVID-19">Ärzteblatt</a></li>
+</ul>
+<p>In Europa, koordiniert durch die staatl. französische Forschungseinrichtung INSERM, beginnt mit der DISCOVERY-Studie (randomisiert, offen, fünfarmig) eine Erprobung von fünf Pharmaka (Remdesivir, Lopinavir/Ritonavir, beta-Interferon, Hydroxychloroquin) und damit vier potenziellen Therapien. Das INSERM hat hierzu eine <a href="https://presse.inserm.fr/en/launch-of-a-european-clinical-trial-against-covid-19/38737/">Pressemitteilung</a> in englischer Sprache veröffentlicht.</p>
+<p>Eine Studie im Preprint aus Hong Kong zeigt, dass Patienten im Mittel bis zu zwei Tage vor Auftreten der ersten Symptome bereits infektiös sind und kurz vor oder beim Auftreten der ersten Symptome die höchste Konzentration an Viruspartikeln im oberen Rachenraum aufweisen. Die Studie wurde im heutigen Podcast mit Prof. Dr. Drosten detaillierter beleuchtet.</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.03.15.20036707v2">Medrxiv</a></li>
+</ul>
+<p>Nachdem COVID-19-Patienten über längeren Zeitraum beatmet wurden, müssen sie von der Beatmung wieder entwöhnt werden. Was hierbei beachtet werden muss, hat das Deutsche Ärzteblatt aufgeschrieben.</p>
+<ul>
+<li><a href="https://bulletin.cert.ccc.de/papers/Beatmungsentwoehnung_Covid19.pdf">Guideline Beatmungsentwöhnung</a></li>
+</ul>
+<p>Das Robert-Koch-Institut (RKI) hat Hinweise zum ambulanten Management von COVID-19-Verdachtsfällen und leicht erkrankten, bestätigten COVID-19-Patienten sowie Empfehlungen zum Umgang mit COVID-19 Verstorbenen herausgegeben.</p>
+<ul>
+<li><a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/ambulant.html">Ambulantes Management</a></li>
+<li><a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Verstorbene.html">Hinweise zu Verstorbenen</a></li>
+</ul>
+<p>Auch zur häuslichen Isolierung bei bestätigter COVID-19-Erkrankung hat das RKI ein Informationsblatt für Patienten und Angehörige veröffentlicht.</p>
+<ul>
+<li><a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Flyer_Patienten.pdf?__blob=publicationFile">Infomationsblatt</a></li>
+</ul>
+<p>Auch wurde bezüglich der Vorgehensweise bei einem COVID19-Verdachtsfall ein neues Flussschema veröffentlicht. Es bietet einen Überblick über die zu ergreifenden persönlichen Schutzmaßnahmen sowie die notwendigen diagnostischen Schritte.</p>
+<ul>
+<li><a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Massnahmen_Verdachtsfall_Infografik_DINA3.pdf?__blob=publicationFile">Flussschema Verdachtsfall</a></li>
+</ul>
+<p>Die Deutsche Gesellschaft für Allgemeinmedizin und Familienmedizin hat für die hausärztliche Praxis einige übersichtliche Empfehlungen zum neuen Corona-Virus veröffentlicht.</p>
+<ul>
+<li><a href="https://bulletin.cert.ccc.de/papers/DEGAM_Leitlinie_S1_zu_Covid-19.pdf">DEGAM Leitlinie</a></li>
+</ul>
+<p>Des Weiteren gibt es Handlungsempfehlungen für die Behandlung von Covid-19-Patienten aus palliativmedizinischer Sicht</p>
+<ul>
+<li><a href="https://www.awmf.org/fileadmin/user_upload/Leitlinien/053_D_Ges_fuer_Allgemeinmedizin_und_Familienmedizin/054-054hi_S1_Neues_CORONA_Virus_2020-03.pdf">Handlungsempfehlung COVID19 in häuslicher Absonderung</a></li>
+<li><a href="https://www.awmf.org/uploads/tx_szleitlinien/128-001l_S1_palliative_Therapie_bei_COVID-19_2020-03.pdf">Palliative Therapie</a></li>
+</ul>
+<p>Um alle Möglichkeiten in der Prävention von schweren Verläufen auszuschöpfen, gibt es hier Handlungsempfehlungen zur grundsätzlichen Pneumonieprophylaxe. Nicht allein in der derzeitigen Situation sind diese Empfehlungen für erkrankte Menschen gedacht, um einer Lungenentzündung u.a. mit Hilfe eines Atemtrainers vorzubeugen.</p>
+<ul>
+<li><a href="https://www.dbfk.de/media/docs/regionalverbaende/rvno/AGPQ/AGPQ-Handlungsempfehlung-Pneumonieprophylaxe-2.0-2017_2.pdf">Pneumonieprophylaxe</a></li>
+</ul>
+<p>Informationen zu pharmakologischen Interaktionen der experimentellen Covid-19-Medikamenten bietet die University of Liverpool.</p>
+<ul>
+<li><a href="http://www.covid19-druginteractions.org">COVID19 drug interactions</a></li>
+</ul>
+<h2 id="wirtschaft">Wirtschaft</h2>
+<p>Das Bundesministerium für Wirtschaft und Energie verspricht Kleinunternehmern und Vermietern, die durch die derzeitigen Einschränkungen im gesellschaftlichen Leben finanzielle Einbußen erwarten, unbürokratische Finanzhilfen. Bis nächste Woche soll klar sein, wo die Gelder beantragt werden können.</p>
+<ul>
+<li><a href="https://www.bmwi.de/Redaktion/DE/Dossier/coronavirus.html">BMWI</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<h4 id="nun-doch-standortdaten-von-der-telekom">Nun doch Standortdaten von der Telekom</h4>
+<p>Die Deutsche Telekom hat heute erneut einen Datensatz anonymisierten Messdaten an das Robert Koch-Institut weitergeben. Bundesminister Spahn hatte zuvor in einem Gesetzentwurf versucht, Mobilfunkanbieter wie die Telekom in Krisensituation zur Herausgabe von nicht anoymisierten Datensätzen verpflichten zu können. Im Verlauf wurde dieser Passus ersatzlos gestrichen. Trotz der Anonymisierung enthält der übertragene Datensatz neben den technischen Messdaten die ersten Stellen der Postleitzahl, die Altersgruppe in Dekadenschritten sowie das Geschlecht des Vertragspartners, womit zumindest Rückschlüsse auf Personengruppen möglich sind. Der Erhebung der Messdaten kann nicht widersprochen werden, da es sich um für die Fehlersuche benötigte Messdaten handelt.</p>
+<ul>
+<li><a href="https://www.spiegel.de/netzwelt/netzpolitik/coronavirus-telekom-uebergibt-zweiten-handydatensatz-ans-robert-koch-institut-a-b1659a1f-7715-41d3-9c7a-685512940090">Spiegel.de</a></li>
+</ul>
+<p>Jedoch kann zumindest der Vermarkung auf den Webauftritt der Tochterfirma Motionlogic widersprochen werden.</p>
+<ul>
+<li><a href="https://www.optout-service.telekom-dienste.de/public/anmeldung.jsp">Opt Out der Telekom</a></li>
+</ul>
+<p>Das DIN (Deutsches Institut für Normung) stellt die Normen für medizinische Ausrüstung aktuell kostenlos zur Verfügung.</p>
+<ul>
+<li><a href="https://www.din.de/de/din-und-seine-partner/presse/mitteilungen/covid-19-din-stellt-normen-fuer-medizinische-ausruestung-zur-verfuegung-708596">DIN</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<h4 id="informationen-zum-notfall-kiz-und-kinderzuschlag">Informationen zum Notfall-KiZ und Kinderzuschlag</h4>
+<p>Der Kinderzuschlag unterstützt Alleinerziehende und Familien mit wenig Einkommen. Um Eltern und ihre Kinder in der Corona-Zeit zu unterstützen, hat das Bundesfamilienministerium den Notfall-Kinderzuschlag gestartet.</p>
+<ul>
+<li><a href="https://www.bmfsfj.de/kiz">BMFSFJ</a></li>
+</ul>
+<p>In der derzeitigen Situation treten auch personelle sowie materielle Engpässe im Rettungsdienst zutage. So geht man beispielsweise bei einem Teil der Helfer von Mehrfachregistrierung durch Überschneidung von Beruf und Ehrenamt aus. Auch wurden in den letzten Jahren wichtige Materiallager und Ausweichräumlichkeiten eingespart, wodurch in einer kritischeren Lageentwicklung Reserven fehlen.</p>
+<ul>
+<li><a href="https://www.spiegel.de/panorama/gesellschaft/corona-krise-wie-rettungsdienste-und-katastrophenschutz-vorbereitet-sind-a-11ae572a-fa86-4f49-b82e-b7d6493c411d">Spiegel.de</a></li>
+</ul>
+<p>Versicherungsrechtliche Fragen im Zusammenhang mit Covid19:</p>
+<ul>
+<li><a href="https://www.dguv.de/landesverbaende/de/medien/faq/aktuelles_corona_dav/index.jsp">DGUV</a></li>
+<li><a href="https://www.bgw-online.de/DE/Home/Branchen/News/Coronavirus_node.html">BGW</a></li>
+</ul>
+<p>Die Eigenmedikation mit Chloroquin forderte erste Todesopfer. So starb in Arizona ein Mann, der ein chloroquinhaltiges Medikament für Aquarien eingenommen hatte. Auch in Nigeria, wo der Wirkstoff als Reservemedikament gegen Malaria vorgehalten wird, gab es zwei Vergiftungen.</p>
+<ul>
+<li><a href="https://edition.cnn.com/2020/03/23/health/arizona-coronavirus-chloroquine-death/index.html">CNN</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2020-03-21/nigeria-reports-chloroquine-poisonings-after-trump-praised-drug">Bloomberg</a></li>
+</ul>
+<p>Die aktuelle Situation bringt viele Einschnitte und Unsicherheiten im (sozialen) Leben mit sich. Die Berliner Telefonseelsorge hat ab sofort eine Hotline geschaltet, um bei Fragen und Ängsten zur aktuellen Situation Hilfestellung bieten zu können. Die Hotline ist täglich zwischen 8 und 18 Uhr erreichbar.</p>
+<ul>
+<li><a href="https://www.notfallseelsorge-berlin.de/corona-seelsorge">Notfallseelsorge Berlin</a></li>
+</ul>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. Und mache Koniferen sind sogar ein ganzer Nadelwald.</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 23.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_23/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_23/</guid><pubDate>Mon, 23 Mar 2020 22:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren tägliches Updates rund um das Covid-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Das Robert-Koch-Institut (RKI) beschreibt Optionen zum Management von Kontaktpersonen unter medizinischem Personal bei Personalmangel. <a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/HCW.html">RKI</a></p>
-<p>Das Deutsche Hygiene-Institut (DHI) bestätigt die Möglichkeit der Übertragung über Oberflächen. So soll das Virus bis zu 3 Stunden als Aersol, bis zu 4 Stunden auf Kupferoberflächen wie Münzen, bis zu 24 Stunden auf Karton und damit auch auf Banknoten und 2 bis 3 Tage auf Plastik und Edelstahl viral nachweisbar sein. Jedoch wurden durch Prof. Dr. Drosten einige Limitierungen dieser Studie im Bezug auf Alltagssituationen aufgewiesen.</p>
+<p>Das Deutsche Hygiene-Institut (DHI) bestätigt die Möglichkeit der Übertragung über Oberflächen. So soll das Virus bis zu 3 Stunden in einem Aersol, bis zu 4 Stunden auf Kupferoberflächen wie Münzen, bis zu 24 Stunden auf Karton und damit auch auf Banknoten und 2 bis 3 Tage auf Plastik und Edelstahl viral nachweisbar sein. Jedoch wurden durch Prof. Dr. Drosten einige Limitierungen dieser Studie im Bezug auf Alltagssituationen aufgewiesen.</p>
 <ul>
 <li><a href="https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v2">Medrxiv</a></li>
 <li><a href="https://www.ndr.de/nachrichten/info/coronaskript128.pdf">NDR</a></li>
@@ -129,8 +223,8 @@ Und hier gibt es eine übersichtliche grafische Fassung:</p>
 <p>Drei große Mobilfunkanbieter in Deutschland (Deutsche Telekom, Telefonica, Vodafone) sollten ursprünglich im Laufe der nächsten Woche erneut Massendaten an das Robert-Koch-Institut (RKI) übermitteln. Die Deutsche Telekom hat bereits diese Woche begonnen anonymisierte Daten an das RKI zu übermitteln. Diese Daten werden seit Jahren erfasst und in den meisten Fällen vermarktet. Bei der Deutschen Telekom erfolgt die Vermarkung über die Tochtergesellschaft Motionlogic. Das RKI wollte diese Daten nutzen, um die Bewegungen der Menschen im Land zu analysieren und damit die Wirkung der bereits beschlossenen Maßnahmen indirekt zu überwachen. Ihr könnt der Speicherung der Daten nicht widersprechen, da es sich um Messdaten handelt. Jedoch könnt ihr unter den nachfolgenden Links der weiteren Verwendung der Daten in Analysen widersprechen.</p>
 <ul>
 <li><a href="https://www.telekom.com/de/konzern/details/corona-vorhersage-telekom-unterstuetzt-rki-596772">Blog Telekom</a></li>
-<li><a href="https://www.optout-service.telekom-dienste.de/public/anmeldung.jsp">Telekom</a></li>
-<li><a href="https://www.telefonica.de/dap/selbst-entscheiden.html">O2</a></li>
+<li><a href="https://www.optout-service.telekom-dienste.de/public/anmeldung.jsp">Opt Out der Telekom</a></li>
+<li><a href="https://www.telefonica.de/dap/selbst-entscheiden.html">Opt Out O2</a></li>
 </ul>
 <p>Vodafone: In MeinVodafone einloggen, Datenschutz-Einstellungen, Verbindungsdaten auswählen. Dort können Verkehrsdaten und Standortdaten deaktiviert werden.</p>
 <h4 id="hackathon-wirvsvirus">Hackathon WirvsVirus</h4>
