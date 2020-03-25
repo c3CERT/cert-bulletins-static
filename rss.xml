@@ -1,4 +1,94 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 24 Mar 2020 23:17:25 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 24.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_24/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_24/</guid><pubDate>Tue, 24 Mar 2020 22:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das Covid-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Wed, 25 Mar 2020 20:57:45 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 25.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_25/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_25/</guid><pubDate>Wed, 25 Mar 2020 21:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das Covid-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Frau Jehle, Oberärztin Anästhesiologie und Intensivmedizin im Krankenhaus Mecklenburg-Strelitz, hat jeweils eine SOP zur Therapie  und zur Intubation/Bronchoskopie von COVID-19 erstellt.</p>
+<ul>
+<li><a href="https://bulletin.cert.ccc.de/papers/2020-03-23_BLL_Therapie_von_COVID-19-Patienten.pdf">Therpie von Covid19</a></li>
+<li><a href="https://bulletin.cert.ccc.de/papers/2020-03-23_BLL_Vorgehen_bei_ITN_unter_COVID-19.pdf">Intubation unter Covid19</a></li>
+</ul>
+<p>Übersicht von Amboss rund um Covid-19.</p>
+<ul>
+<li><a href="https://www.amboss.com/de/wissen/covid-19">Amboss</a></li>
+</ul>
+<p>Podcastfolge von &ldquo;abhoeren&rdquo;, in der die Grundlagen von Beatmung und ARDS besprochen werden.</p>
+<ul>
+<li><a href="https://pca.st/p4ayyphi">abhoeren #18</a></li>
+</ul>
+<p>Einer Forschergruppe der Universität zu Lübeck ist es gelungen, die Hauptprotease von Sars-CoV-2 in ihrer Kristallstruktur darzustellen und könnte damit eine Möglichkeit für die molekulare Modifikation bereits vorhandener Inhibitoren bieten.</p>
+<ul>
+<li><a href="https://science.sciencemag.org/content/early/2020/03/20/science.abb3405.long">Science</a></li>
+</ul>
+<p>Nun gibt es auch eine gemeinsame Handlungsempfehlung mehrerer Berufsverbände aus Deutschland zu der schwierigen klinisch-ethischen Frage in dem wahrscheinlichen Allokationsproblem der medizinischen Ressourcen.</p>
+<ul>
+<li><a href="https://dynamic.faz.net/download/2020//COVID-19_Ethik_Empfehlung_Endfassung_2020-03-25.pdf">FAZ</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Der Bundestag hat am 25. März drei Gesetzesentwürfe als Hilfspaket für die Bereiche Gesundheit, Arbeit und Soziales angenommen. Der Gesetzesentwurf zum Schutz der Bevölkerung (19/18111) legt die Möglichkeit einer Koordination und den Informationsaustausch zwischen den Ländern, dem Bund sowie beteiligter Behörden und sonstiger Stellen durch das RKI bei einer epidemischen Lage fest.</p>
+<ul>
+<li><a href="http://dip21.bundestag.de/dip21/btd/19/181/1918111.pdf">Drucksache 19/18111</a></li>
+</ul>
+<p>Der zweiten angenommenen Gesetzesentwurf behandelt die finanzielle Entlastung der Krankenhäuser und weiterer Gesundheitseinrichtungen (19/18112).</p>
+<ul>
+<li><a href="http://dip21.bundestag.de/dip21/btd/19/181/1918112.pdf">Drucksache 19/18112</a></li>
+</ul>
+<p>Als drittes Gesetz stimmte der Bundestag dem erleichterten Zugang zu sozialer Sicherung angesichts der Pandemie zu.</p>
+<ul>
+<li><a href="http://dip21.bundestag.de/dip21/btd/19/181/1918107.pdf">Drucksache 19/18107</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Das Projekt Folding@Home übertrifft nun die Gesamtrechenleistung kommender Supercomputer. Das Projekt basiert auf dem Konzept des verteilten Rechnens und nutzt nach dem Installieren eines Clients die ungenutzte Rechenkapazität des Computers. Komplexe Fragestellungen werden durch das Netzwerk in kleine Arbeitspakete unterteilt und anschließend durch die Computer im Netzwerk berechnet. So entsteht eine Gesamtrechenkapazität vom 797.997 Teraflops.</p>
+<ul>
+<li><a href="https://stats.foldingathome.org/os">Statistiken des Projekts</a></li>
+<li><a href="https://foldingathome.org/">Hompage des Projekts</a></li>
+<li><a href="https://www.golem.de/news/coronakrise-sars-cov-2-forschung-ueberschreitet-1-exaflops-2003-147495.html">Golem</a></li>
+</ul>
+<p>Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) Prof. Ulrich Kelber hat eine Stellungnahme zum Entwurf eines Gesetzes zum Schutz der Bevölkerung bei einer epidemischen Lage von nationaler Tragweite herausgebracht. In der Stellungnahme äußert er Bedenken zum Entwurf, begrüßt aber, dass die Funkortung wieder aus dem Entwurf gestrichen worden sei.</p>
+<ul>
+<li><a href="https://www.bfdi.bund.de/DE/Infothek/Transparenz/Stellungnahmen/2020/StgN_Novelle-InfektionsschutzG-Bundestag.pdf?__blob=publicationFile&amp;v=1">Stellungnahme des BfDI</a></li>
+</ul>
+<h2 id="aufrufeappelle">Aufrufe/Appelle</h2>
+<p>Die Weltgesundheitsorganisation (WHO) ruft all ihre Mitglieder auf, die durch Lockdown-Maßnahmen gewonnen Zeit zu nutzen. Das Virus habe nach Angaben der WHO nun eine zweite Möglichkeit des Angriffs und es gelte die Zeit, bis zu dieser zweiten Welle zu nutzen. Sie ruft unter anderem dazu auf, Personal im öffentlichen Gesundheitswesen zu rekrutieren und aufzustocken und ein engmaschiges Testsystem zu implementieren um jeden Verdachtsfall auf Gemeindeebene zu finden. Des Weiteren fordert sie angemessene Einrichtungen zur Behandlung und Isolierung von an Covid19 erkrankten Personen.</p>
+<ul>
+<li><a href="https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---25-march-2020">WHO Transkript der Pressekonferenz</a></li>
+<li><a href="https://www.youtube.com/watch?v=MZn-q7_fEMA">Aufzeichung der Pressekonferenz</a></li>
+</ul>
+<p>Neben dem Bundesverband der Honorarärzte ruft nun auch die DGIV die Bundesregierung zum aussetzen der Sozialversicherungspflicht für Honarärzte auf. Sie stelle eine Hürde</p>
+<p><a href="http://dgiv.org/wp-content/uploads/2020/03/DGIV-Pressemitteilung_Sozialversicherungspflicht-f%C3%BCr-honorar%C3%A4rztliche-T%C3%A4tigkeit-schnell-aussetzen.pdf">http://dgiv.org/wp-content/uploads/2020/03/DGIV-Pressemitteilung_Sozialversicherungspflicht-f%C3%BCr-honorar%C3%A4rztliche-T%C3%A4tigkeit-schnell-aussetzen.pdf</a></p>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Die Weltgesundheitsorganisation (WHO) hat auf ihre Publikation aus dem Jahre 2010 hingewiesen. In dieser werden ethische Fragestellungen nach dem Ausbruch einer Infektionskrankheit erörtert. So kann es laut WHO ethisch angemessen sein, einzelnen Patienten außerhalb klinischer Studien experimentelle Interventionen auf Notfallbasis anzubieten, vorausgesetzt, es gibt keine nachweislich wirksame Behandlung. Wenn die ersten Ergebnisse einer unbewiesenen oder experimentellen Behandlung vielversprechend sind, sollte die Behandlung im Rahmen einer formellen klinischen Studie untersucht werden, um ihre Sicherheit, Wirksamkeit, Risiken und Vorteile zu ermitteln.</p>
+<ul>
+<li><a href="https://www.who.int/ethics/publications/infectious-disease-outbreaks/en/#_ftn1">Managing Ethical Issues in Infectious Disease Outbreaks</a></li>
+</ul>
+<p>Die Gesellschaft für Freiheitsreche (GFF) sowie digitalcourage e.V. haben eine umfangreiche Informationssammlung zu Grund- und Freiheitsrechtsbeschränkungen im Zuge der Pandemie im Q&amp;A-Stil erstellt.</p>
+<ul>
+<li><a href="https://freiheitsrechte.org/corona-und-grundrechte/">GFF</a></li>
+<li><a href="https://digitalcourage.de/blog/2020/im-blick-grundrechte-und-corona-massnahmen">digitalcourage</a></li>
+</ul>
+<p>Das Merkblatt der Bundesagentur für Arbeit zum Thema Kinderzuschlag.
+<a href="https://www.arbeitsagentur.de/datei/KiZ2-MerkblattKinderzuschlag_ba015395.pdf">Merkblatt der Arbeitsagentur</a></p>
+<p>Der Berufsverband Deutscher Psychologinnen und Psychologen hat eine Hotline eingerichtet, welche täglich von 08:00 Uhr - 20:00 Uhr unter 0800 777 22 44 erreicht werden kann.</p>
+<ul>
+<li><a href="https://www.bdp-verband.de/aktuelles/2020/corona/bdp-corona-hotline.html">Hotline für PsychologInnen</a></li>
+</ul>
+<p>Die Deutsche Gesellschaft für Krankenhaushygiene (DGKH) fordert, dass anstelle von allgemeinen Kontaktsperren Menschen aus Risikogruppen besser geschützt werden sollen. Für einen maximalen Schutz der Risikogruppen sei eine konsequente Kontrolle der Übertragungsrisiken in Pflege- und Altenheimen durch Besuchssperren und Zugangskontrollen erforderlich, so der Vorstand der DGKH.</p>
+<ul>
+<li><a href="https://www.aerzteblatt.de/nachrichten/111304/Gesellschaft-fuer-Krankenhaushygiene-fordert-strategischen-Schutz-von-Risikogruppen-statt-ungezielter-Kontaktsperren">Ärzteblatt</a></li>
+</ul>
+<p>Der Blutspendedienst des DRK hat Informationen zum Thema Blutspenden in Zeiten von SARS-CoV-2 herausgegeben. So ist aktuell kein Fall einer Übertragung des Virus durch Bluttransfusion bekannt.</p>
+<ul>
+<li><a href="https://www.blutspendedienst-west.de/magazin/gesundheit/ruhig-blut-blutspenden-zeiten-des-coronavirus-sars-cov-2">Information Blutspende</a></li>
+</ul>
+<p>Deutschland muss sich aktuell mit dem Vorwurf des Egoismus auseinandersetzen. Dieser ist entstanden aufgrund des Exportvorbehalts für medizinische Schutzgüter und weil nicht auf die Aktivierung des EU-Katastrophenmechanismus reagiert worden sei. Obwohl auch andere Länder einen Exportstopp für Schutzgüter veranlasst haben, liegt der Fokus auf Deutschland, da es sich um das wirtschaftlich stärkste Land in der EU handelt.</p>
+<ul>
+<li><a href="https://de.reuters.com/article/virus-deutschland-idDEKBN21C2XE">Reuters</a></li>
+</ul>
+<p>Es wird gemeldet, dass es vermehrt zu &ldquo;Scherzen&rdquo; käme, in deren Verlauf eine vorsätzliche Infektion mit SARS-CoV-2 durch Anhusten suggeriert wird. Dies ist auf vielen Ebenen als antisozial und widerwärtig einzustufen: Die vermeintliche Infektion mit einer zumindest potenziell tödlichen Erkrankung erfüllt nicht wenige Menschen mit Angst. Zudem ergibt sich durch das Anhusten auch die ganz reale Gefahr der Virusübertragung, durch einen klinisch stummen Träger. Ganz gleich, ob ihr es durch die juristische, die menschliche oder die zivilisatorische Brille betrachtet: Behaltet eure Spucke bei Euch! <a href="https://www.presseportal.de/blaulicht/pm/14915/4556566">Presseportal der Polizei</a></p>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an  <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.s. Ein Brett vor dem Kopf ist kein suffizienter Spuckschutz.</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 24.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_24/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_24/</guid><pubDate>Tue, 24 Mar 2020 22:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das Covid-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Eine globale Studie der Welt­gesund­heits­organi­sation (WHO) soll auf schnellstem Weg ein wirksames Mittel zur Behandlung von COVID-19 finden. Getestet werden in der Studie namens SOLIDARITY 4 Medikamente beziehungsweise Medikamenten­kombinationen: das Virostatikum Remdesivir, das Malaria-Medikament Chloroquin, die HIV-Kombination Lopinavir/Ritonavir und diese Kombination ergänzt um Beta-Interferon. Das Studiendesign der SOLIDARITY-Studie ist bewusst einfach gehalten, sodass auch von der Epidemie überlastete Krankenhäuser noch teilnehmen können.</p>
 <ul>
