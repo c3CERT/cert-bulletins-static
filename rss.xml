@@ -1,4 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Fri, 27 Mar 2020 21:47:27 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 27.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_02_27/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_02_27/</guid><pubDate>Fri, 27 Mar 2020 21:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 28 Mar 2020 22:48:52 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 28.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_02_28/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_02_28/</guid><pubDate>Sat, 28 Mar 2020 21:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Der Berufsverband Deutscher Anästhesisten (BDA) gibt aufgrund von Lieferengpässen eine Empfehlung zum sparsamen Einsatz des Narkosemedikaments Propofol heraus.</p>
+<ul>
+<li><a href="https://www.bda.de/docman/alle-dokumente-fuer-suchindex/oeffentlich/aktuelles-1/2033-25-03-2020-information-lieferengpass-propofol-neu/file.html">BDA</a></li>
+</ul>
+<p>Laut dieser Studie legen Analysen mittels Gen-Sequenzierung von SARS-CoV-2 nahe, dass aufgrund einer erhöhten Evolutionsrate, die Erstellung von Impfstoffen und Medikamenten schwieriger werden könnte. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.03.25.006569v1?rss=1%22">Biorxiv</a></li>
+</ul>
+<p>Information zur Nutzung von Transportbeatmungsgeräten  für die Langzeitbeatmung
+(Dräger Oxylog 1000, Oxylog 2000, Oxylog 2000plus, Oxylog 3000, Oxylog 3000plus und Oxylog VE300)</p>
+<ul>
+<li><a href="https://bulletin.cert.ccc.de/papers/draeger_oxylog.pdf">Hinweise zur Verwendung von Dräger Oxylog Geräten</a></li>
+</ul>
+<p>Hinweise für Dräger-Anästhesiegeräte haben wir bereits im Bulletin vom 21.02.2020 verlinkt.</p>
+<ul>
+<li><a href="https://bulletin.cert.ccc.de/posts/2020_03_21/#dr%C3%A4ger-stellt-checklisten-f%C3%BCr-beatmungsger%C3%A4te-bereit">CERT Bulletin</a></li>
+</ul>
+<p>Videos zeigen beispielhaft die Intubation (RSI, primäre VL) und Extubation, analog zu den gängigen Empfehlungen in der CoViD-19-Situation.
+Urheber ist eine Schweizer Klinikengruppe.  Dazu noch einmal die schriftliche Empfehlung mit Herausstellung der Besonderheiten:</p>
+<ul>
+<li><a href="https://www.esahq.org/uploads/2020/03/poster-esa-rev-1-2.pdf">Paper zum Airway Management</a></li>
+<li><a href="https://player.vimeo.com/video/398927566">Schulungsvideo Intubation</a></li>
+<li><a href="https://player.vimeo.com/video/401278946">Schulungsvideo Extubation</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Der Gemeinsame Bundesausschuss hat im Rahmen der andauernden Pandemie eine Reihe von befristeten Sonderregelungen erlassen. Diese ermöglichen das Ausstellung einer Arbeitsunfähigkeitsbescheinigung für bis zu 14 Tage nach telefonische Anamnese, geänderte Verordnungsfristen bei der häuslichen Krankenpflege und den Entfall der Genehmigungspflicht bei Krankentransporten. Des Weiteren sind Verordnungen von Medikamenten und Heilmitteln ohne direkten Patientenkontakt möglich. Begründet werden diese Änderungen mit dem Abbau bürokratischer Hürden. Die Regelungen treten zu unterschiedlichen Zeitpunkten in Kraft.</p>
+<ul>
+<li><a href="https://www.g-ba.de/service/sonderregelungen-corona/">GBA Sonderregelungen Corona</a></li>
+<li><a href="https://www.g-ba.de/downloads/40-268-6461/2020-03-27_VL_Sonderregelungen-Covid-19_TrG.pdf">GBA Begründung</a></li>
+<li><a href="https://www.aerzteblatt.de/nachrichten/111473/G-BA-lockert-weitere-Qualitaetsregelungen">Ärzteblatt</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Die Intubationsbox soll die Keimbelastung bei In- und Extubation für das Personal verringern.</p>
+<ul>
+<li><a href="https://intubationbox.com/">Intubationsbox</a></li>
+</ul>
+<p>Gesichtsschilde (Visiere) sind mit einfachen Büromaterialien selbst nachzubauen.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=sYoVwlPpC-w">Youtube</a></li>
+</ul>
+<p>Der Bund Deutscher Anästhesisten (BDA) unterstreicht mittels einer Überschlagsrechnung, dass bei aufgestockten technischen Beatmungskapazitäten die Limitation bei qualifizierten Fachpersonal liegen wird. Des Weiteren betrachtet der BDA selbst gebaute Beatmungsgeräte kritisch.</p>
+<ul>
+<li><a href="https://www.bda.de/docman/alle-dokumente-fuer-suchindex/oeffentlich/aktuelles-1/2044-27-03-2020-information-beatmungsgeraete-1/file.html">BDA</a></li>
+</ul>
+<p>Es gibt inzwischen viele Ansätze für selbstgebaute Beatmungsgeräte, welche die speziellen intensivmedizinischen Bedürfnisse der Beatmung von schwerkranken CoViD-19-Patientenweig nicht adressieren. Zumeist fehlen essentielle Bestandteile wie z.B. die Steuerbarkeit von Beatmungsdrücken und PEEP, Monitoring und Alarmierung bei nicht erreichten Parametern. Eine Gruppe von Hackern hat hierzu einen Lösungsansatz entwickelt und zur Verfügung gestellt, um ihn mit eigenen Projekten zu kombinieren. Es existieren auch Übersetzungen auf Englisch und Spanisch.</p>
+<ul>
+<li><a href="https://github.com/auenkind/YACoVV/blob/master/README_DE.md">GitHub YACoVV</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Die WHO empfiehlt 150 Minuten moderate oder 75 Minuten intensive körperliche Aktivität pro Woche für einen Erwachsenen, wenn dieser ohne Symptome oder akute Erkrankung der Atemwege zu Hause ist. Mögliche Übungen sind angehängt:</p>
+<ul>
+<li><a href="http://www.euro.who.int/en/health-topics/disease-prevention/physical-activity/news/news/2020/3/how-to-stay-physically-active-during-covid-19-self-quarantine">WHO</a></li>
+</ul>
+<p>Die WHO betrachtet die psychischen Auswirkungen der CoViD-19-Pandemie insbesondere auf Kinder und ältere Menschen und diskutiert Möglichkeiten, die Widerstandsfähigkeit zu erhöhen.</p>
+<ul>
+<li><a href="http://www.euro.who.int/en/health-topics/health-emergencies/coronavirus-covid-19/news/news/2020/3/mental-health-and-psychological-resilience-during-the-covid-19-pandemic">WHO</a></li>
+</ul>
+<p>Ebenfalls von der WHO gibt es ein Video, wie man ohne fließend Wasser die Hände waschen kann.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=miF5B8oOIrw">Youtube</a></li>
+</ul>
+<p>Empfehlungen für den Umgang mit CoViD-19-Infektionen auf Schiffen</p>
+<ul>
+<li><a href="https://www.who.int/publications-detail/operational-considerations-for-managing-covid-19-cases-outbreak-on-board-ships">WHO</a></li>
+</ul>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S.: We&rsquo;re doing an excellent Bulletin. Fantastic. Great Work! They say, the best bulletin they&rsquo;ve ever seen. Just perfect! Phenomenal read! All of us got a pen! <a href="https://www.youtube.com/watch?v=fFOuo1DRns0">#Covfefe</a></p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 27.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_02_27/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_02_27/</guid><pubDate>Fri, 27 Mar 2020 21:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Vorbereitend auf Personalengpässe, vor Allem in Bereichen der kritischen Infrastruktur und Pflege, gibt das Robert-Koch-Institut Empfehlungen für den Umgang mit Infizierten und Kontakten unter den Angestellten derartiger Einrichtungen:</p>
 <ul>
