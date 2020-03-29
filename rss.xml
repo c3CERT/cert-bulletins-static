@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 28 Mar 2020 22:52:50 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 28.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_28/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_28/</guid><pubDate>Sat, 28 Mar 2020 21:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sun, 29 Mar 2020 20:13:59 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 29.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_29/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_29/</guid><pubDate>Sun, 29 Mar 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Niedermolekulare Heparine können möglicherweise die Prognose einiger schwerwiegend erkrankter Patienten verbessern.</p>
+<ul>
+<li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jth.14817">Wiley Online Library</a></li>
+</ul>
+<p>Sichere Entbindung bei SARS-CoV-2 infizierten, schwangeren Frauen.</p>
+<ul>
+<li><a href="https://obgyn.onlinelibrary.wiley.com/doi/epdf/10.1111/1471-0528.16231">Wiley Online Library</a></li>
+</ul>
+<p>Kritische Beleuchtung und Widerlegung eines &ldquo;joint statements&rdquo; gegen das Splitting von Beatmungsgeräten für mehr als einen Patienten.</p>
+<ul>
+<li><a href="https://emcrit.org/pulmcrit/pulmcrit-wee-why-the-sccm-aarc-asa-apsf-aacn-chest-joint-statement-on-split-ventilators-is-wrong/">Emcrit</a></li>
+</ul>
+<p>Im JAMA veröffentlicht die University of Pittsburgh eine differenzierte Überlegung zur Grundlage und Organisation einer triagierten Verteilung von Beatmungsgeräten. Hier sei ausdrücklich auch auf die Anhänge (Supplement) verwiesen!</p>
+<ul>
+<li><a href="https://jamanetwork.com/journals/jama/fullarticle/2763953#note-JVP200068-1">JAMA</a></li>
+<li><a href="https://ccm.pitt.edu/sites/default/files/UnivPittsburgh_ModelHospitalResourcePolicy.pdf">Universität Pittsburgh</a></li>
+</ul>
+<p>Update zu den noch kontroversen Therapieansätze bei schwerem Verlauf von CoViD-19.</p>
+<ul>
+<li><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/jmv.25788">Wiley Online Library</a></li>
+</ul>
+<p>Was uns bisher über SARS-CoV-2 bekannt ist, eine wissenschaftliche Zusammenfassung durch Physiologen der Charité.</p>
+<ul>
+<li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/apha.13470">Wiley Online Library</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Dritte Verordnung der Landesregierung Baden-Württemberg zur Änderung der Corona-Verordnung. Diese Änderung tritt am 29.03.2020 in Kraft und am 15.06.2020 außer Kraft. Im Vergleich zur Verordnung vom 23.03.2020 beinhaltet sie keine nennenswerten Änderungen. Es wurden lediglich verschiedene Punkte präzisiert.</p>
+<ul>
+<li><a href="https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/Coronainfos/200328_Dritte_VO_der_LReg_zur_Aenderung_der_CoronaVO.pdf">Dritte Änderung der Corona-Verordnung</a></li>
+</ul>
+<p>Wie Medienberichten zu entnehmen ist, hat die Bundesregierung ein Strategiepapier zur Bewältigung der SARS-CoV-2-Pandemie erarbeitet. Das Papier liegt mehreren überregionalen Medien vor, wurde jedoch noch nicht veröffentlicht. Eine Anfrage zur Veröffentlichung wurde über die Plattform &ldquo;Frag den Staat&rdquo; bereits an die Bundesregierung gestellt.</p>
+<ul>
+<li><a href="https://fragdenstaat.de/anfrage/strategiepapier-des-bundesinnenministerium-zur-corona-krise/">Frag den Staat</a></li>
+<li><a href="https://www.tagesschau.de/investigativ/ndr-wdr/corona-strategiepapier-szenarien-101.html">Tagesschau</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Neue Studien zeigen, dass es zu einer zweiten Welle in China kommen könnte. Bis zu 14 % der geheilten Patienten wurden laut Medizinern erneut positiv getestet, zeigten allerdings keine Symptome. Als Resultat hat China weitestgehend die Grenzen geschlossen.</p>
+<ul>
+<li><a href="https://7news.com.au/lifestyle/healthmedicine/china-reports-deeply-disturbing-coronavirus-development-c-765460">7news</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2020-03-26/china-to-suspend-foreigners-entry-starting-saturday">Bloomberg</a></li>
+</ul>
+<p>Die Mitmach-Initiative Kinder stark machen der Bundeszentrale für gesundheitliche Aufklärung (BZgA) stellt eine Familien-Box mit Beschäftigungsmaterialien für Kinder zur Verfügung. Solange der Vorrat reicht, wird pro Haushalt eine Box abgegeben.</p>
+<ul>
+<li><a href="https://www.kinderstarkmachen.de/unterstuetzung/eltern/familien-box.html">BZgA</a></li>
+</ul>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. Remember, remember: A pandemic without dancing, is a pandemic not worth having! <a href="https://www.youtube.com/watch?v=pVej1rFG2i4">Let&rsquo;s dance&hellip;</a></p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 28.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_28/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_28/</guid><pubDate>Sat, 28 Mar 2020 21:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Der Berufsverband Deutscher Anästhesisten (BDA) gibt aufgrund von Lieferengpässen eine Empfehlung zum sparsamen Einsatz des Narkosemedikaments Propofol heraus.</p>
 <ul>
@@ -148,7 +201,7 @@ Vorsicht: Theoretische Erwägung, noch vor Peer-Review.</p>
 <p>Grüße
 Euer CERT</p>
 <p>P.S. Wem das Klopapier ausgegangen ist, den verweisen wir dezent auf die drei Muscheln.</p>
-]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 26.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_06_26/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_06_26/</guid><pubDate>Thu, 26 Mar 2020 21:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 26.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_26/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_26/</guid><pubDate>Thu, 26 Mar 2020 21:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Wie auch im Corona-Update des NDR heute wieder diskutiert wurde, fehlt es bisher an hinreichend validen Antikörpertestungen in der Fläche, um durchgemachte Infektionen und potenziell auch Immunität anzuzeigen.</p>
 <ul>
