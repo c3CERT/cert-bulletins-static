@@ -1,4 +1,63 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sun, 29 Mar 2020 20:13:59 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 29.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_29/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_29/</guid><pubDate>Sun, 29 Mar 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Mon, 30 Mar 2020 21:24:57 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 30.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_30/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_30/</guid><pubDate>Mon, 30 Mar 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Die ESICM (Europäische Vereinigung für Intensivmedizin) hat am 28.03. mit elives ein Onlinefortbildungsprogramm zu CoViD-19 abgehalten.</p>
+<ul>
+<li><a href="https://esicm-tv.org/covid19">ESICM</a></li>
+<li><a href="https://www.youtube.com/watch?v=GuOXYDkBb0k">YouTube</a></li>
+</ul>
+<p>&ldquo;Airwaymanagement bei der Versorgung von CoViD-19-Patienten&rdquo;. Ein Webinar von InPass, dass die aktuellen Empfehlungen aus Italien darstellt.</p>
+<ul>
+<li><a href="https://www.inpass.de/webinarevideos/webinare-themen/webinar-airway-management/">InPass</a></li>
+</ul>
+<p>Der Blutphosphorspiegel kann möglicherweise signifikant Hinweise auf einen schweren Verlauf von CoViD-19 bieten. (Studie nicht peer-reviewed, Preprint).</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.03.27.20040816v1?rss=1%22">Medrxiv</a></li>
+</ul>
+<p>Schwere Verlaufsformen der SARS-CoV-2-Infektion werden komplizierter durch eine überschießende Reaktion des Komplementsystems. Eine Hemmung durch anti-C5a-monoklonale Antikörper könnte einen sinnvollen Therapieansatz darstellen. (Studie nicht peer-reviewed, Preprint).</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.03.29.20041962v1?rss=1%22">Medrxiv</a></li>
+</ul>
+<p>Übersicht über laufende klinische Studien und deren Verlauf:</p>
+<ul>
+<li><a href="http://covid19.trialstracker.net/">CoViD-19 Trailstracker</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Der Landtag Nordrhein-Westfalen will morgen über einen Gesetzesentwurf abstimmen, der unter anderem das Sicherstellen von medizinischem Material sowie die Verpflichtung vom medizinischem Personal zum Einsatz beinhaltet.</p>
+<ul>
+<li><a href="https://www.ksta.de/blob/36485632/510a736b941a5749d7134d63cc39a69b/gesetzentwurf-epidemiegesetz-data.pdf">Gesetzentwurf</a></li>
+</ul>
+<p>Hier sind die Änderungen zur bestehenden Gesetzeslage:</p>
+<ul>
+<li><a href="https://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMD17-8920.pdf">Landtag NRW</a></li>
+</ul>
+<h2 id="wirtschaft">Wirtschaft</h2>
+<p>Sowohl das ifo-Institut als auch das DIW prognostizieren einen Anstieg von Kurzarbeit, das DIW beschreibt in seiner Studie zusätzlich die Möglichkeit einer Rezession und ihre Auswirkungen.</p>
+<ul>
+<li><a href="https://www.ifo.de/node/54093">IFO</a></li>
+<li><a href="https://www.diw.de/de/diw_01.c.743578.de/publikationen/wochenberichte/2020_12_3/deutsche_wirtschaft__corona-virus_stuerzt_deutsche_wirtschaf___on__grundlinien_der_wirtschaftsentwicklung_im_fruehjahr_2020.html">DIW</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Die ungarische Nationalversammlung hat heute ein Gesetz &ldquo;zum Schutz vor dem Coronavirus&rdquo; beschlossen. Das Gesetz erklärt formell den Notfall gemäß der ungarischen Verfassung und ermächtigt die Regierung mit Dekreten den Auswirkungen der Corona-Pandemie entgegenzuwirken. Des Weiteren sind Wahlen und Referenda für die Dauer des Notfalls ausgesetzt. Das Gesetz gilt ohne zeitliche Befristung.</p>
+<ul>
+<li><a href="https://bulletin.cert.ccc.de/papers/20200330_ungarn_gesetz_corona.pdf">Gesetz zum Schutz vor dem Coronavirus</a></li>
+<li><a href="https://bulletin.cert.ccc.de/papers/20200330_ungarn_gesetz_corona_translate.pdf">Unverbindliche Übersetzung des Gesetzes</a></li>
+<li><a href="https://bulletin.cert.ccc.de/papers/20200330_ungarn_parlamentsprotokoll.pdf">Parlamentsprotokoll</a></li>
+<li><a href="https://bulletin.cert.ccc.de/papers/20200330_ungarn_parlamentsprotokoll_translate.pdf">Unverbindliche Übersetzung des Parlamentsprotokolles</a></li>
+</ul>
+<p>Eine Einordnung des Gesetzes liefert der Spiegel.</p>
+<ul>
+<li><a href="https://www.spiegel.de/politik/ausland/coronavirus-parlament-in-ungarn-verabschiedet-corona-notstandsgesetz-a-ac442c62-043e-46bd-8a91-f094133e147d">Der Spiegel</a></li>
+</ul>
+<h2 id="sonstiges">Sonstiges</h2>
+<p>In Zeiten von Epidemien und Pandemien gibt es eine Vielzahl von Modellrechnungen zur Mortalitätsrate der Erkrankung. Warum diese Berechnungen irreführend sein können, wird in einer Veröffentlichung der ETH Zürich in Zusammenarbeit mit der University of California erörtert.
+<a href="https://www.medrxiv.org/content/10.1101/2020.03.26.20044693v1?rss=1%22">Medrxiv</a></p>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. <a href="https://www.youtube.com/watch?v=XVsHaa6ayys">Every germ is sacred!</a></p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 29.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_29/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_29/</guid><pubDate>Sun, 29 Mar 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Niedermolekulare Heparine können möglicherweise die Prognose einiger schwerwiegend erkrankter Patienten verbessern.</p>
 <ul>
