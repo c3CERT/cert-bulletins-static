@@ -1,4 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Mon, 30 Mar 2020 21:24:57 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 30.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_30/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_30/</guid><pubDate>Mon, 30 Mar 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 31 Mar 2020 20:43:47 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 31.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_31/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_31/</guid><pubDate>Tue, 31 Mar 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Die BAND, als Dachorganisation der Arbeitsgemeinschaften von deutschen NotärztInnen, veröffentlicht Leitsätze für die präklinische Ressourcennutzung in der Pandemie. Auch die Rolle im Rahmen des &ldquo;load balancing&rdquo; für die stationäre Versorgung wird betont</p>
+<ul>
+<li><a href="http://www.band-online.de/Leitplanken_fuer_Notaerztinnen_und_Notaerzte_bei_der_Zuteilung_von_Behandlungsressourcen_im_Kontext_der_COVID-19-Pandemie_8465.html">BAND</a></li>
+</ul>
+<p>Die Deutsche Gesellschaft für Innere Medizin (DGIM) bietet eine Reihe von Updates via Livestream an. Zielgruppe sind die sogenannte Fachkreise. Die Registrierung benötigt eine EFN.</p>
+<ul>
+<li><a href="https://streamed-up.com/news-paediatrie-impfen-onkologie/">Pädiatrie: Impfen und Onkologie</a></li>
+<li><a href="https://streamed-up.com/covid-19-update-news-infektiologie-hausaerztliche-praxis/">Infektiologie in der Hausarztpraxis</a></li>
+<li><a href="https://streamed-up.com/news-intensivmedizin-schwangerschaft/">Intensivmedizin in der Schwangerschaft</a></li>
+</ul>
+<p>Darstellung des phylogenetischen Stammbaums der einzelnen SARS-CoV-2-Mutanten, sowie deren zeitliche und räumliche Verteilung. Die Datenlage unterliegt allerdings einer starken geographischen Abhängigkeit.</p>
+<ul>
+<li><a href="https://nextstrain.org/ncov">Nextstrain</a></li>
+</ul>
+<p>Fortlaufende Studie zur subjektiven gesellschaftlichen Sicht auf die Pandemie sowie die jeweiligen Entscheidungs- und Informationsträger</p>
+<ul>
+<li><a href="https://cosmo.sciencemediacenter.de/">Sciencemediacenter</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Wenn ÄrztInnen ehrenamtlich bei der Behandlung von CoViD-19-PatientInnen unterstützen, muss der Versicherungsschutz geklärt sein, sonst kann unter Umständen das Ruhen der Approbation angeordnet werden.</p>
+<ul>
+<li><a href="https://www.bda.de/docman/alle-dokumente-fuer-suchindex/oeffentlich/aktuelles-1/2048-covid-19-versicherungsschutz-fuer-medizinische-versorgung-1/file.html">BDA</a></li>
+</ul>
+<h2 id="wirtschaft">Wirtschaft</h2>
+<p>Die (International Air Transport Association) IATA hat auf ihrer heutigen Pressekonferenz einen Überblick über die wirtschaftliche Situation der Luftfahrtbranche gegeben. Durch das Wegbrechen der Frachtkapazitäten der Passagierluftfahrt ist die Nachfrage nach Transportkapazität größer als das Angebot. Dies impliziert auch Probleme und Verzögerungen bei der Beförderung wichtiger Krisengüter wie zum Beispiel persönlicher Schutzausrüstung und Beatmungsgeräte. Für die gesamte Branche rechnet die IATA mit einem Einbruch der Nachfrage um 71%. eine Normalisierung der Luftfahrtbranche wird seitens der IATA erst im kommenden Jahr erwartet. Dabei besteht die Gefahr, dass Luftfahrtbetriebe bereits vor dem Wiederaufleben der Nachfrage in Zahlungsschwierigkeiten geraten.</p>
+<ul>
+<li><a href="https://www.iata.org/en/pressroom/pr/2020-03-31-01/">IATA Pressemitteilung</a></li>
+<li><a href="https://www.iata.org/en/iata-repository/publications/economic-reports/covid-19-cash-burn-analysis/">IATA Cash burn analysis</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Die Firma Medtronic hat Spezifikationen und Schaltpläne für eines ihrer Beatmungsgeräte veröffentlicht. Der Source-Code sowie Design-Files für das Gehäuse sollen in kürze Folgen. Die Dateien sind ohne Haftung seitens des Herstellers und mit zeitlicher Befristung zur Verwendung bei an CoViD-19 erkrankten Personen freigegeben.</p>
+<ul>
+<li><a href="http://newsroom.medtronic.com/news-releases/news-release-details/medtronic-shares-ventilation-design-specifications-accelerate">Pressemitteilung Medtronic</a></li>
+<li><a href="https://bulletin.cert.ccc.de/papers/medtronic-pb560-ventilator-system-file-set-1.zip">Veröffentlichter Datensatz</a></li>
+</ul>
+<p>Das Heinrich-Hertz-Institut und das RKI entwickeln laut übereinstimmenden Medienberichten eine App, mit welcher Kontakte nachvollzogen werden sollen können. Als Vorlage dient eine App, welche in Singapur zum Einsatz kommt. Die Nutzung der App soll auf freiwilliger Basis erfolgen.</p>
+<ul>
+<li><a href="https://www.aerzteblatt.de/nachrichten/111535/SARS-CoV-2-Unterstuetzung-fuer-freiwillige-Apps-mit-Bewegungsdaten">Ärztblatt</a></li>
+<li><a href="https://www.sueddeutsche.de/digital/coronavirus-smartphone-app-bluetooth-datenschutz-1.4862314">Süddeutsche Zeitung</a></li>
+</ul>
+<p>Das GNU Projekt hat Anpassungen in seiner E-Health Lösung &ldquo;GNU Health&rdquo; vorgenommen um die Dokumentation bei CoViD-19 Fällen zu erleichtern. GNU Health ist ein Labor- und Krankenhausinformationssystem unter freier GPL-Lizenz.</p>
+<ul>
+<li><a href="https://www.gnuhealth.org/#/home">GNU Health</a></li>
+<li><a href="http://savannah.gnu.org/task/?15562">Tickettracker des Projekts</a></li>
+<li><a href="https://meanmicio.org/2020/03/31/tackling-the-beast-using-gnu-health-to-help-the-fight-against-the-covid-19-pandemic/">Nutungsmöglichkeiten des Projektes (meanmicio)</a></li>
+</ul>
+<h2 id="aufrufeappelle">Aufrufe/Appelle</h2>
+<p>Die Vereinten Nationen (UN) sehen die globalisierte Welt an einem Scheideweg. Die Gesellschaften würden sich im &ldquo;Aufruhr&rdquo; und die Wirtschaften im &ldquo;Sturzflug&rdquo; befinden. Sie rufen die Länder zu einem vereinten Handeln gegen das Virus und die sich aus der Pandemie ergebenden gesellschaftlichen Konsequenzen auf und projizieren eine Entscheidung zum Ende der Pandemie. So sehen sie die Möglichkeit zu einer Rückkehr zum bekannten Wirtschaftssystem nur möglich unter Beibehaltung aller Probleme, und fordern stattdessen eine Neuordnung der Weltwirtschaft, welche eine erhöhte Resistenz gegenüber Krisen aufweist.</p>
+<ul>
+<li><a href="https://www.un.org/en/un-coronavirus-communications-team/launch-report-socio-economic-impacts-covid-19">UN</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>In Baden-Württemberg übertragen derzeit einige Gesundheitsämter präventiv Daten Infizierter an die Polizei. Die Maßnahme wird mit Selbstschutz der Beamten begründet und wird von Datenschützern sowie Politikern kritisiert.</p>
+<ul>
+<li><a href="https://www.swr.de/swraktuell/baden-wuerttemberg/polizei-corona-daten-100.html">SWR</a></li>
+</ul>
+<p>In Bayern wurde eine Person nach drei Verstößen gegen die Ausgangsbeschränkungen in Gewahrsam genommen.</p>
+<ul>
+<li><a href="https://www.nordbayern.de/panorama/bayer-nach-verstoss-gegen-corona-beschrankungen-im-knast-1.9988847">Nordbayern</a></li>
+</ul>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. CoViD-19-Scherze sind schlechte Aprilscherze oder ist CoViD-19 ein schlechter Aprilscherz? <a href="https://xkcd.com/2287/">xkcd</a></p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 30.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_30/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_30/</guid><pubDate>Mon, 30 Mar 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Die ESICM (Europäische Vereinigung für Intensivmedizin) hat am 28.03. mit elives ein Onlinefortbildungsprogramm zu CoViD-19 abgehalten.</p>
 <ul>
