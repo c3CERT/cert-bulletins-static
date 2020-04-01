@@ -1,4 +1,68 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 31 Mar 2020 20:43:47 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 31.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_31/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_31/</guid><pubDate>Tue, 31 Mar 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Wed, 01 Apr 2020 20:40:43 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 01.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_01/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_01/</guid><pubDate>Wed, 01 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Auch nachdem sie als genesen gelten, könnten einzelne CoViD-19-Patienten möglicherweise noch weiterhin Keime ausscheiden und verbreiten.</p>
+<ul>
+<li><a href="https://annals.org/aim/fullarticle/2764036/sars-cov-2-positive-sputum-feces-after-conversion-pharyngeal-samples">Paper im Volltext</a></li>
+<li><a href="https://www.aerzteblatt.de/nachrichten/111540/COVID-19-Studie-findet-Hinweise-auf-laengere-Ausscheidung-in-Faeces-und-Sputum">Ärzteblatt</a></li>
+</ul>
+<p>Gemäß dieser Studie (Studie nicht peer-reviewed, Preprint) ist bei einem selektierten Patientengut das Thorax-CT zur Erstdiagnose von CoViD-19 dem Abstrich mit PCR sowohl an Sensitivität als auch Spezifität deutlich überlegen.</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.03.30.20047985v1?rss=1%22">Medrxiv</a></li>
+</ul>
+<p>Um die Testkapazität der PCR-Testung weiter zu erhöhen, wird u.a. eine gepoolte Testung, analog des Blutspendewesens diskutiert. Dies hätte, bei einem gleichbleibenden Sicherheitniveau, eine deutlich höhere Testkapazität zur Folge. Das deutsche Ärzteblatt diskutiert die Limitationen des Verfahrens.</p>
+<ul>
+<li><a href="https://www.aerzteblatt.de/nachrichten/111552/Proben-Pooling-Neues-Verfahren-soll-schnellere-SARS-CoV-2-Testung-ermoeglichen">Ärzteblatt</a></li>
+</ul>
+<p>Eine systematische Meta-Analyse zu den Risikofaktoren für einen schweren oder kritischen Verlauf der CoViD-19 (Studie nicht peer-reviewed, Preprint).</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.03.30.20047415v1?rss=1%22">Medrxiv</a></li>
+</ul>
+<p>ATLS hat aufgrund der erschwerten Ausbildungssituation während der Pandemie Online-Schulungsmaterial frei zugänglich veröffentlicht.</p>
+<ul>
+<li><a href="https://www.facs.org/quality-programs/trauma/atls/resources">FACS</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Im Bulletin vom 29.03.2020 hatten wir über das Strategiepapier des Innenministeriums und die Anfrage dazu auf &ldquo;Frag den Staat&rdquo; berichtet. Dieses Strategiepapier ist jetzt verfügbar.</p>
+<ul>
+<li><a href="https://fragdenstaat.de/blog/2020/04/01/strategiepapier-des-innenministeriums-corona-szenarien/">Frag den Staat</a></li>
+</ul>
+<p>Bayern hat die Richtlinien für sein &ldquo;Corona-Soforthilfe&rdquo;-Programm geändert und dabei die Antragshürden verringert und die Hilfen erhöht.</p>
+<ul>
+<li><a href="https://www.verkuendung-bayern.de/files/baymbl/2020/170/baymbl-2020-170.pdf">Richtlinie Conona-Soforthilfe</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Eine Sicherheitsanalyse der c&rsquo;t Redaktion zeigt, dass die CoViD-19 App der Telekom anfällig für Man-in-the-middle-Angriffe ist. Als erste Reaktion wurde der App der Zugriff auf den Server entzogen. Trotzdem empfiehlt die c&rsquo;t Redaktion von der Nutzung der App abzusehen, bis abgesicherte Versionen in den App-Stores erscheinen.</p>
+<ul>
+<li><a href="https://www.heise.de/ct/artikel/c-t-deckt-auf-Corona-App-der-Telekom-ist-katastrophal-unsicher-4694222.html">Heise</a></li>
+</ul>
+<p>Beim Hackathon #Wirvsvirus wurden aus rund 1.500 Projekten die besten 20 Projekte ausgezeichnet. Diese Projekte werden auf Youtube vorgestellt und sollen bei der Weiterentwicklung vielfältig unterstützt werden. Laut Angaben der Initiatoren war das mit Abstand der größte Hackathon weltweit.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=F8Cd8Yiy2j4">Youtube</a></li>
+</ul>
+<p>Anhand eines simulierten Computer-Modelles lässt sich die Effektivität einzelner Eindämmungsmaßnahmen bewerten (Studie nicht peer-reviewed, Preprint).</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.03.30.20047043v1?rss=1%22">Medrxiv</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Der Krisenstab der Bundesregierung empfiehlt in Ausnahmefällen bei medizinischem Personal die Wiederverwendung von Schutzmasken nach einem bestimmten Verfahren.</p>
+<ul>
+<li><a href="https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/2020/2-quartal/krisenstab-atemschutzmasken.html">Bundesgesundheitsministerium</a></li>
+</ul>
+<p>Der Data Scientist David Kriesel hat eine Übersichtsseite zur Entwicklung von CoViD-19-Fällen erstellt, Datengrundlage ist die Johns Hopkins University. Hier sind nicht nur die absoluten Zahlen, sondern auch das prozentuale Wachstum aufgeführt.</p>
+<ul>
+<li><a href="http://www.dkriesel.com/corona">D. Kriesel</a></li>
+</ul>
+<p>Im Podcast &ldquo;UKW - Unsere kleine Welt&rdquo; hat Tim Pritlove mit Frieda, Fachärztin für Anästhesiologie, gesprochen. Das Thema ist Intensivmedizin und welche Belastungen jetzt auf die Krankenhäuser zukommen.</p>
+<ul>
+<li><a href="https://ukw.fm/ukw013-corona-intensivmedizin/">UKW</a></li>
+</ul>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S.: <a href="https://youtu.be/fZKyLy4hw8U?t=131">Geheimes Strategiepapier der Regierung geleaked!</a></p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 31.03.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_03_31/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_03_31/</guid><pubDate>Tue, 31 Mar 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Die BAND, als Dachorganisation der Arbeitsgemeinschaften von deutschen NotärztInnen, veröffentlicht Leitsätze für die präklinische Ressourcennutzung in der Pandemie. Auch die Rolle im Rahmen des &ldquo;load balancing&rdquo; für die stationäre Versorgung wird betont</p>
 <ul>
