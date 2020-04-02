@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Wed, 01 Apr 2020 20:40:43 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 01.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_01/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_01/</guid><pubDate>Wed, 01 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Thu, 02 Apr 2020 22:46:10 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 02.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_02/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_02/</guid><pubDate>Thu, 02 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<h3 id="medizin">Medizin</h3>
+<p>Die Universität Bern unternimmt eine prospektive Studie zur Stressbelastung von Menschen, die im Gesundheitsbereich tätig sind während der CoViD-19-Pandemie und bittet um Teilnahme.</p>
+<ul>
+<li><a href="https://psyunibe.qualtrics.com/jfe/form/SV_3WYgbkLWqiDPDG5">Universität Bern</a></li>
+</ul>
+<p>Aus dem Umfeld von EMCrit kommt eine weitere Übersicht zu intensivmedizinischen Maßnahmen, für medizinische Fachpersonen ohne intensivmedizinischen Hintergrund.</p>
+<ul>
+<li><a href="https://emcrit.org/emcrit/critical-care-for-non-intensivists/">Emrit</a></li>
+</ul>
+<p>Eine Studie, welche die genomischen Mutationen am Spike-Protein untersucht hat, identifizierte eine Stelle, welche zur Deletion zu neigen scheint. Sollte dies in vivo häufiger vorkommen, könnte dies negative Auswirkungen auf die Entwicklung eines Impfstoffs haben (Studie nicht peer-reviewed, Preprint).</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.03.31.015941v1?rss=1%22">Biorxiv</a></li>
+</ul>
+<p>Eine genetische Studie untersuchte die Differenzen in 1100 SARS-CoV-2-Proben auf phylogenetische Gemeinsamkeiten. Die Ergebnisse scheinen nahezulegen, dass die beobachteten vier Hauptstränge sich bereits sehr früh getrennt haben und die derzeit stattfindenden Mutationen innerhalb der einzelnen Stränge einem gemeinsamen Muster folgen (Studie nicht peer-reviewed, Preprint).</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.03.30.016790v1?rss=1%22">Biorxiv</a></li>
+</ul>
+<p>Eine Modell-Studie an humanen Atemwegsepithelzellen könnte für Remdesivir und Diltiazem in Kombination als Therapieansatz sprechen (Studie nicht peer-reviewed, Preprint).</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.03.31.017889v1?rss=1%22=">Biorxiv</a></li>
+</ul>
+<p>Die transmembrane Serinprotease 2 (TMPRSS2) spielt durch ihre Expression womöglich eine wesentlich wichtigere Rolle als ACE2 bei der Infektion mit SARS-CoV-2, was für eine Verfolgung eines Therapieansatzes mit Camostat als Inhibitor spräche (Studie nicht peer-reviewed, Preprint).</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.03.30.20047878v1?rss=1%22">Medrxiv</a></li>
+</ul>
+<p>Eine Studie zeigt Hinweise, dass eine Beteiligung des ZNS und konsekutiver Schädigung medullärer Neuronen für den Krankheitsverlauf von CoViD-19 eine wesentliche Rolle spielen könnte. Ein Review der Daten zu MERS und SARS-CoV-1 wirft die Frage auf, ob auch SARS-CoV-2 eine ähnliche Auswirkung auf medulläre Neurone haben kann (Studie nicht peer-reviewed, Preprint).</p>
+<ul>
+<li><a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jmv.25728">Wiley</a></li>
+</ul>
+<h3 id="rechtliches">Rechtliches</h3>
+<p>Sachsen hat eine neue Verordnung mit Regelungen für die Ausgangsbeschränkung. Diese tritt am 01.04.2020 in Kraft und am 20.04.2020 außer Kraft.</p>
+<ul>
+<li><a href="https://www.coronavirus.sachsen.de/download/Fassung-RV-SaechsCoronaSchVO_31032020.pdf">Land Sachsen</a></li>
+</ul>
+<p>Nordrhein-Westfalen hat ein Sofortprogramm zur Verbesserung der Mobilität von Klinikpersonal gestartet. MitarbeiterInnen einer Klinik können Mietwägen beantragen.</p>
+<ul>
+<li><a href="https://www.vm.nrw.de/ministerium/Corona-Virus-in-NRW/Sofortprogramm-fuer-bessere-Mobilitaet-von-Klinikpersonal/index.php">Land Nordrhein-Westfalen</a></li>
+</ul>
+<h3 id="technisches">Technisches</h3>
+<p>Eine Zusammenfassung über mögliche Wiederaufbereitungsmaßnahmen für Atemschutzmasken der University of Tennessee.</p>
+<ul>
+<li><a href="https://utrf.tennessee.edu/information-faqs-performance-protection-sterilization-of-face-mask-materials/">University of Tennessee</a></li>
+</ul>
+<p>Eine Studie hat die Auswirkungen des Informationflusses auf die Übertragung von SARS-CoV-2 untersucht (Studie nicht peer-reviewed, Preprint).</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.03.31.20048439v1?rss=1%22">Medrxiv</a></li>
+</ul>
+<h3 id="gesellschaftliches">Gesellschaftliches</h3>
+<p>Über das Portal der Pflegereserve Baden-Württemberg können sich Menschen mit medizinischer Ausbildung melden und werden dann an Kliniken vermittelt.</p>
+<ul>
+<li><a href="https://pflegereserve.de/#/bw">Pflegereserve</a></li>
+</ul>
+<p>Nach Baden-Württemberg soll die Polizei auch in den Bundesländern Mecklenburg-Vorpommern, Niedersachsen und Bremen Listen mit an CoViD-19 erkrankten Menschen erhalten haben.</p>
+<ul>
+<li><a href="https://netzpolitik.org/2020/daten-von-infizierten-polizei-sammelt-in-mehreren-bundeslaendern-coronavirus-listen/">Netzpolitik</a></li>
+</ul>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. Gestern wurde versehentlich das geheime Strategiepapier der Bundesregierung vom Januar verlinkt. <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&amp;t=43">Das aktuelle Strategiepapier ist hier zu finden.</a></p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 01.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_01/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_01/</guid><pubDate>Wed, 01 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Auch nachdem sie als genesen gelten, könnten einzelne CoViD-19-Patienten möglicherweise noch weiterhin Keime ausscheiden und verbreiten.</p>
 <ul>
