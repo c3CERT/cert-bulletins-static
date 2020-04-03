@@ -1,4 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Thu, 02 Apr 2020 22:46:10 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 02.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_02/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_02/</guid><pubDate>Thu, 02 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Fri, 03 Apr 2020 21:08:50 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 03.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_03/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_03/</guid><pubDate>Fri, 03 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Untersuchung zum Schutzfaktor und zur Nutzbarkeit behelfsmäßiger Atemschutzmasken durch das CDC in Bezug auf SARS/MERS. (Artikel und Schnittmuster)</p>
+<ul>
+<li><a href="https://wwwnc.cdc.gov/eid/article/12/6/05-1468_article">CDC</a></li>
+</ul>
+<p>Mitschrift des Podcasts der CDC mit Bezug auf die Untersuchung:</p>
+<ul>
+<li><a href="https://tools.cdc.gov/podcasts/media/pdf/EID_6-06_Simple_Respiratory_Masks.pdf">Transkrip des Podcasts</a></li>
+</ul>
+<p>Merkblatt zu regulären Ultraschallbefunden bei frühen und fortgeschrittenen CoViD-19-Verläufen</p>
+<ul>
+<li><a href="https://bulletin.cert.ccc.de/papers/FUSIC_Covid-19_infographik_DEU.pdf">FUSIC CoViD-19 Infografik</a></li>
+</ul>
+<p>Übersicht der Arzneimittelkommission der deutschen Apotheker über die verfügbare Medikation zur off-label-Behandlung von CoViD-19.</p>
+<ul>
+<li><a href="https://www.abda.de/fileadmin/user_upload/assets/Arzneimittelkommission/PDF/Sonstiges_Anhaenge_fuer_Nachrichten/20_15_AMK_UEbersicht_zentral_beschaffter_Arzneimittel.pdf">ABDA</a></li>
+</ul>
+<p>Kurzer Überblick über einige Forschungsergebnisse seit dem 28.03.2020</p>
+<ul>
+<li><a href="https://www.nature.com/articles/d41591-020-00008-y">Nature One</a></li>
+</ul>
+<p>Überlegungen zu einem Corona Severity Score zur Einschätzung von CoViD-Patienten</p>
+<ul>
+<li><a href="https://emcrit.org/pulmcrit/csi/">Emcrit</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>In Niedersachsen tritt am 04.04.2020 eine neue Verordnung in Kraft, die festlegt, welche Betriebe geöffnet haben dürfen. Sie tritt am 19.04.2020 außer Kraft.</p>
+<ul>
+<li><a href="https://www.niedersachsen.de/download/153755/Auszug_aus_dem_Niedersaechsischen_Gesetz_und_Verordnungsblatt_7_2020_vom_03.04.2020.pdf">Land Niedersachsen</a></li>
+</ul>
+<h2 id="wirtschaft">Wirtschaft</h2>
+<p>Sonderzahlungen bis zu einem Betrag von 1.500 Euro sind für Beschäftige im Jahr 2020 steuer- und sozialversicherungsfrei. Damit soll die besondere und unverzichtbare Leistung der Beschäftigten während Corona anerkannt werden.</p>
+<ul>
+<li><a href="https://www.bundesfinanzministerium.de/Content/DE/Pressemitteilungen/Finanzpolitik/2020/04/2020-04-03-GPM-Bonuszahlungen.html">Bundesfinanzministerium</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Allgemeine Übersicht der Hände- und Flächendesinfektionsmaßnahmen im Hinblick auf SARS-CoV-2.</p>
+<ul>
+<li><a href="https://www.aerzteblatt.de/archiv/213413">Ärzteblatt</a></li>
+</ul>
+<p>Linus Neumann war zu Gast bei Markus Lanz, Thema war der Einsatz von Apps zur Kontaktnachverfolgung und Eindämmung der Pandemie. Wir haben Linus&rsquo; Antworten kompakt zusammen geschnitten:</p>
+<ul>
+<li><a href="https://bulletin.cert.ccc.de/papers/linus_supercut.mp4">Gekürzte Fassung</a></li>
+<li><a href="https://www.youtube.com/watch?v=CuL2Shu1FQY">Ungekürze Fassung (YouTube)</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Die International Publishers Association (IPA), die Weltgesundheitsorganisation (WHO) und UNICEF sind anlässlich des internationalen Kinderbuchtages mit ihrer Read the World Initiative gestartet. Als Erstes hat die italienische Autorin Elisabetta Dami eine Geschichte zu Geronimo Stilton auf Englisch gelesen. Andere Autoren werden folgen. Das Ziel dieser Initiative ist es, junge Menschen während der Isolation zu unterstützen.</p>
+<ul>
+<li><a href="https://www.who.int/news-room/detail/02-04-2020-ipa-who-and-unicef-launch-read-the-world-on-international-children-s-book-day-to-support-children-and-young-people-in-isolation">WHO</a></li>
+<li><a href="https://www.unicef.org/coronavirus/read-the-world">UNICEF</a></li>
+</ul>
+<h4 id="zusammenfassung-der-heutigen-pressekonferenz-der-who">Zusammenfassung der heutigen Pressekonferenz der WHO:</h4>
+<ul>
+<li>Es wird eine steigende Anzahl von anderen Erkrankungen erwartet, insbesondere von Polio, da aufgrund der SARS-CoV-2-Pandemie die Impfungen zurückgehen.</li>
+<li>Aufgrund der steigenden Anzahl von Fällen häuslicher Gewalt fordert die WHO Hilfsprogramme, um Betroffene zu schützen.</li>
+<li>Die Sterberaten seien aktuell nicht vergleichbar, da man den Menschen auch Zeit geben müsse zu genesen oder zu sterben.</li>
+<li>Die Methode &ldquo;Lockdown, Aufhebung ebendessen, wieder Lockdown&rdquo;, um die Pandemie wellenförmig zu verarbeiten, wird laut der WHO nicht funktionieren. Der jetzige Lockdown müsse genutzt werden, um Zeit zu gewinnen und eine &ldquo;Line of defense&rdquo; aufzubauen.</li>
+<li>Die Anzahl von jüngeren Menschen mit schweren Verläufen steigt, die Ursache sei bisher nicht bekannt.</li>
+<li>Kranke Menschen sollten eher isoliert anstatt mit Masken ausgestattet werden. Diese sollen lieber an medizinisches Personal ausgegeben werden.</li>
+<li>94% der Infektionen werden von symptomatischen Infizierten verursacht, 6% von klinisch stummen Trägern.</li>
+<li><a href="https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19--3-april-2020">WHO Opening Remarks</a></li>
+</ul>
+<p>Gaby Weber hat einen Film über die aktuelle Lage in Buenos Aires gedreht. Die rigorose Ausgangssperre soll die Ansteckungskurve verlangsamen, führt jedoch zu anderen Problemen.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=uIFfo-OAtfc">YouTube</a></li>
+</ul>
+<p>Das Ärzteblatt gibt einen Überblick über Handlungen in und Informationen zu anderen Ländern. Beispielsweise legt Russland eine Foto-Datenbank von Infizierten an.</p>
+<ul>
+<li><a href="https://www.aerzteblatt.de/nachrichten/111679/SARS-CoV-2-Russland-legt-Foto-Datenbank-von-Infizierten-an">Ärzteblatt</a></li>
+</ul>
+<p>Ian Haydon, eine der Testpersonen der Impfstudie in den USA, erzählt im Gespräch, warum er sich an der Studie beteiligt und wie er dafür ausgewählt wurde.</p>
+<ul>
+<li><a href="https://www.heise.de/hintergrund/Corona-Impfstudie-Warum-ich-mitmache-4695706.html">Heise</a></li>
+</ul>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. We could all be infected, so act accordingly.</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 02.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_02/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_02/</guid><pubDate>Thu, 02 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h3 id="medizin">Medizin</h3>
 <p>Die Universität Bern unternimmt eine prospektive Studie zur Stressbelastung von Menschen, die im Gesundheitsbereich tätig sind während der CoViD-19-Pandemie und bittet um Teilnahme.</p>
 <ul>
