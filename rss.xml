@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 04 Apr 2020 20:03:35 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 03.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_03/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_03/</guid><pubDate>Fri, 03 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 04 Apr 2020 20:14:43 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 04.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_04/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_04/</guid><pubDate>Sat, 04 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>IL-6 könnte in einem frühen Stadium der Erkrankung hochgradig signifikant Aussagen über zu einen zu erwartenden schweren Verlauf treffen und sich damit für eine Intensiv-Triage eignen.</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.01.20047381v1?rss=1%22">Medrxiv</a></li>
+</ul>
+<p>Das Lehrbuch &ldquo;Beatmung für Einsteiger&rdquo;, sowie weitere medizinische Fachbücher zum Thema Beatmung, stehen derzeit entgeltfrei zum Download zur Verfügung.</p>
+<ul>
+<li><a href="https://link.springer.com/book/10.1007/978-3-662-59294-6">Beatmung für Einsteiger</a></li>
+<li><a href="https://www.mydealz.de/deals/e-book-beatmung-und-intensivpflege-medizin-1562026">Übersicht weiterer Publikationen</a></li>
+</ul>
+<p>Einige CoViD-19-Patienten klagen über temporären Verlust des Riechvermögens im Verlauf der Krankheit. Der vorliegende Artikel fasst die aktuellen Vermutungen bezüglich des Wirkmechanismus zusammen.</p>
+<ul>
+<li><a href="https://www.spektrum.de/news/wie-blockiert-covid-19-den-geruchssinn/1719784">Spektrum</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Nordrhein-Westfalen hat eine Verordnung erlassen, welche Pflegeeinrichtungen verpflichtet, aus der Krankenhausbehandlung entlassene oder zurückkehrende Menschen aufzunehmen. Diese Verordnung tritt am 04.04.2020 in Kraft und am 19.04.2020 außer Kraft.</p>
+<ul>
+<li><a href="https://recht.nrw.de/lmi/owa/br_vbl_detail_text?anw_nr=6&amp;vd_id=18384&amp;ver=8&amp;val=18384&amp;sg=0&amp;menu=1&amp;vd_back=N">Land Nordrhein-Westfalen</a></li>
+</ul>
+<h2 id="aufrufeappelle">Aufrufe/Appelle</h2>
+<p>Drei Wissenschaftler der University of Nevada (Las Vegas) geben praktische Hinweise, wie die Häufigkeit von Gesichtsberührungen minimiert werden kann. Das Berühren des Gesichts mit den Händen erhöht das Risiko von Infektionen deutlich.</p>
+<ul>
+<li><a href="https://theconversation.com/how-to-stop-touching-your-face-to-minimize-spread-of-coronavirus-and-other-germs-133683">theconversation</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Das GIDS (German Institute of Defence and Strategic Studies), eine dem Bundesministerium der Verteidigung unterstellte Forschungseinrichtung, hat ein Statement veröffentlicht, das im Zuge der Strategieberatung als Entscheidungsgrundlage für politische Beschlüsse dienen soll. Dieses Statement dient derzeit, ungeachtet der fehlenden wissenschaftlichen Grundlage, vielen Medien als Basis für Artikel.</p>
+<ul>
+<li><a href="https://bulletin.cert.ccc.de/papers/GIDSstatement2020_1_Rogg_COVID19.pdf">Statement GIDS</a></li>
+</ul>
+<p>Auch wenn Afghanistan Stand 2. April nur 273 offizielle CoViD-19-Fälle hat, ist die Dunkelziffer vermutlich deutlich höher. Über 115.000 Afghanen sind seit Januar aus dem Iran zurück gekehrt, der einen lokalen CoViD-19-Hotspot darstellt. Die Pandemie hat die Dringlichkeit eines Friedens deutlich erhöht.</p>
+<ul>
+<li><a href="https://www.fes-asia.org/news/afghanistan-peace-in-the-time-of-covid-19/">FES</a></li>
+</ul>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. Für manch einen mag die alkoholische Desinfektion der Atemwege mit Whiskey ein reizvoller Gedanke sein. Wir glauben jedoch, dass es sich hierbei buchstäblich um eine Schnapsidee handelt.</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 03.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_03/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_03/</guid><pubDate>Fri, 03 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Untersuchung zum Schutzfaktor und zur Nutzbarkeit behelfsmäßiger Atemschutzmasken durch das CDC in Bezug auf SARS/MERS. (Artikel und Schnittmuster)</p>
 <ul>
