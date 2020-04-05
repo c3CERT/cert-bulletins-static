@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 04 Apr 2020 20:16:35 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 04.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_04/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_04/</guid><pubDate>Sat, 04 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sun, 05 Apr 2020 20:55:00 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 05.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_05/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_05/</guid><pubDate>Sun, 05 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Umfangreiche und stetig aktualisierte Zusammenstellung von Vorgehensweisen und Techniken im Zusammenhang mit CoViD-19.  Nach dem Prinzip der dasFOAM (free open access medical education in Deutschland) sehr konkret und richtet sich gleichermaßen an Anfänger wie Spezialisten.</p>
+<ul>
+<li><a href="https://m4mvscovid.de/">m4mvscovid.de</a></li>
+</ul>
+<p>Gemäß dieser Studie an Mäusen könnte die Therapie mit Chloroquin oder Hydrochloroquin in Verbindung mit Metformin zu einer stark erhöhten Letalität führen. Demnach sollte zu Therapiebeginn ein Absetzen oder Umstellen von Metformin dringend erwogen werden. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.03.31.018556v1.full.pdf">Biorxiv</a></li>
+</ul>
+<p>In dem Zusammenhang interessant ist eine Metastudie indischer Ärzte zum Einsatz von Chloroquin und Hydrochloroquin bei CoViD-19. HCQ wird in Indien zur Therapie des Typ-2-Diabetes eingesetzt. Die Verfasser weisen darauf hin, dass ebenfalls eine Kombination mit Gliptinen sehr gefährlich sein kann.</p>
+<ul>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S1871402120300515?via%3Dihub">Sciencedirect</a></li>
+</ul>
+<p>Zusammenfassung der kardiologischen Auswirkungen von CoViD-19, sowohl auf vorgeschädigte als auch auf herzgesunde Patienten in Form einer umfangreichen Literaturrecherche.</p>
+<ul>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/32247212">NCBI</a></li>
+</ul>
+<p>Alles nötige Wissen für die Inbetriebnahme eines Beatmungsgerätes in 7 Minuten. Für alle, die bisher noch nie mit Beatmungsgeräten gearbeitet haben.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=jxiCZ3zDYsI">YoutTube</a></li>
+</ul>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. Wenn man Abstriche macht, sollte man das nicht in den falschen Hals bekommen.</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 04.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_04/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_04/</guid><pubDate>Sat, 04 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>IL-6 könnte in einem frühen Stadium der Erkrankung hochgradig signifikant Aussagen über einen zu erwartenden schweren Verlauf treffen und sich damit für eine Intensiv-Triage eignen.</p>
 <ul>
