@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sun, 05 Apr 2020 21:00:08 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 05.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_05/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_05/</guid><pubDate>Sun, 05 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Mon, 06 Apr 2020 21:57:17 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 06.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_06/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_06/</guid><pubDate>Mon, 06 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Aktualisierter radiologischer Bildatlas von Radiopaedia zu CoViD-19 (Röntgen, CT und Sonographie)</p>
+<ul>
+<li><a href="https://radiopaedia.org/articles/covid-19-3">Radiopaedia</a></li>
+</ul>
+<p>Indometacin könnte einen starken anti-viralen Effekt bei CoViD-19 haben. Die Studie belegt dies anhand von in-vitro Tests mit SARS-CoV-2 und in-vivo Test an Hunden mittels caninen Corona-Viren. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.04.01.017624v1?rss=1%22">Biorxiv</a></li>
+</ul>
+<p>Ein weiterer Protease-Inhibitor, Atazanavir, der nicht Teil der SOLIDARITY-Studie ist, könnte eine Wirksamkeit bei CoViD-19 zeigen. Bisher wurde die Anwendung nur in-vitro getestet, eine ausreichende Bioverfügbarkeit in Lungengewebe jedoch nachgewiesen. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.04.04.020925v1?rss=1%22">Biorxiv</a></li>
+</ul>
+<p>Die Interferone α und β zeigen in Zellkulturen eine gute Wirkung gegen SARS-CoV-2 und könnten einen wirksamen Therapieansatz bilden. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.04.02.022764v1?rss=1%22">Biorxiv</a></li>
+</ul>
+<p>Im Rahmen einer ausgedehnten Testreihe von Wirkstoffen auf antivirale Eignung gegen SARS-CoV-2 wurden neben einigen bekannten Kandidaten u.a. Azithromycine, Omeprazol und Opipramol als mögliche Kandidaten für eine Therapieunterstützung identifiziert.</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.04.03.023846v1?rss=1%22">Biorxiv</a></li>
+</ul>
+<p>In Frankreich wird ein aus Wattwürmern gewonnenes, extrazelluläres Hämoglobin mit 40-facher O2-Bindungskapazität zur Test-Therapie von CoViD-19-Patienten eingesetzt. Dabei werden augenscheinlich klinische Studien der Stufen 1 und 2 übersprungen. Das Produkt heißt HEMO2Life.</p>
+<ul>
+<li><a href="https://www.time24.news/t24/2020/04/france-authorizes-test-with-marine-worm-blood-in-patients-with-coronavirus.html">Time24</a></li>
+<li><a href="https://www.heise.de/tr/artikel/Blut-aus-dem-Watt-3780909.html">Heise</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Niedersachsen hat seine Verordnung zur Regelung von Neu- und Wiederaufnahmen in Pflegeeinrichtungen angepasst</p>
+<ul>
+<li><a href="https://recht.nrw.de/lmi/owa/br_vbl_detail_text?anw_nr=6&amp;vd_id=18384&amp;ver=8&amp;val=18384&amp;sg=0&amp;menu=1&amp;vd_back=N">Land Niedersachsen</a></li>
+</ul>
+<p>Das Oberverwaltungsgericht in Nordrhein-Westfalen hat entschieden, dass die Betriebsuntersagung für Verkaufsstellen des Einzelhandels weiterhin gilt. Damit wurde ein Eilantrag gegen die Schließung von Einzelhandelsgeschäften zurückgewiesen. (Aktenzeichen: 13 B 398/20.NE)</p>
+<ul>
+<li><a href="https://www.ovg.nrw.de/behoerde/presse/pressemitteilungen/27_200406/index.php">OVG Nordrhein-Westfalen</a></li>
+</ul>
+<p>Der nordrhein-westfälische Verfassungsgerichtshof in Münster hat zwei Klagen gegen die Coronaschutzverordnung als unzulässig zurückgewiesen. Die Beschwerden hatten sich insbesondere gegen das Kontaktverbot von Gruppen von mehr als zwei Personen gerichtet. Gescheitert sind die Kläger daran, dass sie zunächst das Oberverwaltungsgericht als zuständige Instanz hätten anrufen müssen (Aktenzeichen: VerfGH 32/20.VB-1 und VerfGH 33/20.VB-2)</p>
+<ul>
+<li><a href="https://www.vgh.nrw.de/aktuelles/pressemitteilungen/2020/10_200406/index.php">VGH Nordrhein-Westfalen</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Als Möglichkeit zur Eindämmung der SARS-CoV-2-Epidemie sind &ldquo;Corona-Apps&rdquo; in aller Munde. Der Chaos Computer Club (CCC) veröffentlicht 10 Prüfsteine zu deren Beurteilung aus technischer und gesellschaftlicher Perspektive.</p>
+<ul>
+<li><a href="https://www.ccc.de/de/updates/2020/contact-tracing-requirements">CCC</a></li>
+</ul>
+<h2 id="aufrufeappelle">Aufrufe/Appelle</h2>
+<h4 id="ethischer-umgang-bei-impfstofftests">Ethischer Umgang bei Impfstofftests</h4>
+<p>Der Generaldirektor der Weltgesundheitsorganisation (WHO) Dr. Tedros hat auf der heutigen Pressekonferenz Überlegungen von Wissenschaftlern entschieden zurückgewiesen, die Bevölkerung des afrikanischen Kontinents als Versuchspersonen für zu entwickelnde Impfungen und Medikamente zu verwenden. Jede Impfung und jedes Medikament werde überall auf der Welt nach den selben Regeln und den etablieren Protokollen getestet. Es sei entsetzlich und eine Schande solche Überlegungen aus der Mentalität der Kolonialzeit im 21. Jahrhundert zu hören. Er versicherte dass solch ein unethisches Handeln von der WHO mit den schärfsten Worten zurückgewiesen werde und alle Menschen mit der gebotenen Menschlichkeit behandelt werden. Er schloss seinen Appell mit den Worten &ldquo;Because we are all human beings.&rdquo;</p>
+<p>Den Aufruf gibt es im Mitschnitt der Pressekonferenz ab Minute 48 nachzuhören.</p>
+<ul>
+<li><a href="https://youtu.be/7i1ipJoG7mE">Mitschnitt der Pressekonferenz</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<h4 id="one-world-together-at-home">One World: Together At Home</h4>
+<p>In Zusammenarbeit mit der WHO veranstaltet die Organisation &lsquo;Global Citizen&rsquo; ein Event um in Zeiten der Isolation ein Gefühl der Gemeinschaft zu vermitteln und Regierungen zu vermehrten Anstrengungen bei der Bekämpfung des Virus aufzurufen. Im Vorfeld dieses Events werden Spenden für den COVID-19 Solidarity Response Fund gesammelt, jedoch versteht sich das Event nicht als Spendenaktion. Im Vordergrund soll der Dank an alle HelferInnen im Kampf gegen die SARS-CoV-2-Pandemie stehen. Die gesammelten Spenden werden gemäß des WHO &lsquo;Strategic Preparedness and Response Plan&rsquo; eingesetzt. Dies beinhaltet unter anderem die Ausrüstung von Gesundheitspersonal mit persönlicher Schutzausrüstung und die Bereitstellung von Labor- und Testmitteln zur Diagnose von SARS-CoV-2 Infektionen. Des Weiteren werden die Gelder dazu verwendet um Kinder und Familien mit Leitlinien zu Evidenz basierter Medizin durch UNICEF ausrüsten zu können.</p>
+<p>Die Preshow beginnt um 21 Uhr, für Informationen zur Anmeldung und Teilnahme: <a href="https://www.globalcitizen.org/de/connect/togetherathome/">Global Citizen</a></p>
+<ul>
+<li><a href="https://www.who.int/news-room/detail/06-04-2020-who-and-global-citizen-announce-one-world-together-at-home-global-special-to-support-healthcare-workers-in-the-fight-against-the-covid-19-pandemic">Pressestatement der WHO</a></li>
+</ul>
+<p>Das Wirtschafts- und Sozialwissenschaftliche Institut (WSI) der Hans-Böckler-Stiftung hat die aktuelle Regelungen zum Kurzarbeitergeld in Deutschland mit ähnlichen Modellen in Europa, die teils wegen der CoViD-19-Pandemie erstellt wurden, verglichen. Im Vergleich mit u.a. nordischen Ländern (80-100%), den Niederlanden (100%) und Irland (100%) liegt Deutschland (60-67%) auf dem letzten Platz. Dabei zeigt sich, dass vor allem im Niedriglohnsektor ein höheres Kurzarbeitergeld sinnvoll wäre, um nicht zusätzlich aufstocken zu müssen.</p>
+<ul>
+<li><a href="https://www.boeckler.de/pdf/p_wsi_pb_38_2020.pdf">Boeckler</a></li>
+</ul>
+<p>Eine japanische Studie simuliert Ausgänge der Pandemie in Tokio mit und ohne Lockdown. Die Studie kommt zu dem Schluss, dass durch einen Lockdown mit einer Reduktion von Aktivitäten außer Haus um über 60% bis zu 250.000 Tote in Tokio vermieden werden könnten. Ohne Lockdown erwartet die Studie 500.000 Tote in Tokio und einen Zusammenbruch des Gesundheitssystems am 26. April. Mögliche vermehrte Fälle häuslicher Gewalt und Todesfolgen durch einen Lockdown werden dabei nicht berücksichtigt. (non-PR)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.02.20051490v1.full.pdf">Medrxiv</a></li>
+</ul>
+<p>Vollzeitbeschäftigte Kräfte in der stationären Langzeit- sowie der ambulanten Pflege erhalten mit dem Gehalt im Juli eine Sonderzahlung in Höhe von 1500€. Teilzeitbeschäftigte erhalten eine anteilige Prämienleistung, Auszubildende erhalten 900€.</p>
+<ul>
+<li><a href="https://www.verdi.de/themen/corona/++co++e21b0650-780b-11ea-b703-525400b665de">Verdi</a></li>
+</ul>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. Ich bin nicht Herr Post Scriptum, ich mache hier nur sauber &hellip; !</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 05.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_05/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_05/</guid><pubDate>Sun, 05 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Umfangreiche und stetig aktualisierte Zusammenstellung von Vorgehensweisen und Techniken im Zusammenhang mit CoViD-19.  Nach dem Prinzip der dasFOAM (free open access medical education in Deutschland) sehr konkret und richtet sich gleichermaßen an Anfänger wie Spezialisten.</p>
 <ul>
