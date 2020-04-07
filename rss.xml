@@ -1,4 +1,61 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Mon, 06 Apr 2020 22:25:56 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 06.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_06/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_06/</guid><pubDate>Mon, 06 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 07 Apr 2020 21:09:13 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 07.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_07/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_07/</guid><pubDate>Tue, 07 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Eine gute Übersicht über die möglichen Detektionsmethoden von Virusinfektionen. Für SARS-CoV-2 befindet sich ein Teil davon noch in der Entwicklung.</p>
+<ul>
+<li><a href="https://www.doccheck.com/de/detail/articles/26336-virusnachweis-eine-welt-voller-tests">DocCheck</a></li>
+</ul>
+<p>Anhand von zwei Fallstudien berichten koreanische Forscher methodisch die Vorgehensweise zur antiviralen Plasma-Übertragung genesener Patienten und berichten von guten Erfolgen.</p>
+<ul>
+<li><a href="https://jkms.org/DOIx.php?id=10.3346/jkms.2020.35.e149">JKMS</a></li>
+</ul>
+<p>Die Studie beschäftigt sich mit einer möglichen Gefahr der Übertragung von SARS-CoV-2 durch Blutspenden und kommt zu dem Schluss, die Gefahr einer Übertragung als ausgesprochen gering anzusehen. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.03.29.20039529v1">Medrxiv</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Die neue niedersächsische Verordnung über die Beschränkung sozialer Kontakte zur Eindämmung der Pandemie tritt am 8. April 2020 in Kraft und mit Ablauf des 19. April 2020 außer Kraft.</p>
+<ul>
+<li><a href="https://www.braunschweig.de/aktuell/medien/Niedersaechsische_Verordnung_200407.pdf">Stadt Braunschweig</a></li>
+</ul>
+<h2 id="wirtschaft">Wirtschaft</h2>
+<p>Die International Air Transport Association (IATA), der Dachverband der weltweiten Fluggesellschaften, sieht durch die sinkende Nachfrage in der Passagierluftfahrt weltweit rund 25 Millionen Jobs in der Luftfahrtbranche gefährdet, wenn die aktuell gültigen Reisebeschränkungen für längere Zeit aufrecht erhalten werden. Sie appelliert an die jeweiligen Regierungen, die Luftfahrtgesellschaften unter anderem durch staatliche Kredite und Steuererleichterungen in der aktuellen Situation zu unterstützen. Des Weiteren möchte die IATA auf ein koordiniertes Wiederanlaufen der Luftfahrt hinwirken, um unkoordinierte Prozeduren und Prozesse wie nach den Terroranschlägen vom 11. September zu vermeiden.</p>
+<ul>
+<li><a href="https://www.iata.org/en/pressroom/speeches/2020-04-07-01/">IATA Statement</a></li>
+<li><a href="https://www.iata.org/en/iata-repository/publications/economic-reports/covid-19-wider-economic-impact-from-air-transport-collapse/">IATA Economy Report</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Das Robert-Koch-Institut hat in Zusammenarbeit mit der Humboldt Universität in Berlin die von der Deutschen Telekom und Telefonica übermittelten Messdaten ausgewertet und einen Bericht veröffentlicht. Dem Bericht ist eine die Mobilität der Bevölkerung mit Beginn der Pandemie zu entnehmen.</p>
+<ul>
+<li><a href="http://rocs.hu-berlin.de/covid-19-mobility/de/">ROCS der Humboldt Universität</a></li>
+</ul>
+<p>Google Inc. generiert aus den weltweiten Bewegungsdaten seiner Nutzer Mobilitätsberichte. Im Gegensatz zu den Messdaten der Mobilfunkanbieter, deren Übermittlung explizit widersprochen werden muss, verwendet Google nach eigenen Angaben nur Datensätze von Nutzern, welche der Aufzeichnung ihrer Bewegungsdaten vorher zugestimmt haben.</p>
+<ul>
+<li><a href="https://www.google.com/covid19/mobility/">Goole CoViD19-Report</a></li>
+</ul>
+<p>Das Robert Koch-Institut lässt Gesundheitsdaten von Fitnesstrackern und Sportuhren sammeln, mit deren Hilfe die regionale Verbreitung potenziell Infizierter ermittelt werden soll. Je nach Typ der Uhr werden Ruhepuls, Schlaf und Aktivitätsniveau übermittelt. Die Daten werden nicht vom RKI selbst, sondern von einem externen Unternehmen im Rahmen einer Auftragsdatenverarbeitung erhoben.</p>
+<ul>
+<li><a href="https://corona-datenspende.de">RKI Datenspende</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Mehrere Wissenschaftler veröffentlichen ein Thesenpapier, in dem sie Fragen zu statistischen Methoden, Präventionsmaßnahmen und gesellschaftlichen Auswirkungen aufwerfen.</p>
+<ul>
+<li><a href="www.matthias.schrappe.com/einzel/thesenpapier_corona.pdf">Thesenpapier Corona</a></li>
+</ul>
+<p>Die WHO aktualisierte ihre Hinweise zur Verwendung von Masken im Rahmen von CoViD-19. Die aktualisierte Version enthält einen Abschnitt für Entscheidungsträger zur Verwendung von Masken durch gesunde Menschen.</p>
+<ul>
+<li><a href="https://www.who.int/publications-detail/advice-on-the-use-of-masks-in-the-community-during-home-care-and-in-healthcare-settings-in-the-context-of-the-novel-coronavirus-(2019-ncov)-outbreak">WHO</a></li>
+</ul>
+<p>Von April bis Juni 2020 soll den Angestellten der Uniklinik Charité und der Vivantes-Krankenhäuser monatlich 150 Euro mehr gezahlt werden.</p>
+<ul>
+<li><a href="https://www.berlin.de/special/jobs-und-ausbildung/nachrichten/berlin/6133871-5510939-vivantes-und-charite-450-euro-extra-fuer.html">Land Berlin</a></li>
+</ul>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p><a href="https://www.youtube.com/watch?v=kdrjzE1SE58">P.S. Die USA kämpfen gegen Corona! - Möchten Sie mehr erfahren?</a></p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 06.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_06/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_06/</guid><pubDate>Mon, 06 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Aktualisierter radiologischer Bildatlas von Radiopaedia zu CoViD-19 (Röntgen, CT und Sonographie)</p>
 <ul>
