@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Wed, 08 Apr 2020 21:05:08 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 07.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_07/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_07/</guid><pubDate>Tue, 07 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Wed, 08 Apr 2020 21:30:52 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 08.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_08/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_08/</guid><pubDate>Wed, 08 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Remdesivir stellt derzeit einen der vielversprechenderen Kandidaten zur Behandlung von CoViD-19 dar. Diese Veröffentlichung gibt einen umfassenden Überblick zu dem Wirkstoff und den aktuellen Stand der Forschung dazu.</p>
+<ul>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2352771420300380?via%3Dihub">Sciencedirect</a></li>
+</ul>
+<p>US-Forscher haben in einer retrospektiven Studie hoch-signifikante Anhaltspunkte für eine Wirksamkeit der Antagonisierung von α1-AR-Rezeptoren (z.B. mittels Prazosin) gefunden, um eine schwere Verlaufsform von CoViD-19 zu vermeiden (Studie nicht peer-reviewed, Preprint).</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.02.20051565v1">Medrxiv</a></li>
+</ul>
+<p>Infolge einer Analyse der Immunpharmakologie des Antibiotikums Metronidazol gehen die Autoren davon aus, dass durch dieses Medikament der Zytokinsturm im Verlauf einer schweren CoViD-19-Erkrankung abgemildert werden kann.</p>
+<ul>
+<li><a href="http://journals.sbmu.ac.ir/aaem/index.php/AAEM/article/view/645">SBMU</a></li>
+</ul>
+<p>Ein umfassender Überblick zu dem gegenwärtigen (06.04.2020) Sachstand der Impfstoffforschung zu SARS-CoV-2.</p>
+<ul>
+<li><a href="https://www.cell.com/immunity/pdf/S1074-7613(20)30120-5.pdf">Cell</a></li>
+</ul>
+<p>Systematische Untersuchung zu Co-Infektionen bei hospitalisierten Patienten mit CoViD-19. Als Phänomen wird aufgegriffen, dass im Gegensatz zu anderen viralen Atemwegserkrankungen solche Co-Infektionen verhältnismäßig sehr selten vorkommen. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.06.20052522v1">Medrxiv</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Das Bundesverfassungsgericht hat einen Antrag auf die vorläufige Außerkraftsetzung der bayerischen Verordnung über Infektionsschutzmaßnahmen und über eine vorläufige Ausgangsbeschränkung abgelehnt.</p>
+<ul>
+<li><a href="https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/04/rk20200407_1bvr075520.html">Bundesverfassungsgericht</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Die Firma Dräger hat Ihre Hinweise zur Nutzung von Anästesiegeräten und Produkten der Reihe Oxylog während der SARS-CoV-2 Pandemie aktualisiert. Sie enthalten Informationen wie diese Geräte zur Langzeitbeatmung genutzt werden können.</p>
+<ul>
+<li><a href="https://www.draeger.com/Library/Content/Draeger_Nutzung_von_Anaesthesiegeraeten_zur_Langzeitbeatmung.pdf">Hinweise Anästesiegeräte</a></li>
+<li><a href="https://www.draeger.com/Library/Content/Nutzung_von_Anaesthesiegeraete_zur_Langzeitbeatmung_Checkliste.pdf">Checkliste Anästesiegeräte</a></li>
+<li><a href="https://www.draeger.com/Library/Content/COVID-19_Nutzung_Oxylog_Langzeitbeatmung_Kundenschreiben.pdf">Hinweise Oxylog</a></li>
+</ul>
+<p>Des Weiteren hat die Firma Dräger nun für Interessierte und Fachnutzer die Möglichkeit geschaffen, sich automatisch über Aktualisierungen informieren lassen.</p>
+<ul>
+<li><a href="https://www.draeger.com/de_de/Hospital/kundenschreiben-update">Dräger Informationsportal</a></li>
+</ul>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. Schnelle und verlässliche Nachrichten seit 1745 Uhr.</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 07.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_07/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_07/</guid><pubDate>Tue, 07 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Eine gute Übersicht über die möglichen Detektionsmethoden von Virusinfektionen. Für SARS-CoV-2 befindet sich ein Teil davon noch in der Entwicklung.</p>
 <ul>
