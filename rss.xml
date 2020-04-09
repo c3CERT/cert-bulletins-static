@@ -1,4 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Wed, 08 Apr 2020 22:39:13 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 08.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_08/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_08/</guid><pubDate>Wed, 08 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Thu, 09 Apr 2020 21:43:10 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 09.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_09/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_09/</guid><pubDate>Thu, 09 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Der Artikel beleuchtet ausführlich Maßnahmen im Rahmen von Geburt und Schwangerschaftsnachsorge mit CoViD-19-Infektion oder -Verdacht der Mütter.</p>
+<ul>
+<li><a href="https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0040-1709688">Thieme</a></li>
+</ul>
+<p>Gemäß einer modell-basierten Schätzung liegen die tatsächlichen Infektionszahlen um den Faktor 6 höher, als die offiziellen Verlautbarungen.</p>
+<ul>
+<li><a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30243-7/fulltext">The Lancet</a></li>
+<li><a href="https://www.uni-goettingen.de/de/3240.html?id=5855">Universität Göttingen</a></li>
+</ul>
+<p>Erwägungen und Handlungsempfehlungen für den Einsatz von Medikamenten mit bekannter QT-Prolongation (z.B. Chloroquin oder Azithromycin) bei der Behandlung von CoViD-19</p>
+<ul>
+<li><a href="https://www.ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.120.047521">Ahajournals</a></li>
+</ul>
+<p>Das im klinischen Test befindliche Breitband-Viruzid MMPD zeigt in vitro eine stark hemmende Wirkung auf die Proliferation von SARS-CoV-2 durch nichtkompetitive Hemmung von IMPDH. Es durchlief bereits erfolgreich Phase 1 und 2 Tests an 300 Patienten. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.04.07.028589v1">Biorxiv</a></li>
+</ul>
+<p>Die Autoren diskutieren die Therapiemöglichkeiten der disseminierten intravasalen Gerinnungsstörung (DIC) als Folge der mit  CoViD-19 verbundenen ARDS u.a. mittels tPA anhand von 3 Fallstudien.</p>
+<ul>
+<li><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/jth.14828">Onlinelibrary</a></li>
+</ul>
+<p>Viel mehr als das Lebensalter scheint das &lsquo;biologische&rsquo; Alter ausschlaggebend für das Risiko eines schweren Verlaufes zu sein. Das Editorial des Aging-Journals beleuchtet die Möglichkeit, diesen Faktor anhand der Glykandiversität abzuschätzen.</p>
+<ul>
+<li><a href="https://www.aging-us.com/article/103052/text">Aging</a></li>
+</ul>
+<p>Die Studie stellt einen immunologischen Vergleich des Spike-Proteins zwischen SARS-CoV-1 und -2 an. Darüber hinaus kann die Studie einen aus B-Gedächtniszellen von SARS-CoV-1-Überlebenden stammenden Antikörper identifizieren, welcher beide SARS-Viren zu binden vermag und damit gegen CoViD-19 einsetzbar zu sein scheint. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.04.07.023903v2">Biorxiv</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Nordrhein-Westfalen hat neue Regelungen für Reiserückkehrer beschlossen, welche am 10.04.2020 in Kraft und am 19.04.2020 außer Kraft treten.</p>
+<ul>
+<li><a href="https://www.land.nrw/sites/default/files/asset/document/2020-04-09_coronaeinreisevo_nrw_mit_begruendung.pdf">Land Nordrhein-Westfalen</a></li>
+</ul>
+<h2 id="aufrufeappelle">Aufrufe/Appelle</h2>
+<p>Es gibt einen Aufruf an Naturwissenschaftler und Ingenieure, wie sie die Bekämpfung einer Pandemie unterstützen bzw. deren Folgen in Zukunft abmildern können.</p>
+<ul>
+<li><a href="https://pubs.acs.org/doi/pdf/10.1021/acsnano.0c02618">ACS</a></li>
+<li><a href="https://bulletin.cert.ccc.de/papers/call_for_engineers.pdf">Call for Engineers</a></li>
+</ul>
+<p>NRW stoppt aufgrund mehrerer Betrugsfälle vorerst die Antragsstellung für Corona-Soforthilfen. Sollte bereits ein Bewilligungsbescheid ergangen sein, wird gebeten, die IBAN zu prüfen. Desweiteren hier der Appell, besondere Vorsicht bei Anträgen walten zu lassen. Diese sollten lediglich über offizielle Stellen erfolgen.</p>
+<ul>
+<li><a href="https://www.wirtschaft.nrw/coronavirus-informationen-ansprechpartner">Land Nordrhein-Westfalen</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>In Zusammenarbeit mit UNICEF, UNHCR und  der UNESCO hat die Weltgesundheitsorganisation (WHO) ein Kinderbuch veröffentlicht. Es soll in kindgerechter Sprache vermitteln, wie sich Kinder vor dem SARS-CoV-2 Virus schützen und welche sozialen Spannungsfelder dadurch entstehen können. Die Autoren rufen mehrsprachige Personen dazu auf, das Buch in die verschiedenen Sprachen der Welt zu übersetzen.</p>
+<ul>
+<li><a href="https://interagencystandingcommittee.org/iasc-reference-group-mental-health-and-psychosocial-support-emergency-settings/my-hero-you">Projektseite</a></li>
+<li><a href="https://interagencystandingcommittee.org/system/files/2020-04/My%20Hero%20is%20You%2C%20Storybook%20for%20Children%20on%20COVID-19%20%28German%29.pdf">Deutsche Fassung</a></li>
+</ul>
+<p>Aufgrund des seit 16.03.2020 in Bayern geltenden Katastrophenfalles hat die Stadt Würzburg als untere Katastrophenschutzbehörde  Kraft der damit verbunden Ermächtigung erste Ärzte zum Dienst in Pflegeeinrichtungen verpflichtet. Das bayerische Katastrophenschutzgesetz ermöglicht durch Artikel 9 &ldquo;von jeder Person die Erbringung von Dienst-, Sach- und Werkleistungen verlangen&rdquo; zu können, wenn zuvor durch Art. 4 das Vorliegen einer Katastrophe festgestellt wurde.</p>
+<ul>
+<li><a href="https://www.gesetze-bayern.de/Content/Document/BayKatSchutzG">BayKatSchutzG</a></li>
+<li><a href="https://www.kbv.de/html/1150_45627.php">KBV</a></li>
+</ul>
+<p>Der Artikel des British Medical Journal erklärt die Gründe, warum die Todesrate in Deutschland noch verhältnismäßig gering ist. Der Artikel zeigt zugleich auch auf, dass aktuell die Rate ansteigt.</p>
+<ul>
+<li><a href="https://www.bmj.com/content/369/bmj.m1395.long">BMJ</a></li>
+</ul>
+<p>Die Pandemie zeigt verschiedene Ungleichheiten auf. Der Artikel beschreibt die aktuelle Lage und Möglichkeiten, wie geschlechtsspezifische Gewalt reduziert werden kann.</p>
+<ul>
+<li><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/dewb.12261">Onlinelibrary</a></li>
+</ul>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p><a href="https://pastafari.at/happy-garfreitag/">P.S. An die Siebe - fertig - ARRRR!!! Frohen Garfreitag!</a></p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 08.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_08/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_08/</guid><pubDate>Wed, 08 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Remdesivir stellt derzeit einen der vielversprechenderen Kandidaten zur Behandlung von CoViD-19 dar. Diese Veröffentlichung gibt einen umfassenden Überblick zu dem Wirkstoff und den aktuellen Stand der Forschung dazu.</p>
 <ul>
