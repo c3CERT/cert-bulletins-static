@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Thu, 09 Apr 2020 21:43:10 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 09.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_09/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_09/</guid><pubDate>Thu, 09 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Fri, 10 Apr 2020 21:49:42 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 10.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_10/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_10/</guid><pubDate>Fri, 10 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Eine Übersicht von Online-Lerninhalten zu SARS-CoV-2 und CoViD-19</p>
+<ul>
+<li><a href="https://www.classcentral.com/report/covid-19-courses/">Classcentral</a></li>
+</ul>
+<p>Die American Heart Association (AHA) et al geben spezifisch für CoViD-19-Patienten angepasste Richtlinien zur Reanimation/ALS heraus. Unter anderem wird empfohlen, zur Intubation die Thoraxkompressionen zu unterbrechen.</p>
+<ul>
+<li><a href="https://www.ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.120.047463">Ahajournals</a></li>
+</ul>
+<p>Das vorläufige Zwischenergebnis der viel diskutierten COVID-19 Case-Cluster-Study in Gangelt / Kreis Heinsberg.
+[Anm. der Redaktion: Dieses Studienergebnis erfüllt nicht die Aufnahmekriterien, die wir regulär für eine Aufnahme in das Bulletin ansetzen. Die Darstellung der Vorgehensweise ist höchst unvollständig und somit nicht nachvollziehbar. Unter anderem hielten wir eine Darstellung für sehr wichtig, wie sich die Probanden auf Haushalte aufteilen und warum die Hälfte der Probanden nicht in die Erstellung der Ergebnisse aufgenommen worden ist.
+Eine Aufnahme in dieses Bulletin erfolgt somit alleine aufgrund der derzeitig angestrengt anhaltenden Diskussion zu diesem Dokument.]</p>
+<ul>
+<li><a href="https://www.land.nrw/sites/default/files/asset/document/zwischenergebnis_covid19_case_study_gangelt_0.pdf">Land Nordrhein-Westfalen</a></li>
+</ul>
+<p>Laut einer Studie hemmt das FDA-geprüfte Ivermectin in vitro stark die Proliferation von SARS-CoV-2 in menschlichen Zellen. (Journal Pre-Proof)</p>
+<ul>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0166354220302011">Sciencedirect</a></li>
+</ul>
+<p>Das Interferon IFN-α2b könnte vernebelt eine gute Wirksamkeit bei CoViD-19 zeigen. Retrospektive Studie über die Behandlung von 77 mittelschweren CoViD-19-Fällen gegen vernebeltes Arbidol. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.06.20042580v1">Medrxiv</a></li>
+</ul>
+<p>Eine ausführliche Darstellung der Obduktionsergebnissen von Patienten, die an CoViD-19 verstorben waren. Die Verfasser empfehlen, ein besonderes Augenmerk auf Mikroangiopathien und thromb-embolische Ereignisse zu richten.</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.06.20050575v1">Medrxiv</a></li>
+</ul>
+<p>Der Ausgleich eines Vitamin-D-Mangels könnte das Risiko einer schweren Verlaufsform signifikant reduzieren. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.08.20058578v1">Medrxiv</a></li>
+</ul>
+<p>Personal im Gesundheitswesen leidet während der COVID-19-Epidemie deutlich häufiger an schwerer Schlaflosigkeit, Angstzuständen, Depressionen, Somatisierungsstörungen und Zwangssymptomen.</p>
+<ul>
+<li><a href="https://www.karger.com/Article/FullText/507639">Karger</a></li>
+</ul>
+<p>Gemäß dieser Single-Center-Studie (n=81) erleiden 25% der Patienten bei schwerem Verlauf von CoViD-19 eine tiefe Beinvenenthrombose.</p>
+<ul>
+<li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jth.14830">Onlinelibrary</a></li>
+</ul>
+<p>Übergewicht ist gemäß mehrerer Studien mit hoher Signifikanz ein erheblicher Risikofaktor für einen schweren Verlauf von CoViD-19.</p>
+<ul>
+<li><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/oby.22831">Onlinelibrary</a></li>
+<li><a href="https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa415/5818333">OPU</a></li>
+</ul>
+<h2 id="aufrufeappelle">Aufrufe/Appelle</h2>
+<p>Haltet mehr Abstand bei Joggen und Radfahren, zumindest 4-5 Meter!</p>
+<ul>
+<li><a href="http://www.urbanphysics.net/Social%20Distancing%20v20_White_Paper.pdf">Urbanphysics</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Die DGPI (Deutsche Gesellschaft für Pädiatrische Infektiologie, e.V.) verzeichnet mittlerweile zentral die bekannten CoViD-19-Fälle bei Kindern.</p>
+<ul>
+<li><a href="https://dgpi.de/covid-19-survey-update-06-04-2020/">DGPI</a></li>
+</ul>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. <a href="https://www.youtube.com/watch?v=Y6ljFaKRTrI">I&rsquo;ve got experiments to run. There is research to be done. On the people who are still alive!</a></p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 09.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_09/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_09/</guid><pubDate>Thu, 09 Apr 2020 20:30:00 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos die uns soweit bekannt sind zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Der Artikel beleuchtet ausführlich Maßnahmen im Rahmen von Geburt und Schwangerschaftsnachsorge mit CoViD-19-Infektion oder -Verdacht der Mütter.</p>
 <ul>
