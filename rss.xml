@@ -1,4 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 11 Apr 2020 20:23:50 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Osterferien</title><link>https://bulletin.cert.ccc.de/posts/2020_04_11/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_11/</guid><pubDate>Sat, 11 Apr 2020 20:11:12 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Auch heute wolltet ihr euch bestimmt wieder über die Nachrichten des Tages im CERT Bulletin informieren.</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Mon, 20 Apr 2020 20:48:33 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 20.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_20/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_20/</guid><pubDate>Mon, 20 Apr 2020 20:49:38 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!</p>
+<p>Nach einer Woche Pause ist der Cert-CoViD19-Newsletter zurück! Wir veröffentlichen ab sofort montags bis samstags. Sonntag ist Ruhetag für das Redaktionsteam.</p>
+<p>Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier wieder die neuesten und relevantesten Infos - soweit uns bekannt - zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Eine Studie zur Expression von ACE2-Rezeptoren in den Abschnitten des Gastrointestinaltraktes postuliert, basierend auf Annahmen zu SARS-CoV-1 und der Interaktion mit Natrium-Glucose-Transportern, warum die Hyperglykämie ein klinischer Prädiktor für einen schweren Erkrankungsverlauf sein kann und warum eine längere Viruspersistenz im GI-Trakt bestehen könnte. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li>[Bioxriv][https://www.biorxiv.org/content/10.1101/2020.04.14.040204v1]</li>
+</ul>
+<p>Die Studie betrachtet die Variabilität des ACE2-Rezeptors über Speziesgrenzen hinweg und stellt Prognosen bezüglich tierischer Zwischen- und Reservoirwirte für den Virus auf. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li>[Bioxriv][https://www.biorxiv.org/content/10.1101/2020.04.16.045302v1]</li>
+</ul>
+<p>Eine Studie versucht eine Abschätzung der Anzahl von Infektionen in den stark betroffenen italienischen Regionen durch einen Vergleich der Bevölkerungsmortalität mit den vergangenen 5 Jahren. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li>[Medxriv][https://www.medrxiv.org/content/10.1101/2020.04.15.20067074v1]</li>
+</ul>
+<p>Laut dieser Studie ist SARS-CoV-2 offenbar in der Lage, stark bezüglich Pathogenität und Virulenz zu mutieren, selbst innerhalb eines einzelnen Patienten. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li>[Medxriv][https://www.medrxiv.org/content/10.1101/2020.04.14.20060160v1]</li>
+</ul>
+<p>Einige Medikamente haben aktuell Lieferengpässe. Das Royal College of Anaesthetists hat eine Liste von möglichen Ausweichmedikamenten erstellt.</p>
+<ul>
+<li>[Royal College of Anaesthetists][https://icmanaesthesiacovid-19.org/drug-demand-supply-covid19-potential-anaesthetic-drug-list]</li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Alle Bundesländer haben neue Verordnungen erlassen, welche am 20.04.2020 in Kraft getreten sind.</p>
+<ul>
+<li>[Baden-Württemberg][https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/Coronainfos/200417_Fuenfte_VO_der_LReg_zur_Aenderung_der_CoronaVO.pdf]</li>
+<li>[Bayern][https://www.verkuendung-bayern.de/files/baymbl/2020/205/baymbl-2020-205.pdf]</li>
+<li>[Berlin][https://www.berlin.de/corona/_assets/downloads/2020-04-16_dritte-aenderung-eindmassnvo-final.pdf]</li>
+<li>[Brandenburg][https://kkm.brandenburg.de/sixcms/media.php/9/SARS-CoV-2-EindV3-13.pdf]</li>
+<li>[Bremen][https://www.gesetzblatt.bremen.de/fastmedia/832/2020_04_17_GBl_Nr_0026_signed.pdf]</li>
+<li>[Hamburg][https://www.hamburg.de/rechtsverordnungen/13862636/2020-04-17-rechtsverordnung/]</li>
+<li>[Hessen][https://www.hessen.de/sites/default/files/media/gvbl_2020_nr_19_002.pdf]</li>
+<li>[Mecklenburg-Vorpommern][https://www.regierung-mv.de/static/Regierungsportal/Ministerium%20f%C3%BCr%20Wirtschaft%2c%20Arbeit%20und%20Gesundheit/Dateien/Downloads/GVOBl.%20Nr.%2017%20vom%2017.4.2020%20-%20corona.pdf]</li>
+<li>[Niedersachsen][https://www.niedersachsen.de/download/154319/Niedersaechsisches_Gesetz-<em>und_Verordnungsblatt_10_2020_vom_17.04.2020_mit_der_Niedersaechsischen_Verordnung_zum_Schutz_vor_Neuinfektionen_mit_dem_Corona-Virus_ab_Seite_74</em>.pdf]</li>
+<li>[Nordrhein-Westfalen][https://www.land.nrw/sites/default/files/asset/document/2020-04-16_verordnung_zur_aenderung_von_rvoen.pdf]</li>
+<li>[Rheinland-Pfalz][https://corona.rlp.de/fileadmin/rlp-stk/pdf-Dateien/Corona/4._Corona-Bekaempfungsverordnung.pdf]</li>
+<li>[Saarland][https://corona.saarland.de/DE/service/downloads/_documents/corona-verfuegungen/dld_2020-04-17-bekanntmachung_VO.pdf?__blob=publicationFile&amp;v=1]</li>
+<li>[Sachsen][https://www.coronavirus.sachsen.de/download/SMS-SaechsCoronaSchVO-2020-04-17.pdf]</li>
+<li>[Sachsen-Anhalt][https://coronavirus.sachsen-anhalt.de/fileadmin/Bibliothek/Sonstige_Webprojekte/Corona-Portal/Dokumente/4._EindaemmungsVO.pdf]</li>
+<li>[Schleswig-Holstein][https://schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/Downloads/LandesverordnungCoronaMitUnterschriften.pdf?__blob=publicationFile&amp;v=13]</li>
+<li>[Thüringen][https://corona.thueringen.de/behoerden/ausgewaehlte-verordnungen/]</li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Der CCC hat in der Corona-Datenspende-App des RKI mehrere technische und organisatorische Mängel aufgedeckt. Einige dieser wurden bereits in Zusammenarbeit mit dem RKI und dessen Dienstleister behoben.</p>
+<ul>
+<li>[CCC][https://www.ccc.de/de/updates/2020/abofalle-datenspende]</li>
+</ul>
+<h2 id="aufrufeappelle">Aufrufe/Appelle</h2>
+<p>Bitte achtet auf eure Mitmenschen. Insbesondere in dieser Zeit gibt es Menschen, denen es deutlich schwerer fällt, sich an die Gegebenheiten anzupassen. Achtet auf die Menschen in eurer Umgebung und schaut, wie ihr auch in Zeiten von CoViD19 auf die Bedürfnisse anderer eingehen könnt.</p>
+<p>Eine Bitte in eigener Sache an alle unsere Leser: Wenn euch Links, Studien oder Inhalte begegnen, die für unser Bulletin interessant sein könnten, schickt sie uns an: [covid19@cert.ccc.de][mailto:covid19@cert.ccc.de]
+Wir verbringen sehr viel Zeit damit, geeignetes Material zu suchen und zu sichten. Da wir alle ehrenamtlich neben unseren Primärjobs tätig sind, ist jeder Link, den ihr uns schickt, einer weniger, den wir suchen müssen.</p>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Der Deutsche Rat für Wiederbelebung hat eine Richtlinie zum Umgang mit Wiederbelebungsmaßnahmen in Zeiten von CoViD19 veröffentlicht. Die Atemkontrolle soll auf die Überstreckung des Nackens und Prüfung einer Hebung bzw. Senkung des Brustkorbes reduziert und ggf. auf Atemspende verzichtet werden. Ein Hinweis wird in Bezug auf Kinder gegeben: Bei Kindern ist die Atemspende von besonderer Bedeutung und sollte mit dem eigenen Infektionsrisiko abgewogen werden.</p>
+<ul>
+<li>[Deutscher Rat für Wiederbelebung][https://www.grc-org.de/ueber-uns/aktuelles/130-Stellungnahme-des-GRC-zur-Durchfuhrung-von-Wiederbelebungsmassnahmen-im-Umfeld-der-COVID-19-Pandemie]</li>
+</ul>
+<h2 id="sonstiges">Sonstiges</h2>
+<p>Das Bundesinstitut für Arzneimittel und Medizinprodukte hat eine Klassifizierung von Masken und deren Einsatzzwecken veröffentlicht:</p>
+<ul>
+<li>[BMfAM][https://www.bfarm.de/SharedDocs/Risikoinformationen/Medizinprodukte/DE/schutzmasken.html]</li>
+</ul>
+<p>Wir hoffen, dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.</p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. Wie auch unsere Redaktion lernen musste: &ldquo;Nicht vergessen, Kinder: Abschalten!&rdquo;</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Osterferien</title><link>https://bulletin.cert.ccc.de/posts/2020_04_11/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_11/</guid><pubDate>Sat, 11 Apr 2020 20:11:12 +0100</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen! Auch heute wolltet ihr euch bestimmt wieder über die Nachrichten des Tages im CERT Bulletin informieren.</p>
 <p>Aber auch wir, die vielen fleißigen RedakteurInnen die dieses Medium neben dem regulären Job kuratieren und publizieren, benötigen mal eine Pause. Das ist in Zeiten einer andauernden Pandemie viel leichter gesagt als getan. Wir haben daher entschieden, bis einschließlich 19.04.2020 in die Osterferien zu gehen.</p>
 <p>Am 20.04.2020 werden wir euch wieder mit einem Newsletter mit kuratierten Informationen in gewohnter Qualität begrüßen.</p>
 <p>Ein Hinweis in chaotischer Sache: Unsere Kollegen vom Video Operations Center (VOC) halten jederzeit spannende Vorträge auf <a href="https://media.ccc.de">media.ccc.de</a> für euch bereit. Momentan veranstaltet das VOC eine dezentrale Konferenz, die <a href="https://di.c3voc.de/">DiVOC</a>. Auch das CERT ist dort mit einem telemedizinischen Sanitätsdienst unter der konferenzinternen Rufnummer <code>1818</code> vertreten.</p>
