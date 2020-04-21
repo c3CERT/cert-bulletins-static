@@ -1,67 +1,123 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Mon, 20 Apr 2020 20:48:33 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 20.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_20/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_20/</guid><pubDate>Mon, 20 Apr 2020 20:49:38 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 21 Apr 2020 19:44:16 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 21.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_21/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_21/</guid><pubDate>Tue, 21 Apr 2020 20:49:38 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!</p>
+<p>Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier wieder die neuesten und relevantesten Infos - soweit uns bekannt - zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Der Springer-Verlag stellt derzeit, bis mindestens Juli, diverse Bücher aus seinem Angebot kostenfrei online zur Verfügung. Sie wollen damit Online-Lehre und Ausbildung unterstützen. Der Link beinhaltet Excel-Tabellen zum Download. Dort findet man die betroffenen Bücher aufgelistet und in der Spalte Open-URL den Link zum Buch.</p>
+<ul>
+<li><a href="https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960">Springer</a></li>
+</ul>
+<p>Auch der Thieme-Verlag stellt einige seiner Ressourcen online kostenlos zur Verfügung:</p>
+<ul>
+<li><a href="https://www.thieme.de/de/corona.htm">Thieme</a></li>
+</ul>
+<p>An Gewebeproben dreier Patienten zeigte sich histologisch ein Befall des Endothels in Herz, Nieren, Dünndarm und Lunge sowie Entzündungsherde und Nekrosen durch SARS-CoV-2.</p>
+<ul>
+<li><a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2820%2930937-5/fulltext">The Lancet</a></li>
+</ul>
+<p>Die EU-Kommision hat Leitlinen zur Validierung kommerzieller Tests bei CoViD-19 veröffentlicht. Sie empfehlen ein wissenschaftliches Peer-Review der kommerziellen Produkte vor der Einbindung selbiger in den klinischen Alltag, da die Zulassung alleine keine ausreichende Leistung dieser Produkte garantiert. Des Weiteren will die Kommission auf eine unionsweite Angleichung der Teststrategien hinwirken.</p>
+<ul>
+<li><a href="https://ec.europa.eu/commission/presscorner/detail/de/ip_20_659">Europäische Kommision</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Die Koalitionsfraktionen im Deutschen Bundestag haben einen Gesetzentwurf eingebracht, welcher die Bundesregierung ermächtigen soll, einen &ldquo;Fall einer epidemischen Lage von nationaler Tragweite&rdquo; festzustellen und damit einhergehend das Bundesgesundheitsministerium (BMG) ermächtigt, &ldquo;durch Anordnung oder Rechtsverordnung ohne Zustimmung des Bundesrates Maßnahmen zur Grundversorgung mit Arzneimitteln, einschließlich Betäubungsmitteln, Medizinprodukten, Labordiagnostik, Hilfsmitteln, Gegenständen der persönlichen Schutzausrüstung und Produkten zur Desinfektion sowie zur Stärkung der personellen Ressourcen im Gesundheitswesen&rdquo; zu treffen. Des Weiteren sieht der Entwurf vor, dass das BMG die Approbationsordnung für Ärzte eigenständig ändern kann, um Medizinstudierende in pandemischen Lagen flexibler einsetzen zu können. Unter anderem sollen &ldquo;Erleichterungen im Ablauf des Dritten Abschnitts der Ärztlichen Prüfung vorgesehen werden, um zu gewährleisten, dass die aktuellen Studierenden ihr Medizinstudium planmäßig abschließen können. &quot;</p>
+<ul>
+<li><a href="https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/S/Entwurf_Gesetz_zum_Schutz_der_Bevoelkerung_bei_einer_epidemischen_Lage_von_nationaler_Tragweite.pdf">BMG</a></li>
+</ul>
+<p>Das Ärzteblatt hat sich ebenfalls mit weiteren Gesetzentwürfen beschäftigt und macht besonders auf die Pläne zu neuen Meldepflichten und Immunstatusnachweisen aufmerksam. Außerdem plant das Bundesgesundheitsministerium eine Erleichterung der Abrechnung der Intensivmedizinischen Komplexpauschale, so sollen die Krankenkassen die CoViD-19-Abrechungen der Krankenhäuser nicht mehr prüfen dürfen.</p>
+<ul>
+<li><a href="https://www.aerzteblatt.de/nachrichten/112130/Gesundheitsministerium-will-neue-Meldepflichten-bei-COVID-19">Ärzteblatt</a></li>
+<li><a href="https://www.aerzteblatt.de/nachrichten/112147/COVID-19-Ministerium-will-mehr-Tests-und-neue-Regeln-fuer-Krankenhaeuser">Ärzteblatt</a></li>
+</ul>
+<h2 id="aufrufeappelle">Aufrufe/Appelle</h2>
+<p>Das Zentrum für Qualität in der Pflege sammelt Erfahrungsberichte von Pflegefachleuten, Pflegehilfskräften, ehrenamtlichen Unterstützern sowie pflegenden Angehörigen</p>
+<ul>
+<li><a href="https://www.zqp.de/corona-dokumentation-pflegende/">ZQP</a></li>
+</ul>
+<p>Nachdem wir bereits in einer vergangenen Ausgabe Bedenken des CCCs zum Thema Datenschutz bei Contact-Tracing-Apps hatten, gibt es nun einen offenen Brief, der vier Kernprinzipien für diese Form von Apps fordert. Die Prinzipien umfassen Offenheit, Nachvollziehbarkeit, Datensparsamkeit und Beschränkung auf den Bereich der öffentlichen Gesundheit und Bekämpfung von CoViD19. Sie sollen dazu möglichst privatsphärefreundlich und auf Freiwilligkeit basierend sein.</p>
+<ul>
+<li><a href="https://news.rub.de/wissenschaft/2020-04-20-forderung-aus-der-forschung-offener-brief-zu-privatsphaerefreundlicher-corona-tracking-app#">RUB</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Die Statistiken der Todeszahlen aus England und Wales spiegeln die Effekte von CoViD-19 wieder. Der Effekt von CoViD-19 auf die Todeszahlen ist signifikant:</p>
+<ul>
+<li><a href="https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsregisteredweeklyinenglandandwalesprovisional/weekending10april2020">ONS</a></li>
+</ul>
+<h2 id="sonstiges">Sonstiges</h2>
+<p>Ähnlich zum deutschen Projekt #M4MvsCOVID ruft die University of California San Diego auf einer neuen Online-Plattform zum gemeinschaftlichen Kampf gegen CoViD-19 auf.</p>
+<ul>
+<li><a href="https://m4mvscovid.de/">#M4MvsCOVID</a></li>
+<li><a href="https://earth2-covid.ucsd.edu/home">UCSD</a></li>
+</ul>
+<p>Wir hoffen, dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. Das Krümelmonster möchte sich zukünftig ausschließlich von Studien ernähren. Wir halten das Krümelmonster gefangen.</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 20.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_20/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_20/</guid><pubDate>Mon, 20 Apr 2020 20:49:38 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!</p>
 <p>Nach einer Woche Pause ist der Cert-CoViD19-Newsletter zurück! Wir veröffentlichen ab sofort montags bis samstags. Sonntag ist Ruhetag für das Redaktionsteam.</p>
 <p>Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier wieder die neuesten und relevantesten Infos - soweit uns bekannt - zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Eine Studie zur Expression von ACE2-Rezeptoren in den Abschnitten des Gastrointestinaltraktes postuliert, basierend auf Annahmen zu SARS-CoV-1 und der Interaktion mit Natrium-Glucose-Transportern, warum die Hyperglykämie ein klinischer Prädiktor für einen schweren Erkrankungsverlauf sein kann und warum eine längere Viruspersistenz im GI-Trakt bestehen könnte. (Studie nicht peer-reviewed, Preprint)</p>
 <ul>
-<li>[Bioxriv][https://www.biorxiv.org/content/10.1101/2020.04.14.040204v1]</li>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.04.14.040204v1">Bioxriv</a></li>
 </ul>
 <p>Die Studie betrachtet die Variabilität des ACE2-Rezeptors über Speziesgrenzen hinweg und stellt Prognosen bezüglich tierischer Zwischen- und Reservoirwirte für den Virus auf. (Studie nicht peer-reviewed, Preprint)</p>
 <ul>
-<li>[Bioxriv][https://www.biorxiv.org/content/10.1101/2020.04.16.045302v1]</li>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.04.16.045302v1">Bioxriv</a></li>
 </ul>
 <p>Eine Studie versucht eine Abschätzung der Anzahl von Infektionen in den stark betroffenen italienischen Regionen durch einen Vergleich der Bevölkerungsmortalität mit den vergangenen 5 Jahren. (Studie nicht peer-reviewed, Preprint)</p>
 <ul>
-<li>[Medxriv][https://www.medrxiv.org/content/10.1101/2020.04.15.20067074v1]</li>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.15.20067074v1">Medxriv</a></li>
 </ul>
 <p>Laut dieser Studie ist SARS-CoV-2 offenbar in der Lage, stark bezüglich Pathogenität und Virulenz zu mutieren, selbst innerhalb eines einzelnen Patienten. (Studie nicht peer-reviewed, Preprint)</p>
 <ul>
-<li>[Medxriv][https://www.medrxiv.org/content/10.1101/2020.04.14.20060160v1]</li>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.14.20060160v1">Medxriv</a></li>
 </ul>
 <p>Einige Medikamente haben aktuell Lieferengpässe. Das Royal College of Anaesthetists hat eine Liste von möglichen Ausweichmedikamenten erstellt.</p>
 <ul>
-<li>[Royal College of Anaesthetists][https://icmanaesthesiacovid-19.org/drug-demand-supply-covid19-potential-anaesthetic-drug-list]</li>
+<li><a href="https://icmanaesthesiacovid-19.org/drug-demand-supply-covid19-potential-anaesthetic-drug-list">Royal College of Anaesthetists</a></li>
 </ul>
 <h2 id="rechtliches">Rechtliches</h2>
 <p>Alle Bundesländer haben neue Verordnungen erlassen, welche am 20.04.2020 in Kraft getreten sind.</p>
 <ul>
-<li>[Baden-Württemberg][https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/Coronainfos/200417_Fuenfte_VO_der_LReg_zur_Aenderung_der_CoronaVO.pdf]</li>
-<li>[Bayern][https://www.verkuendung-bayern.de/files/baymbl/2020/205/baymbl-2020-205.pdf]</li>
-<li>[Berlin][https://www.berlin.de/corona/_assets/downloads/2020-04-16_dritte-aenderung-eindmassnvo-final.pdf]</li>
-<li>[Brandenburg][https://kkm.brandenburg.de/sixcms/media.php/9/SARS-CoV-2-EindV3-13.pdf]</li>
-<li>[Bremen][https://www.gesetzblatt.bremen.de/fastmedia/832/2020_04_17_GBl_Nr_0026_signed.pdf]</li>
-<li>[Hamburg][https://www.hamburg.de/rechtsverordnungen/13862636/2020-04-17-rechtsverordnung/]</li>
-<li>[Hessen][https://www.hessen.de/sites/default/files/media/gvbl_2020_nr_19_002.pdf]</li>
-<li>[Mecklenburg-Vorpommern][https://www.regierung-mv.de/static/Regierungsportal/Ministerium%20f%C3%BCr%20Wirtschaft%2c%20Arbeit%20und%20Gesundheit/Dateien/Downloads/GVOBl.%20Nr.%2017%20vom%2017.4.2020%20-%20corona.pdf]</li>
-<li>[Niedersachsen][https://www.niedersachsen.de/download/154319/Niedersaechsisches_Gesetz-<em>und_Verordnungsblatt_10_2020_vom_17.04.2020_mit_der_Niedersaechsischen_Verordnung_zum_Schutz_vor_Neuinfektionen_mit_dem_Corona-Virus_ab_Seite_74</em>.pdf]</li>
-<li>[Nordrhein-Westfalen][https://www.land.nrw/sites/default/files/asset/document/2020-04-16_verordnung_zur_aenderung_von_rvoen.pdf]</li>
-<li>[Rheinland-Pfalz][https://corona.rlp.de/fileadmin/rlp-stk/pdf-Dateien/Corona/4._Corona-Bekaempfungsverordnung.pdf]</li>
-<li>[Saarland][https://corona.saarland.de/DE/service/downloads/_documents/corona-verfuegungen/dld_2020-04-17-bekanntmachung_VO.pdf?__blob=publicationFile&amp;v=1]</li>
-<li>[Sachsen][https://www.coronavirus.sachsen.de/download/SMS-SaechsCoronaSchVO-2020-04-17.pdf]</li>
-<li>[Sachsen-Anhalt][https://coronavirus.sachsen-anhalt.de/fileadmin/Bibliothek/Sonstige_Webprojekte/Corona-Portal/Dokumente/4._EindaemmungsVO.pdf]</li>
-<li>[Schleswig-Holstein][https://schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/Downloads/LandesverordnungCoronaMitUnterschriften.pdf?__blob=publicationFile&amp;v=13]</li>
-<li>[Thüringen][https://corona.thueringen.de/behoerden/ausgewaehlte-verordnungen/]</li>
+<li><a href="https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/Coronainfos/200417_Fuenfte_VO_der_LReg_zur_Aenderung_der_CoronaVO.pdf">Baden-Württemberg</a></li>
+<li><a href="https://www.verkuendung-bayern.de/files/baymbl/2020/205/baymbl-2020-205.pdf">Bayern</a></li>
+<li><a href="https://www.berlin.de/corona/_assets/downloads/2020-04-16_dritte-aenderung-eindmassnvo-final.pdf">Berlin</a></li>
+<li><a href="https://kkm.brandenburg.de/sixcms/media.php/9/SARS-CoV-2-EindV3-13.pdf">Brandenburg</a></li>
+<li><a href="https://www.gesetzblatt.bremen.de/fastmedia/832/2020_04_17_GBl_Nr_0026_signed.pdf">Bremen</a></li>
+<li><a href="https://www.hamburg.de/rechtsverordnungen/13862636/2020-04-17-rechtsverordnung/">Hamburg</a></li>
+<li><a href="https://www.hessen.de/sites/default/files/media/gvbl_2020_nr_19_002.pdf">Hessen</a></li>
+<li><a href="https://www.regierung-mv.de/static/Regierungsportal/Ministerium%20f%C3%BCr%20Wirtschaft%2c%20Arbeit%20und%20Gesundheit/Dateien/Downloads/GVOBl.%20Nr.%2017%20vom%2017.4.2020%20-%20corona.pdf">Mecklenburg-Vorpommern</a></li>
+<li><a href="https://www.niedersachsen.de/download/154319/Niedersaechsisches_Gesetz-_und_Verordnungsblatt_10_2020_vom_17.04.2020_mit_der_Niedersaechsischen_Verordnung_zum_Schutz_vor_Neuinfektionen_mit_dem_Corona-Virus_ab_Seite_74_.pdf">Niedersachsen</a></li>
+<li><a href="https://www.land.nrw/sites/default/files/asset/document/2020-04-16_verordnung_zur_aenderung_von_rvoen.pdf">Nordrhein-Westfalen</a></li>
+<li><a href="https://corona.rlp.de/fileadmin/rlp-stk/pdf-Dateien/Corona/4._Corona-Bekaempfungsverordnung.pdf">Rheinland-Pfalz</a></li>
+<li><a href="https://corona.saarland.de/DE/service/downloads/_documents/corona-verfuegungen/dld_2020-04-17-bekanntmachung_VO.pdf?__blob=publicationFile&amp;v=1">Saarland</a></li>
+<li><a href="https://www.coronavirus.sachsen.de/download/SMS-SaechsCoronaSchVO-2020-04-17.pdf">Sachsen</a></li>
+<li><a href="https://coronavirus.sachsen-anhalt.de/fileadmin/Bibliothek/Sonstige_Webprojekte/Corona-Portal/Dokumente/4._EindaemmungsVO.pdf">Sachsen-Anhalt</a></li>
+<li><a href="https://schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/Downloads/LandesverordnungCoronaMitUnterschriften.pdf?__blob=publicationFile&amp;v=13">Schleswig-Holstein</a></li>
+<li><a href="https://corona.thueringen.de/behoerden/ausgewaehlte-verordnungen/">Thüringen</a></li>
 </ul>
 <h2 id="technisches">Technisches</h2>
 <p>Der CCC hat in der Corona-Datenspende-App des RKI mehrere technische und organisatorische Mängel aufgedeckt. Einige dieser wurden bereits in Zusammenarbeit mit dem RKI und dessen Dienstleister behoben.</p>
 <ul>
-<li>[CCC][https://www.ccc.de/de/updates/2020/abofalle-datenspende]</li>
+<li><a href="https://www.ccc.de/de/updates/2020/abofalle-datenspende">CCC</a></li>
 </ul>
 <h2 id="aufrufeappelle">Aufrufe/Appelle</h2>
 <p>Bitte achtet auf eure Mitmenschen. Insbesondere in dieser Zeit gibt es Menschen, denen es deutlich schwerer fällt, sich an die Gegebenheiten anzupassen. Achtet auf die Menschen in eurer Umgebung und schaut, wie ihr auch in Zeiten von CoViD19 auf die Bedürfnisse anderer eingehen könnt.</p>
-<p>Eine Bitte in eigener Sache an alle unsere Leser: Wenn euch Links, Studien oder Inhalte begegnen, die für unser Bulletin interessant sein könnten, schickt sie uns an: [covid19@cert.ccc.de][mailto:covid19@cert.ccc.de]
+<p>Eine Bitte in eigener Sache an alle unsere Leser: Wenn euch Links, Studien oder Inhalte begegnen, die für unser Bulletin interessant sein könnten, schickt sie uns an: <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a>
 Wir verbringen sehr viel Zeit damit, geeignetes Material zu suchen und zu sichten. Da wir alle ehrenamtlich neben unseren Primärjobs tätig sind, ist jeder Link, den ihr uns schickt, einer weniger, den wir suchen müssen.</p>
 <h2 id="gesellschaftliches">Gesellschaftliches</h2>
 <p>Der Deutsche Rat für Wiederbelebung hat eine Richtlinie zum Umgang mit Wiederbelebungsmaßnahmen in Zeiten von CoViD19 veröffentlicht. Die Atemkontrolle soll auf die Überstreckung des Nackens und Prüfung einer Hebung bzw. Senkung des Brustkorbes reduziert und ggf. auf Atemspende verzichtet werden. Ein Hinweis wird in Bezug auf Kinder gegeben: Bei Kindern ist die Atemspende von besonderer Bedeutung und sollte mit dem eigenen Infektionsrisiko abgewogen werden.</p>
 <ul>
-<li>[Deutscher Rat für Wiederbelebung][https://www.grc-org.de/ueber-uns/aktuelles/130-Stellungnahme-des-GRC-zur-Durchfuhrung-von-Wiederbelebungsmassnahmen-im-Umfeld-der-COVID-19-Pandemie]</li>
+<li><a href="https://www.grc-org.de/ueber-uns/aktuelles/130-Stellungnahme-des-GRC-zur-Durchfuhrung-von-Wiederbelebungsmassnahmen-im-Umfeld-der-COVID-19-Pandemie">Deutscher Rat für Wiederbelebung</a></li>
 </ul>
 <h2 id="sonstiges">Sonstiges</h2>
 <p>Das Bundesinstitut für Arzneimittel und Medizinprodukte hat eine Klassifizierung von Masken und deren Einsatzzwecken veröffentlicht:</p>
 <ul>
-<li>[BMfAM][https://www.bfarm.de/SharedDocs/Risikoinformationen/Medizinprodukte/DE/schutzmasken.html]</li>
+<li><a href="https://www.bfarm.de/SharedDocs/Risikoinformationen/Medizinprodukte/DE/schutzmasken.html">BMfAM</a></li>
 </ul>
-<p>Wir hoffen, dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.</p>
+<p>Wir hoffen dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
 <p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
 <p>Grüße
 Euer CERT</p>
@@ -1518,7 +1574,7 @@ Da ihr euch mit unseren tägliches Updates rund um das CoViD-19 Virus auf dem La
 <h2 id="gesellschaftliches">Gesellschaftliches</h2>
 <p>Das Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAINBw) hat als <a href="https://www.bmvg.de/de/aktuelles/corona-pandemie-bundeswehr-beschafft-medizinisches-material-224904">Amtshilfe für das Bundesgesundheitsministerium binnen zwei Wochen medizinisches Material im Wert von 241 Millionen Euro beschafft</a>. Darunter fallen 300.000 Schutzbrillen und Schutzmasken, die umgehend geliefert werden. Wie aus den Nachrichten zu entnehmen ist, werden 3.000 Atemschutzmasken der Stufe FFP2 und 15.000 Mund- und Nasenschutzmasken in den besonders betroffenen Kreis Heinsberg in Nordrhein-Westfalen geschickt.</p>
 <p>Wir hoffen dass euch dieses Update euch eine nützliche Hilfe ist und sein wird.
-Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an covid19@cert.ccc.de</p>
+Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
 <p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
 <p>Grüße
 Euer CERT</p>
