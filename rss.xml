@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Wed, 22 Apr 2020 20:36:43 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 22.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_22/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_22/</guid><pubDate>Wed, 22 Apr 2020 20:36:12 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Wed, 22 Apr 2020 20:43:56 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 22.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_22/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_22/</guid><pubDate>Wed, 22 Apr 2020 20:36:12 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!</p>
 <p>Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier wieder die neuesten und relevantesten Infos - soweit uns bekannt - zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>DasFOAM hat sich mit dem Thema CoViD-19 und Gerinnung beschäftigt und die aktuellen Erkenntnisse zusammengefasst:</p>
@@ -11,8 +11,10 @@
 </ul>
 <p>Eine Case-Studie zeichnet den Krankheitsverlauf zweier Patienten, die neben CoViD-19 zusätzlich Encephalitis-Symptome entwickelten, welche unbehandelt mit Abebben der CoViD-Infektion verschwanden. (Studie nicht peer-reviewed, Preprint)</p>
 <ul>
-<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.17.20060251v1">MedRxiv</a>
-Daneben ist ein weiterer Fall mit ZNS-Beteiligung in einer anderen Studie beschrieben. (Studie nicht peer-reviewed, Preprint):</li>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.17.20060251v1">MedRxiv</a></li>
+</ul>
+<p>Daneben ist ein weiterer Fall mit ZNS-Beteiligung in einer anderen Studie beschrieben. (Studie nicht peer-reviewed, Preprint):</p>
+<ul>
 <li><a href="https://www.medrxiv.org/content/10.1101/2020.04.16.20068148v1">MedRxiv</a></li>
 </ul>
 <p>38 Lungen wurden post-mortem histologisch untersucht, die Auswirkungen sind tabellarisch dargestellt. Auffällig waren multiple Thromben in den kleinen Lungenarterien bei gleichzeitig erhöhten D-Dimeren. Dies könnte Sauerstoffmangel bei schweren Covid-19-Erkrankungen gut erklären. (Studie nicht peer-reviewed, Preprint)</p>
@@ -36,41 +38,71 @@ Daneben ist ein weiterer Fall mit ZNS-Beteiligung in einer anderen Studie beschr
 <li><a href="https://www.biorxiv.org/content/10.1101/2020.04.18.047951v2">BioRxiv</a></li>
 </ul>
 <h2 id="rechtliches">Rechtliches</h2>
-<p>Nach Sachsen, wo bereits am Montag eine Maskentragepflicht in Kraft trat, führen nun auch alle anderen Bundesländer im Laufe der kommenden Tage eine solche ein.
-Baden-Württemberg: Maskenpflicht ab Montag, 27. April 2020</p>
+<p>Nach Sachsen, wo bereits am Montag eine Maskentragepflicht in Kraft trat, führen nun auch alle anderen Bundesländer im Laufe der kommenden Tage eine solche ein.</p>
+<p>Baden-Württemberg: Maskenpflicht ab Montag, 27. April 2020</p>
 <ul>
-<li><a href="https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/landesregierung-beschliesst-maskenpflicht/">Baden-Württemberg</a>
-Bayern: Maskenpflicht ab Montag, 27. April 2020, für Kinder ab 7 Jahren</li>
-<li><a href="https://bayern.de/huml-beim-einkaufen-und-im-oeffentlichen-nahverkehr-schon-jetzt-mund-nasen-bedeckung-tragen-bayerns-gesundheitsministerin-die-sogenannte-maskenpflicht-ab-dem-27-april-gilt-ab-sieben-jahren/">Bayern</a>
-Berlin: Maskenpflicht ab Montag, 27. April 2020</li>
-<li><a href="https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2020/pressemitteilung.923456.php">Berlin</a>
-Brandenburg: Maskenpflicht ab Montag, 27. April 2020
-Brandenburg will die Maskenpflicht in öffentlichen Verkehrsmitteln und im Einzelhandel ab Montag einführen. Das Kabinett wird die Weichen dafür am Freitag stellen, wie Regierungssprecher Florian Engels laut Presse mitteilte.</li>
-<li>Keine Pressemitteilung vorhanden
-Bremen: Maskenpflicht ab Montag, 27. April 2020
-Am Freitag werde laut Presseinformationen die Maskenpflicht formal beschlossen.</li>
-<li>Keine Pressemitteilung vorhanden
-Hamburg: Maskenpflicht ab Montag, 27. April 2020</li>
-<li><a href="https://www.hamburg.de/faq-corona-beratung/#neunundzwanzig">Hamburg</a>
-Hessen: Maskenpflicht ab Montag, 27. April 2020</li>
-<li><a href="https://www.hessen.de/presse/pressemitteilung/landesregierung-beschliesst-maskenpflicht">Hessen</a>
-Mecklenburg-Vorpommern: Maskenpflicht ab Montag, 27. April 2020</li>
-<li><a href="https://www.regierung-mv.de/service/MV-Plan/">Mecklenburg-Vorpommern</a>
-Niedersachsen: Maskenpflicht ab Montag, 27. April 2020</li>
-<li><a href="https://www.niedersachsen.de/Coronavirus/ausbreitung-verhindern-alle-konnen-was-tun-185452.html">Niedersachsen</a>
-Nordrhein-Westfalen: Maskenpflicht ab Montag, 27. April 2020</li>
-<li><a href="https://www.land.nrw/de/pressemitteilung/nordrhein-westfalen-niedersachsen-rheinland-pfalz-und-das-saarland-fuehren">Nordrhein-Westfalen</a>
-Rheinland-Pfalz: Maskenpflicht ab Montag, 27. April 2020</li>
-<li><a href="https://corona.rlp.de/de/aktuelles/detail/news/News/detail/ministerpraesidentin-malu-dreyer-maskenpflicht-ab-27-april-motto-ich-schuetze-dich-du-schuetzt-m/">Rheinland-Pfalz</a>
-Saarland: Maskenpflicht ab Montag, 27. April 2020</li>
-<li><a href="https://corona.saarland.de/DE/service/medieninfos/_documents/pm_2020-04-22-maskenpflicht.html">Saarland</a>
-Sachsen: Maskenpflicht seit Montag, 20. April 2020</li>
-<li><a href="https://www.coronavirus.sachsen.de/?_cp=%7B%22accordion-content-4444%22%3A%7B%220%22%3Atrue%7D%2C%22previousOpen%22%3A%7B%22group%22%3A%22accordion-content-4444%22%2C%22idx%22%3A0%7D%7D">Sachsen</a>
-Sachsen-Anhalt: Maskenpflicht ab Donnerstag, 23. April 2020</li>
-<li><a href="https://coronavirus.sachsen-anhalt.de/news-detail/news/land-fuehrt-mundschutzpflicht-ein/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=1eee2b4a2cba69b858b89e12063bb570">Sachsen-Anhalt</a>
-Schleswig-Holstein: Maskenpflicht ab Mittwoch, 29. April 2020</li>
-<li><a href="https://www.schleswig-holstein.de/DE/Landesregierung/I/_startseite/Artikel2020/II/200422_maskenpflicht.html">Schleswig-Holstein</a>
-Thüringen: Maskenpflicht ab Freitag, 24. April 2020</li>
+<li><a href="https://www.baden-wuerttemberg.de/de/service/alle-meldungen/meldung/pid/landesregierung-beschliesst-maskenpflicht/">Baden-Württemberg</a></li>
+</ul>
+<p>Bayern: Maskenpflicht ab Montag, 27. April 2020, für Kinder ab 7 Jahren</p>
+<ul>
+<li><a href="https://bayern.de/huml-beim-einkaufen-und-im-oeffentlichen-nahverkehr-schon-jetzt-mund-nasen-bedeckung-tragen-bayerns-gesundheitsministerin-die-sogenannte-maskenpflicht-ab-dem-27-april-gilt-ab-sieben-jahren/">Bayern</a></li>
+</ul>
+<p>Berlin: Maskenpflicht ab Montag, 27. April 2020</p>
+<ul>
+<li><a href="https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2020/pressemitteilung.923456.php">Berlin</a></li>
+</ul>
+<p>Brandenburg: Maskenpflicht ab Montag, 27. April 2020
+Brandenburg will die Maskenpflicht in öffentlichen Verkehrsmitteln und im Einzelhandel ab Montag einführen. Das Kabinett wird die Weichen dafür am Freitag stellen, wie Regierungssprecher Florian Engels laut Presse mitteilte.</p>
+<ul>
+<li>Keine Pressemitteilung vorhanden</li>
+</ul>
+<p>Bremen: Maskenpflicht ab Montag, 27. April 2020
+Am Freitag werde laut Presseinformationen die Maskenpflicht formal beschlossen.</p>
+<ul>
+<li>Keine Pressemitteilung vorhanden</li>
+</ul>
+<p>Hamburg: Maskenpflicht ab Montag, 27. April 2020</p>
+<ul>
+<li><a href="https://www.hamburg.de/faq-corona-beratung/#neunundzwanzig">Hamburg</a></li>
+</ul>
+<p>Hessen: Maskenpflicht ab Montag, 27. April 2020</p>
+<ul>
+<li><a href="https://www.hessen.de/presse/pressemitteilung/landesregierung-beschliesst-maskenpflicht">Hessen</a></li>
+</ul>
+<p>Mecklenburg-Vorpommern: Maskenpflicht ab Montag, 27. April 2020</p>
+<ul>
+<li><a href="https://www.regierung-mv.de/service/MV-Plan/">Mecklenburg-Vorpommern</a></li>
+</ul>
+<p>Niedersachsen: Maskenpflicht ab Montag, 27. April 2020</p>
+<ul>
+<li><a href="https://www.niedersachsen.de/Coronavirus/ausbreitung-verhindern-alle-konnen-was-tun-185452.html">Niedersachsen</a></li>
+</ul>
+<p>Nordrhein-Westfalen: Maskenpflicht ab Montag, 27. April 2020</p>
+<ul>
+<li><a href="https://www.land.nrw/de/pressemitteilung/nordrhein-westfalen-niedersachsen-rheinland-pfalz-und-das-saarland-fuehren">Nordrhein-Westfalen</a></li>
+</ul>
+<p>Rheinland-Pfalz: Maskenpflicht ab Montag, 27. April 2020</p>
+<ul>
+<li><a href="https://corona.rlp.de/de/aktuelles/detail/news/News/detail/ministerpraesidentin-malu-dreyer-maskenpflicht-ab-27-april-motto-ich-schuetze-dich-du-schuetzt-m/">Rheinland-Pfalz</a></li>
+</ul>
+<p>Saarland: Maskenpflicht ab Montag, 27. April 2020</p>
+<ul>
+<li><a href="https://corona.saarland.de/DE/service/medieninfos/_documents/pm_2020-04-22-maskenpflicht.html">Saarland</a></li>
+</ul>
+<p>Sachsen: Maskenpflicht seit Montag, 20. April 2020</p>
+<ul>
+<li><a href="https://www.coronavirus.sachsen.de/?_cp=%7B%22accordion-content-4444%22%3A%7B%220%22%3Atrue%7D%2C%22previousOpen%22%3A%7B%22group%22%3A%22accordion-content-4444%22%2C%22idx%22%3A0%7D%7D">Sachsen</a></li>
+</ul>
+<p>Sachsen-Anhalt: Maskenpflicht ab Donnerstag, 23. April 2020</p>
+<ul>
+<li><a href="https://coronavirus.sachsen-anhalt.de/news-detail/news/land-fuehrt-mundschutzpflicht-ein/?tx_news_pi1%5Bcontroller%5D=News&amp;tx_news_pi1%5Baction%5D=detail&amp;cHash=1eee2b4a2cba69b858b89e12063bb570">Sachsen-Anhalt</a></li>
+</ul>
+<p>Schleswig-Holstein: Maskenpflicht ab Mittwoch, 29. April 2020</p>
+<ul>
+<li><a href="https://www.schleswig-holstein.de/DE/Landesregierung/I/_startseite/Artikel2020/II/200422_maskenpflicht.html">Schleswig-Holstein</a></li>
+</ul>
+<p>Thüringen: Maskenpflicht ab Freitag, 24. April 2020</p>
+<ul>
 <li><a href="https://corona.thueringen.de/">Thüringen</a></li>
 </ul>
 <h2 id="aufrufeappelle">Aufrufe/Appelle</h2>
