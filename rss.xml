@@ -1,4 +1,58 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Wed, 22 Apr 2020 20:47:54 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 22.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_22/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_22/</guid><pubDate>Wed, 22 Apr 2020 20:36:12 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Thu, 23 Apr 2020 20:42:23 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 23.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_23/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_23/</guid><pubDate>Thu, 23 Apr 2020 22:21:12 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!</p>
+<p>Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevanten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Das erste Testkit für den Heimgebrauch wurde von der FDA zugelassen.</p>
+<ul>
+<li><a href="https://www.pixel.labcorp.com/at-home-test-kits/covid-19-test">Home Test Kit</a></li>
+<li><a href="https://www.pixel.labcorp.com/sites/default/files/covid-19-healthcare-provider-facts.pdf?v=1">Anleitung für medizinische Fachkräfte</a></li>
+</ul>
+<p>Eine Metastudie zu Krankheitsverlauf und Riskofaktoren bei über 20.000 Patienten bestätigt die bisherigen Erkenntnisse.</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.18.20070565v1">MedRxiv</a></li>
+</ul>
+<p>Anhand von 50 vorerkrankungsfreien CoViD-19 Patienten wird ein Phänotyp vermutet, welcher mit stark verminderter IFN-1-response und erhöhter TNF-α und IL-6-Expression einhergehen könnte.</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.19.20068015v1">MedRxiv</a></li>
+</ul>
+<p>Die Studie untersucht Gemeinsamkeiten der verschiedenen Kladen von SARS-CoV-2 und ermittelt einen Barcode, welcher die Identifikation erleichtert. Zudem wird dargelegt, an welchen Stellen Mutationen für eine signifikante Aufspaltung in Untergruppen auftraten.</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.04.21.054221v1">BioXriv</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Der Europäische Datenschutzausschuss hat Richtlinien zur Verwendung von Standort- und Kontaktdaten durch Tracing-Apps und zur Verarbeitung von Daten betreffend der Gesundheit zum Zwecke der wissenschaftlichen Forschung im Rahmen der CoViD-19-Pandemie herausgegeben. In der zweitgenannten Richtlinie wird erlassen, wie weitreichend die DSGVO-Ausnahmen sein können.</p>
+<ul>
+<li><a href="https://edpb.europa.eu/sites/edpb/files/files/file1/edpb_guidelines_20200420_contact_tracing_covid_with_annex_en.pdf">Erste Richtline</a></li>
+<li>[Zweite Richtline](<a href="https://edpb.europa.eu/sites/edpb/files/files/fileuropean">https://edpb.europa.eu/sites/edpb/files/files/fileuropean</a> data protection boarde1/edpb_guidelines_202003_healthdatascientificresearchcovid19_en.pdf)</li>
+</ul>
+<p>Bayern setzt bei der Eindämmung auch auf digitale Lösungen. Über die Plattform BaySIM (Bayerisches System für Infektionskettenmanagement) können infizierte Personen und deren Kontaktpersonen von Behörden erfasst werden. Zudem können Infizierte selbstständig Symptom-Checks durchführen und Daten an Gesundheitsbehörden übermitteln.</p>
+<ul>
+<li><a href="https://www.stmgp.bayern.de/presse/huml-und-gerlach-bayern-setzt-bei-der-eindaemmung-der-corona-epidemie-auch-auf-digitale/">StMGP</a></li>
+</ul>
+<h2 id="aufrufeappelle">Aufrufe/Appelle</h2>
+<p>Unterstützt Hausärzte, damit diese ihre Arbeit machen können! Sie benötigen u.a. Schutzausrüstungen und passende gesetzliche Regelungen.</p>
+<ul>
+<li><a href="https://www.openpetition.de/petition/online/wir-sind-da-auch-in-der-krise-wenn-man-uns-laesst-ihre-hausaerzt-innen-hausaerztinnensindda">Petition</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Laut einer Modellanalyse der WHO könnte ein Mangel an mit Insektiziden behandelten Netzen und Malariamedikamenten die Zahl der Malariatoten in den Sub-Sahara-Regionen Afrikas im Vergleich zum Vorjahr stark ansteigen lassen. Die WHO ruft daher ihre Mitgliedsstaaten dazu auf, die Versorgung mit Materialien zur Prävention und Bekämpfung von Malaria sicherzustellen.</p>
+<ul>
+<li><a href="https://www.who.int/news-room/detail/23-04-2020-who-urges-countries-to-move-quickly-to-save-lives-from-malaria-in-sub-saharan-africa">Modellanalyse der WHO</a></li>
+</ul>
+<p>Wer noch Masken benötigt und/oder selbst welche nähen will, hat die Auswahl aus mehreren Schnittmustern. Nachfolgend stellen wir Varianten vor:</p>
+<ul>
+<li><a href="https://www.instagram.com/p/B94jns6qpsL/">Variante mit Biegebügel an der Nase und der Möglichkeit, einen Filter einzulegen: - Teil 1</a></li>
+<li><a href="https://www.instagram.com/p/B94kr0SKCzb/">Variante mit Biegebügel an der Nase und der Möglichkeit, einen Filter einzulegen: - Teil 2</a></li>
+<li><a href="https://www.instagram.com/p/B94lAH-qII-/">Variante mit Biegebügel an der Nase und der Möglichkeit, einen Filter einzulegen: - Teil 3</a></li>
+<li><a href="https://www.malu-naehcafe.de/2020/03/19/n%C3%A4hanleitung-mundschutz/">Variante ohne Biegebügel an der Nase</a></li>
+<li><a href="https://www.burdastyle.de/mundschutz_tutorial">Zwei weitere Varianten</a></li>
+</ul>
+<p>Wir hoffen, dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. Falls ihr mal ein Bulletin verpassen solltet, fragt mal euren Mailserver, ob er sich einen Snack gegönnt hat.</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 22.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_22/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_22/</guid><pubDate>Wed, 22 Apr 2020 20:36:12 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!</p>
 <p>Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier wieder die neuesten und relevantesten Infos - soweit uns bekannt - zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>DasFOAM hat sich mit dem Thema CoViD-19 und Gerinnung beschäftigt und die aktuellen Erkenntnisse zusammengefasst:</p>
