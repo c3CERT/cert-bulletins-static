@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Fri, 24 Apr 2020 20:18:07 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 24.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_24/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_24/</guid><pubDate>Fri, 24 Apr 2020 18:21:12 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Fri, 24 Apr 2020 20:23:57 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 24.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_24/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_24/</guid><pubDate>Fri, 24 Apr 2020 18:21:12 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Eine Auswahl an haushaltsüblichen Stoffen wird auf die praktische Nutzbarkeit als Maskengrundlage sowie die resultierende Effizienz untersucht und mit einer handelsüblichen chirurgischen Maske verglichen. (Studie nicht peer-reviewed, Preprint)</p>
@@ -59,15 +59,15 @@ Euer CERT</p>
 <li><a href="https://www.pixel.labcorp.com/at-home-test-kits/covid-19-test">Home Test Kit</a></li>
 <li><a href="https://www.pixel.labcorp.com/sites/default/files/covid-19-healthcare-provider-facts.pdf?v=1">Anleitung für medizinische Fachkräfte</a></li>
 </ul>
-<p>Eine Metastudie zu Krankheitsverlauf und Riskofaktoren bei über 20.000 Patienten bestätigt die bisherigen Erkenntnisse.</p>
+<p>Eine Metastudie zu Krankheitsverlauf und Riskofaktoren bei über 20.000 Patienten bestätigt die bisherigen Erkenntnisse. (Studie nicht peer-reviewed, Preprint)</p>
 <ul>
 <li><a href="https://www.medrxiv.org/content/10.1101/2020.04.18.20070565v1">MedRxiv</a></li>
 </ul>
-<p>Anhand von 50 vorerkrankungsfreien CoViD-19 Patienten wird ein Phänotyp vermutet, welcher mit stark verminderter IFN-1-response und erhöhter TNF-α und IL-6-Expression einhergehen könnte.</p>
+<p>Anhand von 50 vorerkrankungsfreien CoViD-19 Patienten wird ein Phänotyp vermutet, welcher mit stark verminderter IFN-1-response und erhöhter TNF-α und IL-6-Expression einhergehen könnte. (Studie nicht peer-reviewed, Preprint)</p>
 <ul>
 <li><a href="https://www.medrxiv.org/content/10.1101/2020.04.19.20068015v1">MedRxiv</a></li>
 </ul>
-<p>Die Studie untersucht Gemeinsamkeiten der verschiedenen Kladen von SARS-CoV-2 und ermittelt einen Barcode, welcher die Identifikation erleichtert. Zudem wird dargelegt, an welchen Stellen Mutationen für eine signifikante Aufspaltung in Untergruppen auftraten.</p>
+<p>Die Studie untersucht Gemeinsamkeiten der verschiedenen Kladen von SARS-CoV-2 und ermittelt einen Barcode, welcher die Identifikation erleichtert. Zudem wird dargelegt, an welchen Stellen Mutationen für eine signifikante Aufspaltung in Untergruppen auftraten. (Studie nicht peer-reviewed, Preprint)</p>
 <ul>
 <li><a href="https://www.biorxiv.org/content/10.1101/2020.04.21.054221v1">BioXriv</a></li>
 </ul>
