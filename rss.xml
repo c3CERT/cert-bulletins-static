@@ -1,48 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Fri, 24 Apr 2020 20:23:57 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 24.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_24/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_24/</guid><pubDate>Fri, 24 Apr 2020 18:21:12 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Fri, 24 Apr 2020 21:40:05 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 24.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_24/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_24/</guid><pubDate>Fri, 24 Apr 2020 18:21:12 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Eine Auswahl an haushaltsüblichen Stoffen wird auf die praktische Nutzbarkeit als Maskengrundlage sowie die resultierende Effizienz untersucht und mit einer handelsüblichen chirurgischen Maske verglichen. (Studie nicht peer-reviewed, Preprint)</p>
 <ul>
-<li><a href="s://www.medrxiv.org/content/10.1101/2020.04.19.20071779v1">Medrxiv</a></li>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.19.20071779v1">Medrxiv</a></li>
 </ul>
 <p>Eine Studie zur Sterilisierung von N95 Masken via UV-Licht, welche zeigt, dass keine signifikanten Schäden bei guter Wirkung auftreten. Dazu eine Anleitung für eine improvisierte UV-Sterilisierungsanlage für $50. (Studie nicht peer-reviewed, Preprint)</p>
 <ul>
-<li><a href="s://www.medrxiv.org/content/10.1101/2020.04.19.20070870v1">Medrxiv</a></li>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.19.20070870v1">Medrxiv</a></li>
 </ul>
 <p>Das RKI empfiehlt, die Tests nun auch auf die unteren Atemwege auszuweiten.</p>
 <ul>
-<li><a href="s://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Vorl_Testung_nCoV.html">RKI</a></li>
+<li><a href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Vorl_Testung_nCoV.html">RKI</a></li>
 </ul>
 <p>Eine Metastudie mit rund 2400 Patienten findet Hinweise, dass verringerte Lymphozyten und erhöhte CRP-, LDH- oder D-Dimer-Werte Indikatoren für einen schweren Covid19 Verlauf sein können. (Studie nicht peer-reviewed, Preprint)</p>
 <ul>
-<li><a href="s://www.medrxiv.org/content/10.1101/2020.04.20.20072801v1">Medrxiv</a></li>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.20.20072801v1">Medrxiv</a></li>
 </ul>
 <p>Eine mathematische Modelierung des Pandemieverlaufs in Deutschland und Polen kommt zum Schluss, dass die Strategie einer Herdenimmunität ohne Überlastung des Gesundheitssystems wahrscheinlich nicht erfolgreich sein wird. (Studie nicht peer-reviewed, Preprint)</p>
 <ul>
-<li><a href="s://www.medrxiv.org/content/10.1101/2020.03.25.20043109v1.full.pdf">Medrxiv</a></li>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.03.25.20043109v1.full.pdf">Medrxiv</a></li>
 </ul>
 <p>Eine Studie zu den Schäden am Herzen bei 2700 Covid19-Patienten in New York City findet bei ca 40% der Fälle mit erhöhtem Troponin eine Myokardschädigung. (Studie nicht peer-reviewed, Preprint)</p>
 <ul>
-<li><a href="s://www.medrxiv.org/content/10.1101/2020.04.20.20072702v1">Medrxiv</a></li>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.20.20072702v1">Medrxiv</a></li>
 </ul>
 <p>Laut einer Studie mit 360 Patienten sind weder ACE-Hemmer noch ARBs Risikofaktoren.</p>
 <ul>
-<li><a href="s://jamanetwork.com/journals/jamacardiology/fullarticle/2765049">Jamanetwork</a></li>
+<li><a href="https://jamanetwork.com/journals/jamacardiology/fullarticle/2765049">Jamanetwork</a></li>
 </ul>
 <h2 id="technisches">Technisches</h2>
 <p>In einem offenen Brief wenden sich mehrere netzpolitische Organisationen, darunter unter anderem das D64 - Zentrum für Digitalen Fortschritt und der Chaos Computer Club, an Gesundheitsminister Jens Spahn. Sie drängen, die Forderungen der Wissenschaft und die Bedenken der IT-ExpertInnen ernst zu nehmen, denn eine &ldquo;Bruchlandung [&hellip;] kann sich in der Bekämpfung der Pandemie niemand leisten&rdquo;</p>
 <ul>
-<li><a href="s://d-64.org/offener-brief-corona-app/">d-64</a></li>
-<li><a href="s://www.ccc.de/de/updates/2020/corona-tracing-app-offener-brief-an-bundeskanzleramt-und-gesundheitsminister">Statement des CCC</a></li>
+<li><a href="https://d-64.org/offener-brief-corona-app/">d-64</a></li>
+<li><a href="https://www.ccc.de/de/updates/2020/corona-tracing-app-offener-brief-an-bundeskanzleramt-und-gesundheitsminister">Statement des CCC</a></li>
 </ul>
 <h2 id="gesellschaftliches">Gesellschaftliches</h2>
 <p>Das RKI hat in seiner Pressekonferenz vom 24.04.2020 empfohlen, bei Atemwegserkrankungen grundsätzlich auf eine Infektion mit SARS-CoV-2 zu testen. Anders als bisher soll dies unabhängig von den verfügbaren Testkapazitäten passieren.</p>
 <ul>
-<li><a href="s://www.youtube.com/watch?v=7kyfoX71TR4">YouTube</a></li>
+<li><a href="https://www.youtube.com/watch?v=7kyfoX71TR4">YouTube</a></li>
 </ul>
 <p>In Korea hat die vollständige Transparenz der IT-Lösung für COVID19 contact tracing dazu geführt, dass Infizierte sowie die von ihnen aufgesuchten Örtlichkeiten gemieden wurden. Obwohl die eingesetzte Lösung als hilfreich erachtet wurde, wird im folgenden Artikel für eine Nachjustierung plädiert. Zukünftige IT-Lösungen sollen eine Balance zwischen Datenschutz und Effektivität der Maßnahmen beinhalten.</p>
 <ul>
-<li><a href="s://jamanetwork.com/journals/jama/fullarticle/2765252">Jamanetwork</a></li>
+<li><a href="https://jamanetwork.com/journals/jama/fullarticle/2765252">Jamanetwork</a></li>
 </ul>
 <p>Wir hoffen, dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
 Wenn ihr noch wertvolle und fehlende Infos habt die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
