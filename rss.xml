@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Fri, 24 Apr 2020 21:40:05 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 24.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_24/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_24/</guid><pubDate>Fri, 24 Apr 2020 18:21:12 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 25 Apr 2020 19:52:57 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 25.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_25/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_25/</guid><pubDate>Sat, 25 Apr 2020 18:21:12 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Eine weitere Maskenstoff-Studie, welche diesmal den Fokus auf die Filtereffizienz verschiedener Stoffe bezüglich der Droplet-Größe legt.</p>
+<ul>
+<li><a href="https://pubs.acs.org/doi/10.1021/acsnano.0c03252">Acs</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Mangels Evidenz warnt die Weltgesundheitsorganisation vor dem voreiligen Ausstellen sogenannter Immunitätsausweise, welche genesenen Personen einen erweiterten Bewegungsfreiraum gewähren sollen. Zum gegenwärtigen Zeitpunkt sei noch nicht bekannt, ob und in welchem Umfang nach einer überstandenen CoViD-19 Erkrankung eine Immunität gegen das SARS-CoV-2 Virus ausgebildet wird.</p>
+<ul>
+<li><a href="https://www.who.int/news-room/commentaries/detail/immunity-passports-in-the-context-of-covid-19">WHO</a></li>
+</ul>
+<p>Der aktuellen Auswertung der COSMO-Studie ist zu entnehmen, dass das Risikowahrnehmung in der Bevölkerung abnimmt und sich eine Gewöhnung an die vorherrschende Krisensituation einstellt. Es scheint geboten, die Bevölkerung für das Tragen von (Behelfs-)Masken zu sensibilisieren.</p>
+<ul>
+<li><a href="https://projekte.uni-erfurt.de/cosmo2020/cosmo-analysis.html#11_gew%C3%B6hnung_an_die_krise_setzt_ein">Uni Erfurt</a></li>
+<li><a href="https://www.spiegel.de/wissenschaft/mensch/corona-krise-in-deutschland-jeder-dritte-haelt-ansteckungsrisiko-fuer-gering-a-79d2981d-4c30-4787-9218-1cfa2aa5829c">Spiegel</a></li>
+</ul>
+<p>Wir hoffen, dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. Einem stabilen Genie nach, dürfte die nächste US-Präsidentschaftswahl eine Art &ldquo;politische Tide Pod Challenge&rdquo; werden&hellip;</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 24.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_24/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_24/</guid><pubDate>Fri, 24 Apr 2020 18:21:12 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Eine Auswahl an haushaltsüblichen Stoffen wird auf die praktische Nutzbarkeit als Maskengrundlage sowie die resultierende Effizienz untersucht und mit einer handelsüblichen chirurgischen Maske verglichen. (Studie nicht peer-reviewed, Preprint)</p>
