@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 28 Apr 2020 20:21:15 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 27.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_27/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_27/</guid><pubDate>Mon, 27 Apr 2020 18:00:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 28 Apr 2020 21:25:26 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 28.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_28/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_28/</guid><pubDate>Tue, 28 Apr 2020 18:00:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Das Paper versucht sich an einem Schnelltestprotokoll mittels RT-LAMP, der möglicherweise direkt aus unaufbereiteten Proben belastbare Infektionsnachweise liefern könnte. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.22.20072389v1">MedRxiv</a></li>
+</ul>
+<p>Eine weitere Studie macht GI-Symptome als Prädiktor für Hospitalisierung und schwerere Verläufe aus. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.23.20076935v1">MedRxiv</a></li>
+</ul>
+<p>Die Metastudie betrachtet die Auswirkungen der Einnahme von ACE-Inhibitoren und AR-Blockern auf die Verlaufsschwere einer CoViD-19-Erkrankung. Wir haben uns aufgrund des allgemeinen Interesses zur Aufnahme entschlossen, möchten jedoch auf die möglicherweise schwierige Ausgangsdatenlage hinweisen. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.23.20076661v1">MedRxiv</a></li>
+</ul>
+<h2 id="aufrufeappelle">Aufrufe/Appelle</h2>
+<p>Ein von mehren internationaler Organisationen unterzeichneter Aufruf appelliert an Regierungen, Pharmafirmen und Investoren. Unter anderem wird dazu aufgerufen, patentierte Entwicklungen und deren Forschungsergebnisse für die Allgemeinheit zur Verfügung zu stellen, um basierend auf frei verfügbaren Erkenntnissen weitere Forschungen betreiben zu können. Zu den Unterzeichnern dieses Aufrufes zählt auch die BUKO Pharma-Kampagne, welche diesen in die deutsche Sprache übersetzt hat. Auch die WHO hat in einem Editorial die Bedeutung einer quelloffenen Wissenschaft unterstrichen.</p>
+<ul>
+<li><a href="https://www.citizen.org/article/covid-19-principles-for-global-access-innovation-and-cooperation/">Citizen.org</a></li>
+<li><a href="https://www.bukopharma.de/index.php/de/8-aktuelles/335-covid-19-zugang-zu-medizinischer-innovation-und-gesundheitsversorgung-fuer-alle">Bukopharma</a></li>
+<li><a href="http://dx.doi.org/10.2471/BLT.20.251561">WHO</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Eine Übersicht der Einreichung von Veröffentlichungen deutet an, dass CoViD-19 die Forschungsproduktivität von Frauen beeinträchtigt. Zwar werden mehr Veröffentlichungen von Frauen als Co-Autorinnen eingereicht, jedoch weniger als Einzelautorinnen. Die Autoren folgern daraus, dass Frauen einen größeren Teil der Hausarbeit und Kindererziehung übernehmen. Damit hätte CoViD-19 die Ungleichheiten verschärft.</p>
+<ul>
+<li><a href="https://ajps.org/2020/04/20/it-takes-a-submission-gendered-patterns-in-the-pages-of-ajps/">AJPS</a></li>
+<li><a href="https://www.insidehighered.com/news/2020/04/21/early-journal-submission-data-suggest-covid-19-tanking-womens-research-productivity">Insidehigherd</a></li>
+</ul>
+<h2 id="verabschiedung">Verabschiedung</h2>
+<p>Wir hoffen, dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S.: Das Redaktionsteam bedankt sich herzlich für die Masken aus Maskentierhaltung! Die zukünftige, CERTifizierte Haltung wird unter Beachtung strengsten Artemschutzes wird CERTlichst versichert. (SIC)</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 27.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_27/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_27/</guid><pubDate>Mon, 27 Apr 2020 18:00:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Die Deutsche Gesellschaft für Ultraschall in der Medizin hat ein Protokoll für ein strukturiertes Lungenultraschall entwickelt.</p>
