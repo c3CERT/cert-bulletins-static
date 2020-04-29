@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 28 Apr 2020 21:25:26 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 28.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_28/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_28/</guid><pubDate>Tue, 28 Apr 2020 18:00:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Wed, 29 Apr 2020 20:10:50 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 29.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_29/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_29/</guid><pubDate>Wed, 29 Apr 2020 20:09:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>In einer umfangreichen Studie werden Vollgesichtsmasken und Filtersysteme auf Tauglichkeit untersucht. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.24.20078907v1">MedRxiv</a></li>
+</ul>
+<p>Laut dem Amerikanischen Ärzteblatt unterscheidet sich das durch CoViD-19 hervorgerufene akute Lungenversagen im Anfangsstadium vom klassischen der schweren Lungenentzündung. Als Folge wird eine andere Beatmungsstrategie vorgeschlagen.</p>
+<ul>
+<li><a href="https://www.aerzteblatt.de/nachrichten/112363">Ärzteblatt</a></li>
+</ul>
+<p>Im deutschen Ärzteblatt werden ausgewählte epidemiologische Maßzahlen und ihre Relevanz für die Kommunikation erläutert.</p>
+<ul>
+<li><a href="https://www.aerzteblatt.de/archiv/213644">Ärzteblatt</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Auf einer Pressekonferenz des Bundesgesundheitsministeriums stellte Jens Spahn den Entwurf zum zweiten Pandemiegesetz vor. Laut dem Änderungsvorschlag sollen Tierärzte nicht mehr für Laboruntersuchungen bei einer Pandemie herangezogen und auch negative Tests nicht-namentlich an das Robert-Koch-Institut (RKI) gemeldet werden. Die Formulierungshilfe soll morgen im Bundeskabinett beraten und beschlossen werden. Die erste Lesung im Bundestag ist derzeit für den 7. Mai vorgesehen.</p>
+<ul>
+<li><a href="https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/Gesetze_und_Verordnungen/GuV/S/Entwurf_Zweites_Gesetz_zum_Schutz_der_Bevoelkerung_bei_einer_epidemischen_Lage_von_nationaler_Tragweite.pdf">Bundesgesundheitsministerium</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Microsoft stellt zusammen mit dem Allen Institute for AI (gegründet von Paul Allen, Mitbegründer von Microsoft) ein Volltext- und Metadaten-Dataset von wissenschaftlichen Artikeln im Zusammenhang mit CoViD-19 und SARS-CoV-2 zur Verfügung. Dieses wurde für Maschinenlesbarkeit optimiert und Forschern auf der ganzen Welt zur Nutzung zur Verfügung gestellt. Diese kostenlose Ressource enthält über 47.000 wissenschaftliche Artikel, darunter über 36.000 Volltextartikel.</p>
+<ul>
+<li><a href="https://azure.microsoft.com/de-de/services/open-datasets/catalog/covid-19-open-research/">Microsoft Azure</a></li>
+</ul>
+<p>Open Data Watch stellt in einer Sonderausgabe von What&rsquo;s Being Said offene, ausgewählte Artikel, Visualisierungen und andere Informationen zu CoViD-19 zusammen. Die Liste wird nach eigenen Angaben regelmäßig aktualisiert.</p>
+<ul>
+<li><a href="https://opendatawatch.com/what-is-being-said/data-in-the-time-of-covid-19/">OpenDataWatch</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Wegen der anhaltenden Corona-Pandemie gilt die Warnung für alle touristischen Reisen ins Ausland vorerst bis zum 14. Juni weiter. Über die Sommerferien soll später entschieden werden.</p>
+<ul>
+<li><a href="https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/-/2337860">Auswärties Amt</a></li>
+</ul>
+<h2 id="verabschiedung">Verabschiedung</h2>
+<p>Wir hoffen, dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S.: Führende Experten sind sich einig: Der Galgen tötet niemanden - die meisten Leute ersticken oder brechen sich das Genick, und das lässt sich ja wohl kaum dem Henker in die Schuhe schieben. Außerdem wären die Delinquenten eh irgendwann gestorben!</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 28.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_28/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_28/</guid><pubDate>Tue, 28 Apr 2020 18:00:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Das Paper versucht sich an einem Schnelltestprotokoll mittels RT-LAMP, der möglicherweise direkt aus unaufbereiteten Proben belastbare Infektionsnachweise liefern könnte. (Studie nicht peer-reviewed, Preprint)</p>
