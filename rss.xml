@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Wed, 29 Apr 2020 22:03:43 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 29.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_29/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_29/</guid><pubDate>Wed, 29 Apr 2020 20:09:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Thu, 30 Apr 2020 19:55:56 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 30.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_30/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_30/</guid><pubDate>Thu, 30 Apr 2020 20:09:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Der Kommunale Versorgungsverband Baden-Württemberg (KVBW) warnt vor defekten Schutzmasken.</p>
+<ul>
+<li><a href="https://www.kvbawue.de/kvbw/aktuelles/news-artikel/news/achtung-behoerde-warnt-vor-unsicheren-atemschutzmasken/">KBBW</a></li>
+</ul>
+<p>Eine in vitro Evaluationsstudie untersucht 19 Medikamente und ihre Wirksamkeit gegenüber SARS-CoV-2. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.04.29.067983v1">BioRxiv</a></li>
+</ul>
+<p>Das Protein Novaferon, welches neben ähnlichen Eigenschaften wie humanes Inferferon eine stark erhöhte antivirale Wirksamkeit aufweisen soll, wurde in einer klinischen Studie mit 90 Patienten erprobt und schien dort eine signifikante Verbesserung gegenüber reiner Gabe von Lopinavir/Ritonavir zu zeigen. (Studie nicht peer-reviewed, Preprint)</p>
+<p>Anm. d. Red.: Vergleiche dazu auch die oben genannte Evaluationsstudie, welche die beiden Virostatika ebenfalls untersuchte.</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.24.20077735v1">MedRxiv</a></li>
+</ul>
+<p>Eine weitere Studie zur Überlebensfähigkeit von Viren unter verschiedenen Umweltbedingungen, diesmal mit der Überprüfung auf den Erhalt der Infektionsfähigkeit.</p>
+<ul>
+<li><a href="https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30003-3/fulltext">The Lancet</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Das Bundesverfassungsgericht hat einen Eilantrag gegen die Auswertung von Krankenversicherungsdaten abgelehnt.</p>
+<ul>
+<li><a href="https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/2020/03/qk20200319_1bvq000120.pdf?__blob=publicationFile&amp;v=1">Bundesverfassungsgericht</a></li>
+</ul>
+<h2 id="aufrufeappelle">Aufrufe/Appelle</h2>
+<p>Wir suchen Unterstützung! Hier findet ihr unsere aktuellen Stellenangebote:</p>
+<ul>
+<li><a href="https://bulletin.cert.ccc.de/career/">Karriereseite</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Masken-Basics - Grundregeln, Auf- und Abnehmen, Waschen, selber Nähen - im Kurzformat.</p>
+<ul>
+<li><a href="https://www.apotheken-umschau.de/multimedia/101/270/41/134880067601.pdf">Apotheken Umschau</a></li>
+</ul>
+<p>Wir hoffen, dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S.: Ob weiter Lockdown oder nicht hängt ganz davon ab, wen man fragt: Den eigenen Hund oder die mitbewohnende Katze.</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 29.04.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_04_29/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_04_29/</guid><pubDate>Wed, 29 Apr 2020 20:09:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>In einer umfangreichen Studie werden Vollgesichtsmasken und Filtersysteme auf Tauglichkeit untersucht. (Studie nicht peer-reviewed, Preprint)</p>
