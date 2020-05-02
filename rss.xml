@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 02 May 2020 15:18:26 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 01.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_01/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_01/</guid><pubDate>Fri, 01 May 2020 20:09:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 02 May 2020 19:25:10 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 02.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_02/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_02/</guid><pubDate>Sat, 02 May 2020 20:09:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Naproxen zeigt in dieser Studie in vitro eine signifikante Reduktion von Virusreproduktion sowie Gewebeschaden, und wird aktuell klinisch getestet. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.04.30.069922v1">BioRxiv</a></li>
+</ul>
+<p>Mittels eines weitreichenden Protein-Protein-Interaktionsmodeling konnten 69 Medikamente identifiziert werden, welche potentiell die Interaktionen von SARS-CoV-2 mit menschlichen Zellen stören. 47 davon wurden anschließend in vitro auf die Auswirkungen der Modulation hin untersucht. Dabei stellten sich mRNA-Translationsinhibitoren sowie SigmaR1/2-Rezeptorregulatoren als wahrscheinlich virushemmend, Dextromethorphan jedoch als virusproliferierend heraus. Zur Studie gab es auch einen erläuternden Artikel, weshalb wir hier beides verlinken.</p>
+<ul>
+<li><a href="https://theconversation.com/we-found-and-tested-47-old-drugs-that-might-treat-the-coronavirus-results-show-promising-leads-and-a-whole-new-way-to-fight-covid-19-136789">The Conversation</a></li>
+<li><a href="https://doi.org/10.1038/s41586-020-2286-9">nature</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Für die Schweiz gelten ab dem 11. Mai Lockerungen der Maßnahmen zur Eindämmung der Pandemie. So öffnen beispielsweise die Schulen der Primär- und Sekundarstufe 1, auch Breitensport bis maximal 5 Personen ohne Körperkontakt und ohne Wettkämpfe sind erlaubt. Ein Überblick über die Maßnahmen, sowie ein Ausblick auf die Lockerungen, die voraussichtlich ab 8. Juni gelten, ist hier zu finden:</p>
+<ul>
+<li><a href="https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html#1055950590">Bundesamt für Gesundheit (Schweiz)</a></li>
+</ul>
+<h2 id="sonstiges">Sonstiges</h2>
+<p>Diese Webseite stellt einen interaktiven Simulator zur Verfügung, der Schritt für Schritt verschiedene Aspekte der CoViD19-Pandemie erklärt. Unter anderem werden verschiedene Szenarien beleuchtet und deren Vor- und Nachteile erläutert. In den Simulationen lassen sich Maßnahmen (über Schieberegler) einstellen und im Zeitverlauf anpassen, um die Auswirkungen auf Infektionsraten zu betrachten.</p>
+<ul>
+<li><a href="https://ncase.me/covid-19/">NCASE</a></li>
+</ul>
+<p>Wir hoffen, dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a>.</p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. Anders als im echten Leben, ist bei Viren &ldquo;shoot the messenger (-RNA)&rdquo; eine gesellschaftlich anerkannte Option. Wir solidarisieren uns mit den Journalisten der heute-show und verurteilen scharf jegliche Angriffe auf die Pressefreiheit.</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 01.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_01/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_01/</guid><pubDate>Fri, 01 May 2020 20:09:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>In der heiß diskutierten Frage nach einer therapeutischen Kontrolle des Cytokinsturms zur Reduktion schwerster Verläufe, nennt dieser Leitartikel erste Überlegungen und Interventionen zur Blockade von IL-6 aus China.</p>
