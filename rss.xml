@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sun, 03 May 2020 22:51:34 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 02.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_02/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_02/</guid><pubDate>Sat, 02 May 2020 20:09:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Mon, 04 May 2020 19:59:47 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 04.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_04/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_04/</guid><pubDate>Mon, 04 May 2020 20:00:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Diese Studie beschreibt einen Nebeneffekt der Pandemie, nach welchem die Tuberkulosefälle ansteigen, die diagnostizierten Fälle jedoch sinken. Es wird postuliert, dass die Mortalitätsrate von TB dieses Jahr ähnlich hoch sein wird wie 2015. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.28.20079582v1">MedRxiv</a></li>
+</ul>
+<p>Diese Studie beschreibt Effekte von nicht-pharmazeutische Interventionen, um die Infektionen mit CoViD-19 zu reduzieren. Diese Vorveröffentlichung wurde in nature angenommen.</p>
+<ul>
+<li><a href="https://www.nature.com/articles/s41586-020-2293-x">Nature</a></li>
+</ul>
+<p>Anhand der im Blut vorhandenen Menge an weißen Blutzellen lässt sich anscheinend ein Score aufstellen, welcher die Wahrscheinlichkeit einer SARS-CoV-2-Infektion abzubilden vermag. Das wird insbesondere wichtig, sobald Tests rationiert werden müssen. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.28.20081687v1">MedRxiv</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Thüringen hat eine neue Verordnung erlassen, welche heute (04.05.2020) in Kraft tritt.</p>
+<ul>
+<li><a href="https://corona.thueringen.de/behoerden/ausgewaehlte-verordnungen/">Verordnung</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Die Autoren dieser Studie untersuchen den Zusammenhang zwischen der Pandemie, Social Media und 3D-gedruckter Schutzausrüstung. Social Media kann als Schnittstelle zwischen den Regierungen und der Bevölkerung dienen und dazu beitragen, Schutzausrüstung bereit zu stellen. Bei 3D-gedruckter Schutzausrüstung ist es wichtig, dass sie schützt und nicht den Träger gefährdet.</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.27.20081372v1">MedRxiv</a></li>
+</ul>
+<p>Apple und Google haben die Dokumentation für ihre &ldquo;Exposure Notification API&rdquo; herausgegeben.</p>
+<ul>
+<li><a href="https://www.blog.google/documents/68/Android_Exposure_Notification_API_documentation_v1.2.pdf">Google</a></li>
+<li><a href="https://developer.apple.com/documentation/exposurenotification">Apple</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Nach neuen Erkenntnissen des Bundesinstituts für Arzneimittel und Medizinprodukte reicht eine Desinfektion von 30 Minuten bei 70°C trockener Hitze nicht aus. Welche Temperatur über welchen Zeitraum notwendig ist, wird derzeit noch untersucht.</p>
+<ul>
+<li><a href="https://www.bfarm.de/SharedDocs/Risikoinformationen/Medizinprodukte/DE/schutzmasken.html">BfArM</a></li>
+</ul>
+<p>Wir hoffen, dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S.: Für Corona-Freiheit zusammen tanzen, ist wie für Jungfräulichkeit Geschlechtsverkehr zu haben.</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 02.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_02/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_02/</guid><pubDate>Sat, 02 May 2020 20:09:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Naproxen zeigt in dieser Studie in vitro eine signifikante Reduktion von Virusreproduktion sowie Gewebeschaden, und wird aktuell klinisch getestet. (Studie nicht peer-reviewed, Preprint)</p>
