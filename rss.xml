@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Mon, 04 May 2020 21:02:42 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 04.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_04/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_04/</guid><pubDate>Mon, 04 May 2020 20:00:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 05 May 2020 19:55:31 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 05.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_05/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_05/</guid><pubDate>Tue, 05 May 2020 20:09:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Die Studie untersucht den Anstieg der Mortalitätsrate gegenüber dem 10-Jahresvergleich bei fünf europäischen Ländern. Die länderspezifischen Unterschiede in der Zählung von Toten werden ebenfalls diskutiert. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.28.20083147v1">MedRxiv</a></li>
+</ul>
+<p>Die Studie betrachtet für die in Brunei aufgetretenen Fälle das Phänomen des Wiederauftretens von positiven PCR-Tests nach Entlassung. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.30.20086082v1">MedRxiv</a></li>
+</ul>
+<h2 id="wirtschaft">Wirtschaft</h2>
+<p>Die International Air Transport Association (IATA) ruft dazu auf, an Bord von Flugzeugen Masken zu tragen. Zusätzlich sollen der Service reduziert und Temperaturkontrollen der Passagiere vorgenommen werden. Jedoch befürwortet die IATA nicht, den mittleren Platz zwingend frei zu halten. Begründet wird dies mit der geringeren Wahrscheinlichkeit einer Übertragung als bisher angenommen.</p>
+<ul>
+<li><a href="https://www.iata.org/en/pressroom/pr/2020-05-05-01/">IATA</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Die Financial Times bietet einen grafischen, länderbasierten Vergleich der Todes- und Infektionskurven, um u. a. Peaks und Verläufe nach der Aufhebung restriktiver Sperren besser erkennen zu können.</p>
+<ul>
+<li><a href="https://ig.ft.com/coronavirus-chart">Financial Times</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Das Kinderhilfswerk der Vereinten Nationen (UNICEF) hat aufgrund der aktuellen Reisebeschänkungen und dem Mangel an Lufttransportkapazitäten zunehmend Schwierigkeiten, humanitäre Hilfsgüter und Teams in bedürftige Länder zu entsenden. Betroffen hiervon sind unter anderem die Impfkampagnen gegen Masern und Polio, welche in Afghanistan und Pakistan vorerst eingestellt werden mussten. UNICEF sieht die Epizentren der Pandemie bei Slums und Flüchtlingslagern, in denen viele Menschen unter unzureichenden Hygienebedingungen auf engstem Raum leben müssen. Maßnahmen zur Kontaktvermeidung und tägliche Hygiene sind unter diesen Umständen kaum zu bewerkstelligen. UNICEF appelliert an Regierungen und Airlines, Frachtkapazität zu bezahlbaren Preisen bereit zu stellen und wird weiterhin auf die Verbesserung der hygienischen Verhältnisse hinarbeiten.</p>
+<ul>
+<li><a href="https://www.unicef.de/informieren/aktuelles/presse/2020/eine-globale-katastrophe-fuer-kinder-verhindern/216102e">UNICEF</a></li>
+</ul>
+<p>Die Weltgesundheitsorganisation (WHO) hat auf die Verantwortung jeder einzelnen Person bei der Vermeidung weiterer Infektionswellen hingewiesen. Nationale Einheit und globale Solidarität sind laut WHO das aktuelle Gegenmittel zu CoViD-19. Sie unterstreicht angesichts des heutigen Welttages der Handhygiene die Wirksamkeit des Händewaschens. UNICEF und die WHO appellieren gleichermaßen, dass der Zugang zu fließendem Wasser und Seife ausgebaut werden muss, da dieser für drei Milliarden Menschen nicht zur Verfügung steht und weniger als zwei Drittel der weltweiten Krankenhäuser mit Spendern für Desinfektionsmittel ausgerüstet sind.</p>
+<ul>
+<li><a href="https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---4-may-2020">WHO</a></li>
+</ul>
+<p>Wir hoffen, dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a>.</p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S.: Die Warnschilder entfernen und der Evolution ihren Lauf lassen trifft bei Pandemien leider die Falschen.</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 04.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_04/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_04/</guid><pubDate>Mon, 04 May 2020 20:00:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Diese Studie beschreibt einen Nebeneffekt der Pandemie, nach welchem die Tuberkulosefälle ansteigen, die diagnostizierten Fälle jedoch sinken. Es wird postuliert, dass die Mortalitätsrate von TB dieses Jahr ähnlich hoch sein wird wie 2015. (Studie nicht peer-reviewed, Preprint)</p>
