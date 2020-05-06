@@ -1,4 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 05 May 2020 20:02:34 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 05.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_05/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_05/</guid><pubDate>Tue, 05 May 2020 20:09:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Wed, 06 May 2020 20:10:30 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 06.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_06/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_06/</guid><pubDate>Wed, 06 May 2020 20:09:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Ein systematischer Vergleich der gängigen RT-PCR-Testungen und ihrer Sensitivität. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.05.03.20072207v1">MedRxiv</a></li>
+</ul>
+<p>Forscher aus Cambridge und des MIT haben eine auf CRISPR/Cas basierende Testmethode entwickelt und suchen nun Teilnehmer aus dem Gesundheitsbereich für eine Studie, denen sie Test-Kits zur Verfügung stellen. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.stopcovid.science/">StopCoViD</a></li>
+</ul>
+<p>Bei einer Untersuchung der ACE2-Expression in den Atemwegen wird vermutet, dass die Chemokin-Interaktionen zwischen Immunsystem und Epithelzellen eine Hochregulierung induzieren und somit die Zellen anfälliger für SARS-CoV-2 machen. Der Artikel enthält wenig Neues für den praktischen Kliniker, aber eine sehr detaillierte Beschreibung der Pathophysiologie. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.04.29.20084327v1">MedRxiv</a></li>
+</ul>
+<p>In vitro zeigen laut einer neuen Studie Protoporphyrin IX und Verteporfin ebenfalls Wirkung gegen eine SARS-CoV-2-Infektion. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.04.30.071290v1?rss=1%22">BioRxiv</a></li>
+</ul>
+<p>Eine Übersicht über verschiedene Faktoren, welche den Krankheitsverlauf beeinflussen könnten. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.05.02.20088336v1">MedRxiv</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Bund und Länder haben einen Beschluss zum weiteren Vorgehen in der Pandemie gefasst. Neben einer Lockerung der Kontaktbeschränkung auf Personen zweier Haushalte ist eine Infektionsquote genannt, ab der erneut strengere Maßnahmen gefasst werden sollen. Ab 50 Neuinfektionen pro 100.000 Einwohner innerhalb von 7 Tagen je Landkreis oder kreisfreien Städten sollen Beschränkungskonzepte gelten. Die Ausgestaltung derselben obliegt den Ländern.</p>
+<ul>
+<li><a href="https://www.bundesregierung.de/resource/blob/975226/1750986/fc61b6eb1fc1d398d66cfea79b565129/2020-05-06-mpk-beschluss-data.pdf">Bundesregierung</a></li>
+</ul>
+<p>Das Land Bayern hat eine neue Infektionsschutzmassnahmenverordnung veröffentlicht. Im Gegensatz zu den Beschlüssen zwischen Bund und Ländern, gilt für Bayern im privaten Raum eine andere Personenanzahl. Hier darf neben Haushalt, Familie (gerade Verwandschaftslinien + Geschwister) nur eine weitere Person getroffen werden. Eine Ausnahme hiervon bildet eine unentgeltliche, nicht geschäftsmäßige Betreuung Minderjähriger. Diese darf Kinder aus 3 Hausständen umfassen.</p>
+<ul>
+<li><a href="https://www.verkuendung-bayern.de/baymbl/2020-240/">Verkündung Bayern</a></li>
+</ul>
+<p>Wir hoffen, dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a>.</p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S.: Die Kuhwersumme des heutigen Datums ist 15, das ist die Tarot-Karte des TEUFELS in der grosßsen Arkanen! Davon die erneute Kwersumme ist 6, und wänn Du diesen Tag mal drei nimmst, ergibt es 666. Denk mal drüber nach! WACH ENDLICH AUF!</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 05.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_05/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_05/</guid><pubDate>Tue, 05 May 2020 20:09:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Die Studie untersucht den Anstieg der Mortalitätsrate gegenüber dem 10-Jahresvergleich bei fünf europäischen Ländern. Die länderspezifischen Unterschiede in der Zählung von Toten werden ebenfalls diskutiert. (Studie nicht peer-reviewed, Preprint)</p>
