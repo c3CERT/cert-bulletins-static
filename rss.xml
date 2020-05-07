@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Wed, 06 May 2020 20:10:30 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 06.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_06/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_06/</guid><pubDate>Wed, 06 May 2020 20:09:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Thu, 07 May 2020 19:30:35 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 07.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_07/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_07/</guid><pubDate>Thu, 07 May 2020 20:00:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Eine Meta-Studie über 266 (teils noch laufenden) Schwangerschaften erkennt keine über das normale Schwangerschafts- bzw. CoViD-19-Risiko hinausgehende Gefahr durch eine SARS-CoV-2-Infektion für die Mütter. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.05.02.20088484v1">MedRxiv</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Nach dem Beschluss zwischen der Bundes- und den Landesregierungen gestern (wir berichteten), hat nun ein Großteil der Länder angepasste Verordnungen veröffentlicht. Zum Veröffentlichungszeitpunkt dieses Bulletins fehlen noch die Verordnungen der folgenden Bundesländer: Baden-Württemberg, Berlin, Brandenburg, Saarland und Thüringen.</p>
+<ul>
+<li><a href="https://www.verkuendung-bayern.de/files/baymbl/2020/240/baymbl-2020-240.pdf">Bayern</a></li>
+<li><a href="https://www.gesetzblatt.bremen.de/fastmedia/832/2020_05_05_GBl_Nr_0032_signed.pdf">Bremen</a></li>
+<li><a href="https://www.hamburg.de/rechtsverordnungen/13899226/2020-05-05-rechtsverordnung/">Hamburg</a></li>
+<li><a href="https://www.hessen.de/sites/default/files/media/nr_23.pdf">Hessen</a></li>
+<li><a href="https://www.regierung-mv.de/static/Regierungsportal/Ministerium%20f%C3%BCr%20Wirtschaft%2c%20Arbeit%20und%20Gesundheit/Dateien/Downloads/GVOBl.%20Nr.%2024%20v.%206.5.2020%205.%C3%84ndCor.pdf">Mecklenburg-Vorpommern</a></li>
+<li><a href="https://www.niedersachsen.de/download/154922">Niedersachsen</a></li>
+<li><a href="https://www.land.nrw/sites/default/files/asset/document/2020-05-06_fassung_coronaschvo_ab_07.05.2020.pdf">Nordrhein-Westfalen</a></li>
+<li><a href="https://corona.rlp.de/fileadmin/rlp-stk/pdf-Dateien/Corona/1._Landesverordnung_zur_AEnderung_der_5._Corona-Bekaempfungsverordnung.pdf">Rheinland-Pfalz</a></li>
+<li><a href="https://www.coronavirus.sachsen.de/download/Corona_Schutz_VO_12_2020.pdf">Sachsen</a></li>
+<li><a href="https://ms.sachsen-anhalt.de/fileadmin/Bibliothek/Politik_und_Verwaltung/MS/MS/Presse_Corona/VO/VO_Fuenfte_SARS-Co-2-EindaemmungsVO_final.pdf">Sachsen-Anhalt</a></li>
+<li><a href="https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/Downloads/200501_VO_neu.pdf?__blob=publicationFile&amp;v=4">Schleswig-Holstein</a></li>
+</ul>
+<p>Wir hoffen, dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a></p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S.: Das RKI macht Schluss; Wir machen weiter. Die Pandemie ist noch nicht vorbei; wir bleiben heiter! #cheesylyrics</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 06.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_06/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_06/</guid><pubDate>Wed, 06 May 2020 20:09:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Ein systematischer Vergleich der gängigen RT-PCR-Testungen und ihrer Sensitivität. (Studie nicht peer-reviewed, Preprint)</p>
