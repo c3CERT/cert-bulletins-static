@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Fri, 08 May 2020 19:39:30 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 07.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_07/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_07/</guid><pubDate>Thu, 07 May 2020 20:00:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Fri, 08 May 2020 19:56:06 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Tagesbulletin 08.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_08/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_08/</guid><pubDate>Fri, 08 May 2020 20:00:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>In einer weltweiten Erhebung mittels Fragebogen versucht diese Studie, die Berichte von Geruchs- und Geschmacksstörungen als mögliche Symptome von CoViD-19 mit Daten zu untermauern. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.05.04.20090902v1">MedRxiv</a></li>
+</ul>
+<p>Laut einer Obduktionsstudie bei 12 Corona-Patienten versterben wohl die meisten an Thrombosen und Lungenembolien.</p>
+<ul>
+<li><a href="https://annals.org/aim/fullarticle/2765934/autopsy-findings-venous-thromboembolism-patients-covid-19-prospective-cohort-study">MedRxiv</a></li>
+</ul>
+<p>Die ergänzende Gabe von Zinksulfat zu Hydroxychloroquin/Azithromycin zeigte in dieser Studie einen kleinen Vorteil bzgl. einiger Endpunkte. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.05.02.20080036v1">MedRxiv</a></li>
+</ul>
+<p>Die Studie gibt Einblicke in eine besondere Antikörper-Art der Camelidae, welche durch ihre geringe Größe möglicherweise gezielte Blockaden einzelner Proteindomänen zulassen und somit die SARS-CoV-2-Bindedomänen blockieren könnten.</p>
+<ul>
+<li><a href="https://www.cell.com/cell/pdf/S0092-8674(20)30494-3.pdf">MedRxiv</a></li>
+</ul>
+<p>Eine übergreifende Risikofaktoranalyse mit sehr großer Datenlage, die eine schöne Übersicht gibt. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.05.06.20092999v1">MedRxiv</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Das Regionalbüro der WHO in Afrika spricht von einer beunruhigenden Lage in Afrika. Die ohnehin schon angespannte Pflegesituation in den dortigen Kliniken werde durch Ausfälle aufgrund von Krankheit oder Quarantäne weiter verschärft. Dies hat zur Folge, dass der dortigen Bevölkerung grundlegende Gesundheitsdienste wie Impfungen oder Geburtshilfe nur noch eingeschränkt zugänglich sind.</p>
+<ul>
+<li><a href="https://www.afro.who.int/regional-director/speeches-messages/opening-statement-covid-19-press-conference-7-may-2020">Afro WHO</a></li>
+</ul>
+<p>Wir hoffen, dass die täglichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a>.</p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. <a href="https://t.co/AKcyOEOCq2">Rupert sagt: Ein Tag ohne Sonnenbad ist ein verlorener Tag. Aber bitte haltet dabei den maximal möglichen Abstand zueinander. Dann gibt es auch weniger schattige Stellen.</a></p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Tagesbulletin 07.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_07/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_07/</guid><pubDate>Thu, 07 May 2020 20:00:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Eine Meta-Studie über 266 (teils noch laufenden) Schwangerschaften erkennt keine über das normale Schwangerschafts- bzw. CoViD-19-Risiko hinausgehende Gefahr durch eine SARS-CoV-2-Infektion für die Mütter. (Studie nicht peer-reviewed, Preprint)</p>
