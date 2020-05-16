@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Tue, 12 May 2020 19:40:14 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Änderung Veröffentlichungszyklus</title><link>https://bulletin.cert.ccc.de/posts/2020_05_11/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_11/</guid><pubDate>Mon, 11 May 2020 20:01:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!</p>
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 16 May 2020 20:18:46 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Bulletin 16.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_16/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_16/</guid><pubDate>Sat, 16 May 2020 20:00:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Dieser Artikel der Pharmazeutischen Zeitung bietet einen allgemeinverständlichen Überblick über die aktuellen Erkenntnisse zu SARS-CoV-2 und CoViD-19.</p>
+<ul>
+<li><a href="https://www.pharmazeutische-zeitung.de/der-ganze-koerper-ist-betroffen-117336/">Pharmazeutische Zeitung</a></li>
+</ul>
+<p>Die Studie betrachtet die Korrelation zwischen Computertomographie und Ultrasonographie der Lunge bei Patienten mit CoViD-19-Erkrankung. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.05.08.20095117v1">MedRxiv</a></li>
+</ul>
+<p>Die Studie betrachtet den IFN1-Antagonisten von SARS-CoV-2, ORF3b. Dieser scheint potenter zu werden, wenn bis zu zwei der drei Stop-Codons zu codierenden Triplets rückmutieren, was laut Studie bereits in Patienten nachgewiesen werden konnte. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.05.11.088179v1">BioRxiv</a></li>
+</ul>
+<p>Es wird ein Heparansulfat-Oligosaccharid gesucht, welches das S-Protein maximal bindet und somit eine Infektion verhindert. Letzteres wurde mit Bindungstests für Heparin ermittelt. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.05.10.087288v1">BioRxiv</a></li>
+</ul>
+<p>Die Studie vergleicht die Zelltoxizität und Wirksamkeit von 24 Medikamenten zwischen Vero- (Green Monkey Kidney) und Calu-3-Zellen (Human lung adenocarcinoma). (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.05.12.090035v1">BioRxiv</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Baden-Württemberg hat eine Verordnung zum Gaststättenbetrieb erlassen, welche am 18.05.2020 in Kraft tritt.</p>
+<ul>
+<li><a href="https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/Coronainfos/200510_SM-WM_CoronaVO_Gaststaetten.pdf">Verordnung Gaststätten</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Das offizielle Projekt für die &ldquo;Corona-Warn-App&rdquo;, welche von SAP und der Telekom entwickelt wird. Bisher ist nur ein Repository für die Dokumentation vorhanden.</p>
+<ul>
+<li><a href="https://github.com/corona-warn-app">GitHub</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>1918 verbreitete sich die spanische Grippe in den USA. Die Erkrankungsfälle nahmen zu, bis Social Distancing Maßnahmen beschlossen wurden. Jedoch kämpften manche Städte nach der Lockerung mit einer zweiten Welle. Zwei zitierte Studien analysierten, wie die Reaktionen auf die Krankheit die Ausbreitung in verschiedenen Städten beeinflusste. Wurden frühzeitig Maßnahmen getroffen, waren die Städte weniger betroffen. Die zweite Schlussfolgerung ist, dass wenn die Maßnahmen zu früh gelockert wurden, eine neue Welle folgte.</p>
+<ul>
+<li><a href="https://www.nationalgeographic.de/geschichte-und-kultur/2020/04/lektionen-aus-der-spanischen-grippe-wie-man-die-kurve-abflacht">National Geographic</a></li>
+</ul>
+<p>Wir hoffen, dass die nun wöchentlichen Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a>.</p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S.: Bei all den Corona-Demonstrationen stellt sich die Frage, wie es mit diesen Leuten wohl damals auf der Titanic abgelaufen wäre&hellip;. <a href="https://www.picflash.org/img/2020/05/13/kvtfc49snm58h66.jpg">Bild</a></p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Änderung Veröffentlichungszyklus</title><link>https://bulletin.cert.ccc.de/posts/2020_05_11/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_11/</guid><pubDate>Mon, 11 May 2020 20:01:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!</p>
 <p>Sowohl auf wissenschaftlicher als auch auf rechtlicher und gesellschaftlicher Seite hat sich die Lage etwas beruhigt und die Anzahl der relevanten Nachrichten nimmt ab.</p>
 <p>Wir haben uns daher entschieden, auf einen wöchentlichen Veröffentlichungszyklus umzustellen. Ein neues Bulletin gibt es ab sofort spätestens jeden Samstag Abend. Sollte es zeitkritische Informationen geben, werden wir diese selbstverständlich am jeweiligen Tag mitteilen.</p>
 <p>Wenn die Zahl der relevanten Nachrichten wieder ansteigt, werden wir möglicherweise zu einem täglichen Veröffentlichungszyklus zurückkehren.</p>
