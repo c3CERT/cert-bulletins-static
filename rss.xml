@@ -1,4 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 16 May 2020 20:18:46 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Bulletin 16.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_16/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_16/</guid><pubDate>Sat, 16 May 2020 20:00:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 23 May 2020 20:09:25 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Bulletin 23.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_23/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_23/</guid><pubDate>Sat, 23 May 2020 20:00:00 +0000</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+Da ihr euch mit unseren regelmäßigen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Bei der Suche nach effizienten Testmethoden geht diese Studie einen ungewöhnlichen Weg: Mittels genetisch veränderter HEK-Zellen und Durchflusszytometrie wird versucht, das Vorhandensein und die Menge der SARS-CoV-2 Antikörper IgM und IgG zu bestimmen. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.05.09.20091447v1">MedRxiv</a></li>
+</ul>
+<p>Eine sehr umfangreiche Studie über die Situation in Kuwait, mit fast 1100 Patienten aller Verlaufsformen. Die gelieferten Daten umfassen umfangreiche Laborwerte, sowie Richtlinien zu Vorgehensweise, Medikamenten und Einstufung. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.05.09.20096495v1">MedRxiv</a></li>
+</ul>
+<p>Die Studie untersucht, nach welchem Mechanismus das nonstructural protein 1 (Nsp1) die Expression der Host-Gene verhindert. Sie postuliert, dass Nsp1 den Entry-Tunnel der 40S- und 80S-Ribosomen bindet, und damit eine Interaktion mit mRNA unmöglich macht. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.05.18.102467v1">BioRxiv</a></li>
+</ul>
+<p>Eine Studie, die auf einer großen Umfrage im Vereinigten Königreich basiert und Rauchen als Risikofaktor identifiziert. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.05.18.20105288v1">MedRxiv</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>Bayern hat ein Hygienekonzept für die Gastronomie erstellt.</p>
+<ul>
+<li><a href="https://www.verkuendung-bayern.de/files/baymbl/2020/270/baymbl-2020-270.pdf">Freistaat Bayern</a></li>
+</ul>
+<p>Saarland hat eine &ldquo;Verordnung zur Änderung infektionsrechtlicher Verordnungen zur Bekämpfung der Corona-Pandemie&rdquo; veröffentlicht.</p>
+<ul>
+<li><a href="https://corona.saarland.de/DE/service/massnahmen/verordnung-stand-2020-05-15.html">Land Saarland</a></li>
+</ul>
+<h2 id="wirtschaft">Wirtschaft</h2>
+<p>Die Europäische Agentur für Flugsicherheit (EASA) hat eine Safety Promotion veröffentlicht. Diese beinhaltet Maßnahmen zum Umgang von Passagieren um eine größtmögliche physische Distanzierung zu erreichen, und Hinweise zur Desinfektion von Oberflächen in Luftfahrzeugen und bodengebundenen Einrichtungen.</p>
+<ul>
+<li><a href="https://www.easa.europa.eu/document-library/general-publications/covid-19-aviation-health-safety-protocol">EASA</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Das Smithsonian Science Education Center hat zusammen mit der WHO einen Guide für junge Menschen entwickelt, der hilft, die Pandemie zu verstehen und mit ihr umzugehen.</p>
+<ul>
+<li><a href="https://ssec.si.edu/covid-19">SSEC</a></li>
+</ul>
+<p>Am 22.05.2020 hat Afrika die Marke von 100 000 bestätigten CoViD-19 Erkrankungen überschritten. Diese Zahl ist jedoch im Licht einer sehr niedrigen Testrate zu sehen, da nach wie vor mehrere Länder Schwierigkeiten haben, eine ausreichende Testkapazität zu bereitzustellen.</p>
+<ul>
+<li><a href="https://www.afro.who.int/news/africa-covid-19-cases-top-100-000">WHO</a></li>
+</ul>
+<p>Aufgrund der Einschränkungen stocken Impfkampagnen für andere ansteckende Krankheiten wie Masern und Polio, insbesondere Kinder sind hiervon betroffen.</p>
+<ul>
+<li><a href="https://www.who.int/news-room/detail/22-05-2020-at-least-80-million-children-under-one-at-risk-of-diseases-such-as-diphtheria-measles-and-polio-as-covid-19-disrupts-routine-vaccination-efforts-warn-gavi-who-and-unicef">WHO</a></li>
+</ul>
+<p>Der Tagesspiegel hat eine allgemeinverständliche Visualisierung erstellt, wie SARS-CoV-2 den Körper infiziert und Symptome auslöst.</p>
+<ul>
+<li><a href="https://interaktiv.tagesspiegel.de/lab/grafik-erklaerstueck-wie-das-coronavirus-den-koerper-befaellt/">Tagesspiegel</a></li>
+</ul>
+<p>Wir hoffen, dass die Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a>.
+Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S.: <a href="https://www.youtube.com/watch?v=MebnUcZKsk8">Jetzt kommt &lsquo;ne Party, - &lsquo;ne fette Party, - Eine Party - seid ihr schon soweit? SARS-CoV-2 ALLRIGHT!</a></p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Bulletin 16.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_16/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_16/</guid><pubDate>Sat, 16 May 2020 20:00:00 +0200</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren täglichen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Dieser Artikel der Pharmazeutischen Zeitung bietet einen allgemeinverständlichen Überblick über die aktuellen Erkenntnisse zu SARS-CoV-2 und CoViD-19.</p>
