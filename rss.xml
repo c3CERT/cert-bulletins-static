@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sun, 31 May 2020 07:33:49 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Bulletin 23.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_23/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_23/</guid><pubDate>Sat, 23 May 2020 20:00:00 +0000</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sun, 31 May 2020 07:34:57 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Bulletin 30.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_30/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_30/</guid><pubDate>Sat, 30 May 2020 20:00:00 +0000</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+Da ihr euch mit unseren regelmäßigen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Natriummangel scheint eine Überexpression von ACE2 zu verursachen und damit über die möglichen ursächlichen Vorerkrankungen hinaus eine höhere Anfälligkeit gegenüber SARS-CoV-2 zu induzieren. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.05.18.20102509v1">MedRxiv</a></li>
+</ul>
+<p>Eine in Düsseldorf aufgetretene Variante von SARS-CoV-2 scheint in der Lage zu sein, einzelne Gehirnareale zu befallen. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.05.20.106575v1">BioXriv</a></li>
+</ul>
+<p>Laut einer Untersuchung scheint das SARS-CoV-2 nucleocapsid protein in der Lage zu sein, sich ohne Unterstützung von Hilfsproteinen eine funktionsfähige Struktur anzunehmen. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.05.17.100685v1">BioXriv</a></li>
+</ul>
+<p>Die S-Enantiomere von (Hydroxy-) Chloroquin scheinen in vitro eine höhere antivirale Wirkung bei geringerer Belastung der Zellen zu entfalten als die R-Entantiomere. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.05.26.114033v1">BioXriv</a></li>
+</ul>
+<p>Es wurden retrospektiv 10 Risikofaktoren identifiziert, welche für ein schlechtes Outcome bei Krankenhausaufnahme von Corona-Patienten stehen.</p>
+<ul>
+<li><a href="https://www.doccheck.com/de/detail/articles/27136-covid-verlauf-risiko-check-fuer-die-klinik">DocCheck</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Inzwischen ist der vollständige Code für alle Komponenten der Corona-Warn-App veröffentlicht, der Großteil davon befindet sich allerdings noch im Alpha-Stadium.</p>
+<ul>
+<li><a href="https://github.com/corona-warn-app">GitHub</a></li>
+</ul>
+<p>Dieses FAQ gibt einen ausführlichen Überblick über Corona-Warn-Apps - auch in anderen Ländern. Damit bietet der Artikel zudem eine Entscheidungshilfe, ob man die App installieren will oder nicht.</p>
+<ul>
+<li><a href="https://www.golem.de/news/faq-was-man-ueber-corona-app-der-regierung-wissen-muss-2005-148749.html">Golem</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Die Pressestelle der Behörde für Gesundheit und Verbraucherschutz in Hamburg warnt vor fehlerhaften FFP2 Masken des Herstellers LexusLance Modell LK-003 mit Produktionsdatum 16.3.2020.</p>
+<ul>
+<li><a href="https://www.hamburg.de/bgv/pressemeldungen/13931498/2020-05-26-bgv-produktwarnung-masken/">BGV Hamburg</a></li>
+</ul>
+<p>Wir hoffen, dass die Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a>.</p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S. :  Double-win: Wenn die Schutzmasken fehlerhaft geliefert werden, ist auch egal, ob Hein Blöd sie auf der Hygienedemo unter der Nase trägt! #not</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Bulletin 23.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_23/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_23/</guid><pubDate>Sat, 23 May 2020 20:00:00 +0000</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren regelmäßigen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Bei der Suche nach effizienten Testmethoden geht diese Studie einen ungewöhnlichen Weg: Mittels genetisch veränderter HEK-Zellen und Durchflusszytometrie wird versucht, das Vorhandensein und die Menge der SARS-CoV-2 Antikörper IgM und IgG zu bestimmen. (Studie nicht peer-reviewed, Preprint)</p>
