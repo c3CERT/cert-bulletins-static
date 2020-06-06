@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sun, 31 May 2020 07:34:57 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Bulletin 30.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_30/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_30/</guid><pubDate>Sat, 30 May 2020 20:00:00 +0000</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 06 Jun 2020 20:44:31 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Bulletin 06.06.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_06_06/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_06_06/</guid><pubDate>Sat, 06 Jun 2020 20:00:00 +0000</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+Da ihr euch mit unseren regelmäßigen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Die Studie untersucht die Erkennung von CoViD-19-positiven Menschen mit axillaren Schweißproben durch Spürhunde. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.06.03.132134v1">BioRxiv</a></li>
+</ul>
+<p>Eine Forschergruppe versucht, die genetische Vielfalt der SARS-CoV-2-Mutanten zusammenzutragen und hat eine App entwickelt, um Forschern und Klinikern einen Datenaustausch zu ermöglichen.</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.05.31.124966v1">BioRxiv</a></li>
+</ul>
+<p>Ein ähnliches Projekt vom National Center for Advancing Translational Sciences (NCATS) des NIH hat eine OpenData Plattform ins Leben gerufen, auf der nach Möglichkeit alle getesteten Substanzen und deren Wirksamkeit gegen SARS-CoV-2 gesammelt und für alle Forscher und Kliniker bereitgestellt werden soll.</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.06.04.135046v1">BioRxiv</a></li>
+</ul>
+<p>Die Studie zeigt, dass der Prozentsatz der nicht-fucosylierten IgG-Antikörper wohl eine signifikante Auswirkung auf die Schwere des Krankheitsverlaufs hat und sogar dafür verantwortlich sein könnte. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.05.18.099507v1">BioRxiv</a></li>
+</ul>
+<p>Laut einer retrospektiven Studie mit 256 Patienten hat die Gabe von IFN-beta1b keine merkliche Auswirkung auf den Verlauf der Infektion, wenngleich eine Kontrollstudie von den Autoren als wünschenswert angesehen wird. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.05.15.20084293v1">MedRxiv</a></li>
+</ul>
+<p>In einer groß angelegten Studie mit über 1500 Patienten wurde der Einfluss der Blutgruppe bzw. der assoziierten Gene auf die Anfälligkeit gegenüber SARS-CoV-2 untersucht. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.05.31.20114991v1">MedRxiv</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Der Code der Corona-Warn-App wurde inzwischen veröffentlicht. Laut Spiegel sind jedoch die Labore digital unterversorgt, wodurch sich Infizierte mitunter telefonisch als positiv getestet melden müssen.</p>
+<ul>
+<li><a href="https://www.spiegel.de/netzwelt/apps/corona-warn-app-startet-mit-heikler-telefon-hotline-a-0a221401-163b-4c57-af00-000849c95ffb">Spiegel</a></li>
+</ul>
+<p>Eine dynamische Visualisierung von Flourish zeigt globale Todesarten seit Anfang des Jahres.</p>
+<ul>
+<li><a href="https://public.flourish.studio/visualisation/2562261/">Flourish</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Die Studie zeigt die Bereitschaft in den USA, Kompromisse zwischen CoViD-19-Fällen, Social-Distancing und wirtschaftlichen Auswirkungen zu akzeptieren. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.06.01.20119180v3">MedRxiv</a></li>
+</ul>
+<p>Wir hoffen, dass die Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a>.</p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S.: Wir haben ja schon eine Menge teils absurder Maßnahmen gegen die Verbreitung von SARS-CoV-2 zu lesen bekommen, vom Bleiche-Trinken bis zur Giftspritze, aber Musik und Schlauchboote - das ist schon echt kreativ!</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Bulletin 30.05.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_05_30/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_05_30/</guid><pubDate>Sat, 30 May 2020 20:00:00 +0000</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren regelmäßigen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Natriummangel scheint eine Überexpression von ACE2 zu verursachen und damit über die möglichen ursächlichen Vorerkrankungen hinaus eine höhere Anfälligkeit gegenüber SARS-CoV-2 zu induzieren. (Studie nicht peer-reviewed, Preprint)</p>
