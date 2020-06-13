@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 06 Jun 2020 20:45:11 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Bulletin 06.06.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_06_06/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_06_06/</guid><pubDate>Sat, 06 Jun 2020 20:00:00 +0000</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 13 Jun 2020 20:42:15 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Bulletin 13.06.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_06_13/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_06_13/</guid><pubDate>Sat, 13 Jun 2020 20:00:00 +0000</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+Da ihr euch mit unseren regelmäßigen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Die Webseite gibt einen schönen Überblick über die aktuell in der Erprobung/Entwicklung befindlichen Impfstoffe:</p>
+<ul>
+<li><a href="https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape/">NCOV-Vaccine-Landscape</a></li>
+</ul>
+<p>Remdesivir senkte in einer doppelblinden, randomisierten und placebokontrollierten Studie mit 1063 Patienten die Mortalität und Genesungszeit (nicht signifikant: intensivmedizinisch beatmete Patienten). Ein Zulassungsantrag in Europa erfolgte, was Remdesivir zum ersten zugelassenen Medikament bei Covid-19 in Europa machen würde.</p>
+<ul>
+<li><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2007764">NEJM.org</a></li>
+</ul>
+<p>Laut der vorliegenden Studie kann kein Unterschied im Krankheitsverlauf zwischen einer frühen und einer späten Gabe von Lopinavir/Ritonavir und Hydroxychloroquin festgestellt werden. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.06.05.20123299v1">MedRxiv</a></li>
+</ul>
+<p>Ein sehr ausführliches Paper betrachtet die Immunreaktion der Nasenschleimhaut auf SARS-CoV-2 und bietet einen Einblick in die daraus resultierenden Veränderungen auf molekularer Ebene. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.05.14.20102558v1">MedRxiv</a></li>
+</ul>
+<p>Die Studie zeigt eindrucksvoll, dass SARS-CoV-2 in der Lage ist, auch Teile des Gehirns zu befallen. In Vitro scheint dies mit Sofosbuvir verhindert werden zu können. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.biorxiv.org/content/10.1101/2020.05.30.125856v1">BioRxiv</a></li>
+</ul>
+<p>Offenbar wird die Vitalität von SARS-CoV-2 auf Plastikoberflächen von Temperaturen beeinflusst. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.05.30.20099143v1">MedRxiv</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>In den Bundesländern wurden verschiedene Verordnungen und Anpassungen zu allgemeinen Lockerungen der Coronabeschränkungen und Neuregelungen der Quarantänenestimmungen bei Rückkehrern erlassen.</p>
+<ul>
+<li><a href="https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/Coronainfos/200609_Dritte_VO_der_LReg_zur_Aenderung_der_CoronaVO.pdf">Baden-Württemberg</a></li>
+<li><a href="https://www.verkuendung-bayern.de/files/baymbl/2020/334/baymbl-2020-334.pdf">Bayern</a></li>
+<li><a href="https://www.berlin.de/corona/massnahmen/verordnung/">Berlin</a></li>
+<li><a href="https://www.landesrecht.brandenburg.de/dislservice/disl/dokumente/8667/dokument/14252">Brandenburg </a></li>
+<li><a href="https://www.gesetzblatt.bremen.de/fastmedia/832/2020_06_09_GBl_Nr_0047_signed.pdf">Bremen</a></li>
+<li><a href="https://www.hamburg.de/verordnung/">Hamburg - gültig seit 10.6.</a></li>
+<li><a href="https://www.hamburg.de/verordnung/13963152/2020-06-15-rechtsverordnung/">Hamburg - gültig ab 15.6.</a></li>
+<li><a href="https://www.hessen.de/fuer-buerger/corona-hessen/verordnungen-und-allgemeinverfuegungen">Hessen - Überblick</a></li>
+<li><a href="https://www.hessen.de/sites/default/files/media/hessen.de_land/gvbl_2020_nr_32.pdf">Hessen - Quarantäne</a></li>
+<li>[Mecklenburg-Vorpommern](<a href="https://www.regierung-mv.de/static/Regierungsportal/Ministerium">https://www.regierung-mv.de/static/Regierungsportal/Ministerium</a> für Wirtschaft%2c Arbeit und Gesundheit/Dateien/Downloads/GVOBl. Nr. 39 v. 10. Juni 2020 - ÄndCor+SM.PDF)</li>
+<li><a href="https://www.niedersachsen.de/download/155887">Niedersachsen</a></li>
+<li><a href="https://www.land.nrw/sites/default/files/asset/document/2020-06-10_fassung_coronabetrvo_ab_15.06.2020.pdf">Nordrhein-Westfalen</a></li>
+<li><a href="https://corona.rlp.de/fileadmin/rlp-stk/pdf-Dateien/Corona/9_bekaempfungsverordnung/200610_9CoBeLVO_konsolidierte_Fassung__001_.pdf">Rheinland-Pfalz</a></li>
+<li><a href="https://corona.saarland.de/DE/service/massnahmen/verordnung-stand-2020-06-10.html">Saarland</a></li>
+<li><a href="https://www.coronavirus.sachsen.de/download/SMS-Saechsische-Corona-Quarantaene-Verordnung-2020-06-12.pdf">Sachsen</a></li>
+<li><a href="https://www.schleswig-holstein.de/DE/Schwerpunkte/Coronavirus/Erlasse/Downloads/200605_VO_neu.pdf?__blob=publicationFile&amp;v=2">Schleswig-Holstein</a></li>
+<li><a href="https://corona.thueringen.de/behoerden/ausgewaehlte-verordnungen">Thüringen</a></li>
+</ul>
+<p>Einen guten Überblick über die Änderungen liefert die folgende Quelle:</p>
+<ul>
+<li><a href="https://www.tagesschau.de/inland/coronakrise-lockerungen-laender-103.html">Tagesschau</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Die Bundesregierung antwortet auf eine Kleine Anfrage mehrerer Abgeordneten zu den Maßnahmen des Bevölkerungsschutzes zur Bewältigung der CoViD-19-Pandemie. Sowohl direkte Maßnahmen, der Einsatz von Hilfsorganisationen, als auch auf KRITIS- und IT-Sicherheitsangriffe wird in der Antwort eingegangen.</p>
+<ul>
+<li><a href="https://dip21.bundestag.de/dip21/btd/19/196/1919676.pdf">Bundestag</a></li>
+</ul>
+<p>Wir hoffen, dass die Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a>.</p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S.: Angesichts der anhaltenden Kontroversen um die Corona-Warnapp der Bundesregierung könnte es sein, dass die App am Ende nur marginale Verbreitung findet. Glaubt man dem ein oder anderen Länderparlament, ist sie damit Homöopathie und ein voller Erfolg und sollte unbedingt durch die Krankenkassen bezahlt werden!</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Bulletin 06.06.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_06_06/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_06_06/</guid><pubDate>Sat, 06 Jun 2020 20:00:00 +0000</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren regelmäßigen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Die Studie untersucht die Erkennung von CoViD-19-positiven Menschen mit axillaren Schweißproben durch Spürhunde. (Studie nicht peer-reviewed, Preprint)</p>
