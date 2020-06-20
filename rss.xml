@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 13 Jun 2020 20:42:15 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Bulletin 13.06.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_06_13/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_06_13/</guid><pubDate>Sat, 13 Jun 2020 20:00:00 +0000</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>CERT Bulletin</title><link>https://bulletin.cert.ccc.de/</link><description>Tagesaktuelle Informationen der C.E.R.T rund um Covid19 und SARS-CoV-2.</description><generator>Hugo 0.67.1 https://gohugo.io/</generator><language>en</language><managingEditor>covid19@cert.ccc.de (Team CERT)</managingEditor><webMaster>covid19@cert.ccc.de (Team CERT)</webMaster><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><lastBuildDate>Sat, 20 Jun 2020 20:02:23 +0000</lastBuildDate><atom:link rel="self" type="application/rss+xml" href="https://bulletin.cert.ccc.de/rss.xml"/><item><title>Bulletin 20.06.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_06_20/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_06_20/</guid><pubDate>Sat, 20 Jun 2020 20:00:00 +0000</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
+Da ihr euch mit unseren regelmäßigen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
+<h2 id="medizin">Medizin</h2>
+<p>Diese Metastudie beschäftigt sich mit der Infektions- und Sterberate von Beschäftigten des Gesundheitssystems durch CoViD-19. Dabei stellt sie fest, dass die Raten derer der Bevölkerung folgen. (Studie nicht peer-reviewed, Preprint)</p>
+<ul>
+<li><a href="https://www.medrxiv.org/content/10.1101/2020.06.04.20119594v1">MedRxiv</a></li>
+</ul>
+<p>Aufgrund unserer dünnen Besetzung diese Woche konnten wir leider nicht mehr medizinischen Content reviewen. Daher noch einmal der Hinweis auf vakante Stellen:</p>
+<ul>
+<li><a href="https://bulletin.cert.ccc.de/career/">CERT Bulletin</a></li>
+</ul>
+<h2 id="rechtliches">Rechtliches</h2>
+<p>In mehreren Bundesländern gab es verschiedene Lockerungen.</p>
+<ul>
+<li><a href="https://www.verkuendung-bayern.de/baymbl/2020-348/">Bayern</a></li>
+<li><a href="https://www.berlin.de/corona/massnahmen/verordnung/">Berlin</a></li>
+<li><a href="https://www.hamburg.de/verordnung/">Hamburg</a></li>
+<li><a href="https://www.hessen.de/sites/default/files/media/nr_33.pdf">Hessen</a></li>
+<li><a href="https://www.niedersachsen.de/download/156268">Niedersachsen</a></li>
+<li><a href="https://www.land.nrw/sites/default/files/asset/document/2020-06-19_fassung_coronaschvo_ab_20.06.2020_lesefassung.pdf">Nordrhein-Westfalen</a></li>
+<li><a href="https://corona.rlp.de/fileadmin/rlp-stk/pdf-Dateien/Corona/10._Bekaempfungsverordnung/10_CoBeLVO.pdf">Rheinland-Pfalz</a></li>
+<li><a href="https://corona.saarland.de/DE/service/massnahmen/verordnung-stand-2020-06-10.html">Saarland</a></li>
+<li><a href="https://www.coronavirus.sachsen.de/download/SMS-Saechsische-Corona-Quarantaene-Verordnung-2020-06-12.pdf">Sachsen</a></li>
+<li><a href="https://corona.thueringen.de/behoerden/ausgewaehlte-verordnungen">Thüringen</a></li>
+</ul>
+<h2 id="technisches">Technisches</h2>
+<p>Tim Pritlove spricht im Podcast mit Malte und Thomas, die die deutsche Corona-Warn-App mitentwickelt haben.</p>
+<ul>
+<li><a href="https://twitter.com/me_ukw/status/1272639279643209729?s=21">Twitter</a></li>
+</ul>
+<h2 id="gesellschaftliches">Gesellschaftliches</h2>
+<p>Wer als Solo-Selbstständiger Soforthilfe beantragt hat, um nicht in existenzielle Not zu geraten, muss laut diesem Bericht fürchten als Betrüger zu gelten.</p>
+<ul>
+<li><a href="https://www.zeit.de/wirtschaft/2020-06/solo-selbststaendige-soforthilfen-coronakrise-betrug-verdacht/komplettansicht">Zeit.de</a></li>
+</ul>
+<p>Die Autoren von zwei großen Beobachtungsstudien zur Behandlung bzw. zur Gefährdung von Patienten mit CoViD-19 haben ihre Publikationen zurückgezogen. Diese sind ursprünglich in den renommierten Journalen The Lancet und New England Journal of Medicine erschienen. Der Rückzug der Publikationen erfolgte aufgrund von Zweifeln an der Datenbasis. Die globale Patientendatenbank der US-Firma Surgisphere, stellt sich offenbar als Schwindel heraus.</p>
+<ul>
+<li><a href="https://www.arznei-telegramm.de/html/2020_06/2006412_01.html">Arznei-Telegramm</a></li>
+</ul>
+<p>Für den Fall, dass die Corona-Warn-App einen Warnhinweis ausgibt, können sich Betroffene bei einem Arzt testen lassen. Dieser Test - nach Warnhinweis durch die App - ist auch ohne Symptome durch den einheitlichen Bewertungsmaßstab (EBM) gedeckt. Der Abstrich wird über Gebührenordnungsposition (GOP) 02402 abgerechnet. Auch für die Laboruntersuchung nach Warnhinweis gibt es neue Gebührenordnungspunkte.</p>
+<ul>
+<li><a href="https://www.kbv.de/html/1150_46657.php">KBV</a></li>
+</ul>
+<p>Wir hoffen, dass die Updates euch eine nützliche Hilfe sind und sein werden.
+Wenn ihr noch wertvolle und fehlende Infos habt, die hier ihren Platz finden sollten, schreibt diese bitte an <a href="mailto:covid19@cert.ccc.de">covid19@cert.ccc.de</a>.</p>
+<p>Wascht die Hände, haltet Abstand, bleibt gesund!</p>
+<p>Grüße
+Euer CERT</p>
+<p>P.S.: Es geschehen noch Zeichen und Wunder; um Linus zu zitieren: &ldquo;Ich bin jetzt hier in der Situation, bei einer Veröffentlichung von SAP, Deutscher Telekom und Bundesregierung keine nennenswerten Mängel beklagen zu können. Das ist auch für mich jetzt schwierig.&rdquo; Wir leben tatsächlich in interessanten Zeiten&hellip;</p>
+]]></description><category domain="https://bulletin.cert.ccc.de/categories/bulletins/">Bulletins</category><category domain="https://bulletin.cert.ccc.de/tags/covid19/">covid19</category><category domain="https://bulletin.cert.ccc.de/tags/cert/">cert</category></item><item><title>Bulletin 13.06.2020</title><link>https://bulletin.cert.ccc.de/posts/2020_06_13/</link><guid isPermaLink="true">https://bulletin.cert.ccc.de/posts/2020_06_13/</guid><pubDate>Sat, 13 Jun 2020 20:00:00 +0000</pubDate><author>covid19@cert.ccc.de (Team CERT)</author><copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright><description><![CDATA[<p>Einen schönen Abend zusammen!
 Da ihr euch mit unseren regelmäßigen Updates rund um das CoViD-19 Virus auf dem Laufenden halten wollt, haben wir hier die neuesten und relevantesten Infos, soweit sie uns bekannt sind, zusammengestellt und gefiltert.</p>
 <h2 id="medizin">Medizin</h2>
 <p>Die Webseite gibt einen schönen Überblick über die aktuell in der Erprobung/Entwicklung befindlichen Impfstoffe:</p>
